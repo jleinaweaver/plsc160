@@ -1,0 +1,109 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+1. What is "science"?
+
+2. Can we study politics "scientifically"?
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. Review and record participation submissions
+
+2. Publish next discussion post
+
+<br>
+
+
+:::
+
+
+
+## {background-image="Images/02_1-monkey_darts_politics.jpg" background-size='85%'}
+
+::: notes
+**Based on the reading, what do you think is the biggest challenge to doing political science as a "science"?**
+
+- *Give them time to explain and explore. Call on people if you must!*
+
+<br>
+
+### Can social scientists follow the scientific method? Why or why not?
++ ("The point is that the scientific method seeks to test thoughts against observable evidence in a disciplined manner, with each step in the process made explicit" (H&D old p24))
+
+(p29: One version of the scientific method)
+1. Identify the concepts / variables to be studied
+2. Form a hypothesis (...proposes a relationship between two or more variables p26)
+3. Gather evidence
+4. Compare evidence to hypotheses, derive conclusions
+5. Discuss the uncertainty in those conclusions
+:::
+
+
+
+## {background-image="Images/02_1-science_process_meme.png" background-size='50%'}
+
+::: notes
+
+The important takeaway for us.
+
+<br>
+
+Science is a process for generating knowledge, not a bucket of facts about the natural world.
+
+- Science is NEVER just about taking someone’s word for something.
+
+- Knowledge that cannot be independently confirmed is not useful.
+
+- We rely only on “observable evidence”
+
+- “each step...made explicit” (p24)
+
+<br>
+
+You can study anything "scientifically."
+
+- Even politics!
+
+### Make sense?
+:::
+
+
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+
+<br>
+
+Mingst & Arreguin-Toft (2017) "Chapter 3, International Relations Theories"
+
+::: notes
+
+For Friday you'll be reading a chapter that will introduce you to some of the big, grand-daddy theories of International Relations.
+
+<br>
+
+### Questions on anything from today?
+:::

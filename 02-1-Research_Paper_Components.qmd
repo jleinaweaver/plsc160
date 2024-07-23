@@ -1,0 +1,64 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+1. What is "science"?
+
+2. Can we study politics "scientifically"?
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. TBD
+
+<br>
+
+
+:::
+
+
+
+## {background-image="Images/background-teal4.png" .center}
+
+::: notes
+
+
+:::
+
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+
+<br>
+
+Mingst & Arreguin-Toft (2017) "Chapter 3, International Relations Theories"
+
+::: notes
+
+For Friday you'll be reading a chapter that will introduce you to some of the big, grand-daddy theories of International Relations.
+
+<br>
+
+### Questions on anything from today?
+:::

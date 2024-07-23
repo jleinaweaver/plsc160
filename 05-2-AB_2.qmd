@@ -1,0 +1,66 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+1. Annotated Bibliography Basics 
+
+2. ?
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. TBD
+
+<br>
+
+
+:::
+
+
+
+## {background-image="Images/background-teal4.png" .center}
+
+::: notes
+
+
+:::
+
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+
+<br>
+
+1. Baglione ch 4
+
+2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+
+::: notes
+
+For next class, read Baglione and focus on the literature review in the Koubi (2019)
+
+<br>
+
+**Questions on the assignment?**
+:::
