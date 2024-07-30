@@ -2,7 +2,7 @@ Data, slides and errata for my class at Drury University (PLSC 160: Political In
 
 01-1-Welcome_to_Inquiry.html
 
-01-2-Science.html
+01-2-Science_and_Facts.html
 
 02-1-Research_Paper_Components.html
 

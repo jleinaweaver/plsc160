@@ -2,8 +2,7 @@
 format: revealjs
 ---
 
-
-## Inquiry in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
 
 ```{r}
 # background-size="1920px 1080px"
@@ -14,8 +13,12 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-Make a list of **positive** and **negative** things the US has done on the world stage in the last 20 years.
+
+Welcome to PLSC 160: Inquiry in Political Science
+
 :::
+
+<br>
 
 <br>
 
@@ -28,419 +31,287 @@ Prep for Class
 
 1. Update attendance list before class
 
-2. Make sure this week's modules visible in Canvas
-
-<br>
-
-*As students come in*
-
-Welcome all.
-
-- Sit down, introduce yourself to the people around you and get chatting about my prompt on the board.
-
-- Build two lists as a group!
-
-<br>
-
-*ON BOARD*
-
-### Ok, what is on your lists?
-
-- SHARE and DISCUSS
-
-<br>
-
-**SLIDE**: Let's make sure we're all in the right place!
 :::
 
 
-## Introductions {background-image="Images/background-teal4.png"  .center}
+## Introductions {background-image="Images/Background-Rally_v2.png"  .center}
 
 <br>
+
+::: {.r-fit-text}
 
 1. Name
 
-2. Year in school
+2. How do you "follow" the news?
 
-3. Major
+3. What news stories have your attention?
 
-4. Earliest memory of a "big" international event
-
-::: notes
-
-1. Name: I'm Dr. Leinaweaver.
-
-2. Year in school: 12th year at Drury
-
-3. Major: Political scientist with primary research interests in international policy-making and problem-solving
-
-4. Earliest memory? Berlin wall coming down and finding out our world map had to change. Kind of blew my mind.
-
-<br>
-
-### Your turn!
-
-<br>
-
-**SLIDE**: Back to the board!
 :::
 
-
-## On balance, has the US been a net positive or negative influence on the world over the last 20 years? {background-image="Images/background-teal4.png" .center}
-
 ::: notes
 
-All of this adds up to a big, tough to handle question.
+While you introduce yourselves, I'll take notes!
 
-- I don't want to pretend our lists on the board are comprehensive or that this question isn't crazy reductive.
+- *ON BOARD: Sources and Big Stories*
+
+- For the second one, help us build a list of specific news sources you follow or often see stories from
+
+- For the last one, what specific things have been capturing your attention?
+    - Try to be specific with this
+    
+    - Not just "the election" but what specific aspects or events tied to it have caught your attention?
 
 <br>
 
-However, I'd like to take this opportunity to get a sense of how our class thinks about the role of the US in the world BEFORE we start our work this semester.
+My turn!
 
-### So, what do you think?
+- I'm Dr. Leinaweaver.
+
+- I have the news diet of a crazy person
+    - Daily: WSJ, NYT, Washington Post, News-Leader and the SGF Daily Citizen
+    
+    - Plus Foreign Policy magazine and political science journals...
+
+- *add a recent news story to the list*
+
+<br>
+
+Before we discuss these two lists, let's talk about why you're here!
 
 :::
 
 
 
-## {background-image="Images/01_1-international-certificate.jpg"}
+## Required Courses in PLSC {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-PLSC_Major_Required_Courses.png")
+```
 
 ::: notes
-
-Welcome to International Relations (IR).
-
-<br>
-
-Our job this semester is to analyze "politics" happening at the international level.
-
-- What does that mean? We'll get there!
+All poli sci majors must complete this set of required courses
 
 <br>
 
-Today's Agenda: Set up our class and plan for the semester
+The first three introduce you to the different specialties within political science
+
+- **For those who have taken 101, what kinds of questions were you pushed to consider in that class?**
+
+- **How about in comparative? Key questions explored?**
+
+- **And in IR what were the big questions you explored?**
+
+<br>
+
+The second three courses, inquiry, data analysis and research design, are designed to teach you how to do your own research
+
+- Not just read and consider how others have asked and answered big questions, but how YOU can ask and answer them too
+
+<br>
+
+And finally, in Senior Seminar, you put it all into practice by designing and executing a research project
+    
+<br>
+
+SLIDE: Specifically, in this class we'll focus on...
+
 :::
 
 
-## Learning Outcomes {background-image="Images/background-teal4.png"  .center}
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+Inquiry in Political Science is meant to teach you how to set up a research project with these three components
+
+<br>
+
+You will learn to:
+
+- Develop and refine research questions,
+
+- Identify the extent of our knowledge on those questions,
+
+- Develop theoretical answers to those questions, and
+
+- To communicate your research plans to others
+
+<br>
+
+SLIDE: Let's practice this process so you can see better what I'm talking about!
+
+:::
+
+
+
+## Brainstorming a Research Project {background-image="Images/Background-Rally_v2.png" .center}
 
 ::: {.incremental}
-- LO 1: Learn about the big ideas and debates of IR scholars
+1. Pick one news story and describe precisely what happened that caught your attention
 
-- LO 2: Learn to use the tools of IR scholars to explain events
+2. Phrase what happened as a question
 
-- LO 3: Use the tools to explain international political events
+3. Give us one possible answer for the question
 
-- LO 4: Write convincing arguments
+4. What evidence in the world would you expect to find if your answer was correct?
+
+5. Which sources from our list would you use for gathering this evidence? Why?
+
 :::
 
 ::: notes
 
-Big picture, we have four learning outcomes this semester.
+Let's try this one time, working together as a class
 
-- All four are in the syllabus, but let me simplify them for you.
-
-<br>
-
-1. Content Knowledge
-    - Learn the big ideas and basic definitions you need to explain international political events.
-
-2. Methods Knowledge
-    - Learn to use the tools of social scientists for analyzing international political events.
-
-3. Critical Thinking & Problem Solving Skills
-    - Practice applying social science tools to solve big problems and answer important questions.
-
-4. Communication Skills
-    - Practice writing logical, clear, credible and critical arguments so good that they will convince smart people you are right!
+- *TRACK ON BOARD*
 
 <br>
 
-### Everybody good with these?
+We'll spend the semester unpacking this exercise and helping you better understand these steps, but in short we just:
+
+- Designed a research question focused on a specific outcome of interest
+
+- Designed a theory meant to explain why that outcome happened, 
+
+- Proposed testable implications for your theory (e.g. hypotheses), and
+
+- Evaluated available sources of data for testing your theory
 
 <br>
 
-**SLIDE**: To make progress on these LOs I've divided the semester into four sections.
+**In broad strokes, does this make sense?**
+
+<br>
+
+Ok, pair off and do this exercise using one of the other news items from our list on the board!
+
+- Shall we all work on the same outcome again?
+
+<br>
+
+*REPORT BACK and DISCUSS each*
 
 :::
 
 
 
-## Semester Outline: Section 1 {background-image="Images/background-teal4.png" .center}
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
 
 <br>
 
-**Arguments, Evidence and International Relations**
+::: {.r-fit-text}
 
-- Making logical arguments,
+Designing a "good" research proposal requires:
 
-- Testing those arguments scientifically, and
+- A compelling research question,
 
-- Learning to think in terms of models
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
 
 ::: notes
 
-Section 1 sets us up for the semester.
+Congrats to all, you are know thinking like scientific researchers!
 
-:::
-
-
-
-## Semester Outline {background-image="Images/background-teal4.png" .center}
+- Once you learn to think like this you will see research questions, theories and evidence quality EVERYWHERE YOU LOOK!
 
 <br>
 
-1. Arguments, Evidence and International Relations
+Even more importantly, learning to think in terms of research quality will also make you a better consumer of the news 
 
-2. Why Are There Wars?
+- As you learn how tenuous and difficult it is to produce knowledge you will, hopefully, become much more careful in the conclusions you draw about the world
 
-3. Why is it so Hard to Cooperate With Other Countries?
-
-4. What is the Future of Transnational Politics and IR?
-
-::: notes
-
-Alright, so that's our plan for the semester.
-
-### Questions on this?
+- And you will come to demand more from the sources you rely on
 
 :::
 
 
 
-## {background-image="Images/01_1-newspapers.jpg"}
-
-::: notes
-
-We will kick off most classes with current events discussions.
-
-- This REQUIRES you to follow global news!
+## All Supporting Material is on Canvas  {background-image="Images/Background-Rally_v2.png"  .center}
 
 <br>
-
-**Part of your job in this class is to keep up with international current events!**
-
-- Skim the international section of a good news site everyday.
-
-- Let's make sure we always have current events we can draw on in our discussions!
-:::
-
-
-
-## Course Grade {background-image="Images/background-teal4.png"}
-
-```{r}
-tibble(
-  col1 = c("Participation", "Argument Paper 1", "Argument Paper 2", "Argument Paper 3", "Total"),
-  col2 = c("", "(Feb 9)", "(Mar 22)", "(Final Exam)", ""),
-  col3 = c(rep(25, 4), 100)
-) |>
-  kableExtra::kbl(align = c("l", "c", "c"), col.names = c("", "", "%")) |>
-  kableExtra::kable_styling(font_size = 50) |>
-  kableExtra::column_spec(1, width = "11em") |>
-  kableExtra::column_spec(2, width = "7em") |>
-  kableExtra::row_spec(c(0, 5), bold = TRUE, background = "#b3ccff")
-```
-
-::: notes
-Course grade is pretty simple.
-
-- Four equal pieces because being here and being engaged is as important to me as you learning to write convincing academic arguments.
-
-<br>
-
-Let's talk attendance and participation.
-:::
-
-
-
-## The Attendance Cliff {background-image="Images/background-teal4.png"}
 
 ```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-coyote.jpg")
+knitr::include_graphics("Images/01_1-Canvas_Homepage.png")
 ```
 
 ::: notes
-NOTE: This is an intro class, don't rush this!!!
+Everybody log into Canvas with me and let's get oriented in our class infrastructure!
 
 <br>
 
-My attendance policy is simple.
+*Log into Canvas, set to student view and step them through the main pages*
 
-- The only way I can ensure everyone makes progress on the LOs is by being in class and doing the work.
+- Home page,
 
-- This means I have to make sure you are here!
+- Grades,
 
-<br>
+- Assignments,
 
-To help encourage you I use an attendance cliff.
-
-- Anyone with more than FOUR unexcused absences in the semester cannot earn higher than a ‘C’ in the course
-
-- Regardless of grades earned on other assignments.
-
-<br>
-
-### Questions on this?
+- Modules (with readings and assignment for Thursday)
 :::
 
 
-## Keep me in the loop! {background-image="Images/background-teal4.png"}
+
+## The answer is probably in the syllabus  {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
 
 ```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-office_space.jpg")
+knitr::include_graphics("Images/01_1-Course_Syllabus.png")
 ```
 
 ::: notes
-What if you have an excused absence coming up?
 
-- **It is your responsibility to email me BEFORE the absence in order to receive a make-up assignment.**
+Everybody open the syllabus and let's hit the highlights!
 
-- Easy peasy
+- LOs
 
-<br>
+- Grade composition
 
-This is also the place where I say to you, whatever is going on that might keep you out of class, please keep me in the loop. 
+- Attendance cliff (> 3 unexcused absences)
 
-- I genuinely want you to make progress on our learning outcomes
+- Participation points
 
-<br>
+- Paper requirements: APA, submitted on Canvas, NO AI TOOLS
 
-So, if things are getting rough for you please come talk to me.
-
-### I will always offer you flexibility in the face of struggle IF YOU COME TO ME BEFORE DEADLINES HAVE PASSED!
+- Weekly plan (should essentially match the modules on Canvas)
 
 <br>
 
-### Questions on this?
+**Any questions on our aims for the semester or my expectations for you as represented by the syllabus?**
+
 :::
 
 
-
-## {background-image="Images/background-teal4.png"}
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-participation-points.jpg")
-```
-
-::: notes
-Ok, so I've got you coming to class now how do I make sure you're engaged?
-
-- Participation points!
+## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
 
 <br>
 
-Basically, if you:
+::: {.r-fit-text}
 
-- Get to class on time,
+1. Donovan and Hoover (2014) Chapter 2
 
-- Have the materials you need to work, and
+2. Canvas assignment due before class
 
-- Submit all daily required assignments BEFORE class,
-
-You'll be good to go and these are easy free points.
-
-<br>
-
-Before most classes we will have a reading and a discussion question.
-
-- You must submit your answer to that question on our Canvas discussion board BEFORE class begins to earn your participation point.
-
-- The syllabus is marked for all class sessions that have a pre-class assignment
-
-<br>
-
-### Important note: Canvas will not tell you about discussion post requirements in your to do list. You have to keep track using the syllabus.
-
-<br>
-
-### Each participation point you lose will reduce your participation grade by 1/3 of a letter grade
-
-### - e.g. A, A-, B+, B, B-, C+, etc.
-
-<br>
-
-### Questions on this?
 :::
 
-
-
-## {background-image="Images/01_1-matrix_meme.jpg"}
-
 ::: notes
-Your first job is to download the syllabus from Canvas and read it carefully.
-
-It includes detail on everything you need to know.
-- Assignment deadlines
-- Readings
-- Drury policies
-- Office hours
-
-ALSO, I can see who downloaded it, so don’t delay!
-
-<br>
-
-We'll be using Canvas for submitting assignments, posting to the discussions and accessing the class readings.
-
-- Let me know if you have trouble accessing our materials on Canvas.
-:::
-
-
-
-## {background-image="Images/background-teal4.png"}
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-Canvas_Modules_SP24.png")
-```
-
-::: notes
-Speaking of Canvas!
-
-- ALL of the assigned readings and daily assignments are available on Canvas in the "Modules" section.
-
-- I have organized the Modules by week of the semester to mirror the structure of the syllabus
-
-<br>
-
-The syllabus includes many web links, but if they don't work I have uploaded backups onto Canvas.
-
-- ALL of the assigned readings should be on Canvas
-
-- Please let me know BEFORE class if you ever can't find an assigned reading.
-
-<br>
-
-Here you can see your assignment for Friday.
-
-- Labossiere is a short reading on evaluating the logic of an argument
-
-- Then we have two short arguments that we can diagram and analyze
-
-- The last item is the discussion board where you will submit your first participation assignment
-:::
-
-
-
-## {background-image="Images/background-teal4.png"}
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-Canvas_Modules2_SP24.png")
-```
-
-::: notes
-So, after you complete the readings go to the discussion board and answer these two questions.
-1. How convinced are you by Aseyev's (2022) argument? Why or why not?
-2. How convinced are you by Kuo's (2023) argument? Why or why not?
-
-<br>
-
-I have found that requiring these pre-class questions sets us up for much livelier engagement in class!
-
-### Questions on what I'm asking you to do?
-
-- NOTE: The forum closes BEFORE class starts (9:59 am) so make sure to get these in!
-
-<br>
-
-Welcome to the class and let me know if you have any questions!
+**Questions on the assignment?**
 :::
