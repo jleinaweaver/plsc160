@@ -36,8 +36,6 @@ Prep for Class
 
 ## Canvas is the backbone of our class {background-image="Images/Background-Rally_v2.png"  .center}
 
-<br>
-
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_1-Canvas_Homepage.png")
 ```
@@ -55,8 +53,6 @@ knitr::include_graphics("Images/01_1-Canvas_Homepage.png")
 
 
 ## The answer is probably in the syllabus  {background-image="Images/Background-Rally_v2.png" .center}
-
-<br>
 
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_1-Course_Syllabus.png")
@@ -97,18 +93,33 @@ Big picture aims for today:
 
 <br>
 
+SLIDE: My notes
+
+:::
+
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
 "The point is that the scientific method seeks to test thoughts against observable evidence in a disciplined manner, with each step in the process made explicit" (H&D old p24, new p29?).
 
+::: {.incremental}
 - We must clearly identify and define our concepts,
 
-- We must generate and clearly explain our theories and hypotheses,
+- We must clearly explain our theories and hypotheses,
 
 - We must THEN gather appropriate, high quality evidence
 
-- We must than analyze out hypotheses using data, and
+- We must analyze our hypotheses using data, and
 
 - We must acknowledge the uncertainty in our conclusions
+:::
 
+::: notes
+
+REVEAL x 5
 
 :::
 
@@ -171,7 +182,9 @@ knitr::include_graphics("Images/01_2-Evaluation.png")
 
 ::: notes
 
-GROUPS: I want you to review and then classify each submitted fact by your level of confidence: High, Moderate, Low or None
+GROUPS
+
+1. I want you to review and then classify each submitted fact by your level of confidence: High, Moderate, Low or None
 
 - Make sure to keep a record of your decisions (and points of contention!)
 
@@ -206,7 +219,9 @@ knitr::include_graphics("Images/01_2-cartoon_race.webp")
 
 ::: notes
 
-With scores in hand now go through and select a top-5 list (facts you are most confident in) and a bottom-5 (least confident in).
+GROUPS
+
+2. With scores in hand now go through and select a top-5 list (facts you are most confident in) and a bottom-5 (least confident in).
 
 - Get ready to present both lists to the class.
 
@@ -226,9 +241,13 @@ With scores in hand now go through and select a top-5 list (facts you are most c
 
 ::: notes
 
-With your scores and rankings complete I now want you to step back and generalize from the exercise.
+GROUPS
 
-- Make two lists of characteristics for us.
+3. With your scores and rankings complete I now want you to step back and generalize from the exercise.
+
+<br>
+
+Make two lists of characteristics for us.
 
 - Focus on the top-5 and describe what they have in common or what they did so well
 
@@ -264,7 +283,31 @@ knitr::include_graphics("Images/01_2-Canvas_Assignment.png")
 
 ::: notes
 
-FIRST, ALL facts are tenuous and knowledge is constantly evolving
+*DISCUSS*
+
+<br>
+
+SLIDE: My takeaways...
+
+:::
+
+
+
+## Political "Science": Key Takeaways {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.incremental}
+::: {.r-fit-text}
+1. ALL facts are tenuous
+
+2. Be humble in your knowledge
+
+3. Science is never finished
+:::
+::::
+
+::: notes
+
+REVEAL: FIRST, ALL facts are tenuous and knowledge is constantly evolving
 
 - Stop being precious about facts! 
     
@@ -272,7 +315,7 @@ FIRST, ALL facts are tenuous and knowledge is constantly evolving
 
 <br>
 
-SECOND, be humble in your knowledge
+REVEAL: SECOND, be humble in your knowledge
 
 - Even the person with the most "knowledge" in the world knows almost nothing compared to the sheer amount we don't yet know
 
@@ -280,7 +323,9 @@ SECOND, be humble in your knowledge
 
 <br>
 
-SLIDE: FINALLY, we embrace science because it is a method for developing knowledge that is built on this idea of change
+REVEAL: FINALLY, we embrace science because it is a method for developing knowledge that is built on this idea of change
+
+- SLIDE: Elaborate on third point
 
 :::
 
@@ -312,18 +357,25 @@ Bottom line, you can study anything "scientifically."
 
 
 
-
-
 ## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
 
 <br>
 
-The Components of Peer-Reviewed Research
-
-- Readings on the big picture task of writing a research paper and "how to read" journal articles
-
-- *Bring to class for practice:* Fortna, Lotito & Rubin (2018)
+### What do you have to have completed before our next class?
 
 ::: notes
-Questions on anything from today?
+
+The Components of Peer-Reviewed Research
+
+1. Baglione Chapter 1; 
+
+2. Krippner (2000), 
+
+3. Hoover Green (2013) and 
+
+4. BRING TO CLASS: Research Article 1: Fortna, V. P., Lotito, N. J., & Rubin, M. A. (2018). Don’t Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars. International Studies Quarterly, 62(4), 782–794
+
+<br>
+
+**Questions on anything from today?**
 :::

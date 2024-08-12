@@ -31,6 +31,12 @@ Prep for Class
 
 1. Update attendance list before class
 
+<br>
+
+Welcome all!
+
+- SLIDE: This is a good crew, so let's dive straight in befor we talk about the class
+
 :::
 
 
@@ -50,15 +56,17 @@ Prep for Class
 
 ::: notes
 
+*ON BOARD*
+
 While you introduce yourselves, I'll take notes!
 
-- *ON BOARD: Sources and Big Stories*
+- We'll use this as a chance to make two lists
 
-- For the second one, help us build a list of specific news sources you follow or often see stories from
+<br>
 
-- For the last one, what specific things have been capturing your attention?
-    - Try to be specific with this
-    
+1. Sources: Help us build a list of specific news sources you follow or often see stories from
+
+2. News: What specific news items have been capturing your attention?
     - Not just "the election" but what specific aspects or events tied to it have caught your attention?
 
 <br>
@@ -91,31 +99,82 @@ knitr::include_graphics("Images/01_1-PLSC_Major_Required_Courses.png")
 ```
 
 ::: notes
+
 All poli sci majors must complete this set of required courses
 
+:::
+
+
+
+## Required Courses in PLSC {background-image="Images/Background-Rally_v2.png"  .center}
+
 <br>
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-PLSC_Major_Required_Courses2.png")
+```
+
+::: notes
 
 The first three introduce you to the different specialties within political science
 
-- **For those who have taken 101, what kinds of questions were you pushed to consider in that class?**
+<br>
 
-- **How about in comparative? Key questions explored?**
-
-- **And in IR what were the big questions you explored?**
+**For those who have taken 101, what kinds of questions were you pushed to consider in that class?**
 
 <br>
+
+**How about in comparative? Key questions explored?**
+
+<br>
+
+**And in IR what were the big questions you explored?**
+
+:::
+
+
+
+## Required Courses in PLSC {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-PLSC_Major_Required_Courses3.png")
+```
+
+::: notes
 
 The second three courses, inquiry, data analysis and research design, are designed to teach you how to do your own research
 
-- Not just read and consider how others have asked and answered big questions, but how YOU can ask and answer them too
+<br>
+
+Not just to read and consider how others have asked and answered big questions, but how YOU can ask and answer them too
 
 <br>
 
-And finally, in Senior Seminar, you put it all into practice by designing and executing a research project
-    
+These are the classes designed to teach you to be a practicing social scientist.
+
+:::
+
+
+
+## Required Courses in PLSC {background-image="Images/Background-Rally_v2.png"  .center}
+
 <br>
 
-SLIDE: Specifically, in this class we'll focus on...
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-PLSC_Senior_Seminar_Catalog.png")
+```
+
+::: notes
+
+All of that, plus the electives you will choose for yourself, sum together in the Senior Research Seminar
+
+- The Fall of your senior year you will design and execute a research project!
+
+<br>
+
+SLIDE: So, let's talk about what we do in this class
 
 :::
 
@@ -178,9 +237,28 @@ SLIDE: Let's practice this process so you can see better what I'm talking about!
 
 Let's try this one time, working together as a class
 
-- *TRACK ON BOARD*
+- *5 prompts, track choices ON BOARD*
 
 <br>
+
+SLIDE: Discuss the results...
+:::
+
+
+
+## Brainstorming a Research Project {background-image="Images/Background-Rally_v2.png" .center}
+
+1. Pick one news story and describe precisely what happened that caught your attention
+
+2. Phrase what happened as a question
+
+3. Give us one possible answer for the question
+
+4. What evidence in the world would you expect to find if your answer was correct?
+
+5. Which sources from our list would you use for gathering this evidence? Why?
+
+::: notes
 
 We'll spend the semester unpacking this exercise and helping you better understand these steps, but in short we just:
 
@@ -198,13 +276,21 @@ We'll spend the semester unpacking this exercise and helping you better understa
 
 <br>
 
-Ok, pair off and do this exercise using one of the other news items from our list on the board!
+Let's practice this again!
 
-- Shall we all work on the same outcome again?
+- **Which story should we focus on?**
+
+<br>
+
+Pair off and do this exercise through the five prompts
+
+- Get ready to report back!
 
 <br>
 
 *REPORT BACK and DISCUSS each*
+
+- Make sure to note that even working from the same story we should get very different operationalizations of the outcome AND theoretical stories!
 
 :::
 
@@ -239,13 +325,15 @@ Even more importantly, learning to think in terms of research quality will also 
 
 - And you will come to demand more from the sources you rely on
 
+<br>
+
+SLIDE: Let's talk about the design of the class
+
 :::
 
 
 
 ## All Supporting Material is on Canvas  {background-image="Images/Background-Rally_v2.png"  .center}
-
-<br>
 
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_1-Canvas_Homepage.png")
@@ -269,9 +357,7 @@ Everybody log into Canvas with me and let's get oriented in our class infrastruc
 
 
 
-## The answer is probably in the syllabus  {background-image="Images/Background-Rally_v2.png" .center}
-
-<br>
+## The answer is in the syllabus   {background-image="Images/Background-Rally_v2.png" .center}
 
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_1-Course_Syllabus.png")
@@ -287,6 +373,8 @@ Everybody open the syllabus and let's hit the highlights!
 
 - Attendance cliff (> 3 unexcused absences)
 
+- Excused absence coming up? **It is your responsibility to email me BEFORE the absence in order to receive a make-up assignment.**
+
 - Participation points
 
 - Paper requirements: APA, submitted on Canvas, NO AI TOOLS
@@ -297,21 +385,46 @@ Everybody open the syllabus and let's hit the highlights!
 
 **Any questions on our aims for the semester or my expectations for you as represented by the syllabus?**
 
+<br>
+
+Please keep me in the loop this semester!
+
+- I genuinely want you to make progress on our learning outcomes
+
+- So, if things are getting rough for you please come talk to me.
+
+- I will always offer you flexibility in the face of struggle IF YOU COME TO ME BEFORE DEADLINES HAVE PASSED!
+
+<br>
+
+**Questions on this?**
+
 :::
+
 
 
 ## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
 
 <br>
 
-::: {.r-fit-text}
-
-1. Donovan and Hoover (2014) Chapter 2
-
-2. Canvas assignment due before class
-
-:::
+### What do you have to have completed before our next class?
 
 ::: notes
+
+**Check the syllabus and Canvas modules and report back!**
+
+<br>
+
+1. Arbesman (2012) Chapter 1
+
+2. Donovan and Hoover (2014) Chapter 2
+
+3. ASSIGNMENT: Find an example from a recent news story that asserts a NEW "fact" about the political world that you are confident is true (avoid overlapping submissions). 
+    1. What is the NEW "fact"? 
+    2. Provide an APA citation to the evidence 
+    3. Explain why your confidence in the NEW fact is high. Try to draw connections between your evaluation and the ideas proposed in the assigned readings for today.
+
+<br>
+
 **Questions on the assignment?**
 :::
