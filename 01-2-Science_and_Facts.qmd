@@ -103,7 +103,7 @@ SLIDE: My notes
 
 <br>
 
-"The point is that the scientific method seeks to test thoughts against observable evidence in a disciplined manner, with each step in the process made explicit" (H&D old p24, new p29?).
+"The point is that the scientific method seeks to test thoughts against observable evidence in a disciplined manner, with each step in the process made explicit" (H&D p30).
 
 ::: {.incremental}
 - We must clearly identify and define our concepts,
@@ -121,6 +121,46 @@ SLIDE: My notes
 
 REVEAL x 5
 
+:::
+
+
+
+## The Half-life of Facts {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### What are your takeaways from the Arbesman (2012) chapter?
+
+::: {.fragment}
+- Facts have a "half-life"
+
+- Facts can be classified by their speed of change
+
+- Studying the spread of knowledge is valuable 
+:::
+
+::: notes
+
+Facts change all the time (p2)
+
+- Smoking was once doctor recommended, meat / eggs good and or bad for you, Earth was center of the universe in our models, dinosaurs now have feathers!
+
+<br>
+
+"Facts, in the aggregate, have half-lives (p2)
+
+- We can measure the amount of time for half of a subject's knowledge to be overturned" (p3).
+
+- Classified along a dimension running from "fast-changing facts" (e.g. weather forecast, stock market close) to "very slow-changing facts" (e.g. number of fingers on your hand). (p6)
+
+- Majority of facts in the middle, **"mesofacts"** change at the middle timescale
+
+<br>
+
+Accepting this truth, will help you make sense of the world!
+
+- **Uncertainty is a natural** part of the evolution of our knowledge, NOT SOMETHING TO BE FEARED!
+    
 :::
 
 
