@@ -14,11 +14,11 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. What is "science"?
-
-2. Can we study politics "scientifically"?
+Evaluating the research questions from 494
 
 :::
+
+<br>
 
 <br>
 
@@ -33,15 +33,130 @@ Prep for Class
 
 <br>
 
+On Tuesday we dug deeply into the concept of research questions
+
+- Why do we need them?
+
+- What makes a "good" research question?
+
+- And how do we generate new research questions?
 
 :::
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## Science Requires Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+A research question **focuses** your work, **drives** your progress and let's you know when you're **done**
+
+<br>
+
+A good question...
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
 
 ::: notes
 
+**Any questions on the research question material we explored last class?**
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png"  .center}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-PLSC_Senior_Seminar_Catalog.png")
+```
+
+::: notes
+
+Currently in Senior Seminar a group of seniors in our department are working hard to design and execute a research project
+
+- Today we get a chance to help them do it!
+
+<br>
+
+This will give you a chance to see first-hand an exercise that you will be taking on in a few years
+
+- We'll try and do this style of feedback exercise a couple times this semester
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png"  .center}
+
+::: {.r-fit-text}
+
+**The Prompt**
+
+1. What is your research question?
+
+2. What brought you to this topic? 
+
+3. Why should we care about it?
+
+:::
+
+::: notes
+
+This is the assignment prompt Dr. Ponder gave his students
+
+- Our job today will be to review and evaluate those questions then to provide feedback to those students
+
+- My hope is that for each question we can give them something useful in terms of what we like and what needs clarification or revising
+
+:::
+
+
+
+
+## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### A good question...
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+::: notes
+
+We'll use the criteria from the readings to help guide our evaluations
+
+- **Any questions on the criteria before we apply them?**
+
+<br>
+
+*Split glass into groups, one group per submitted research question*
+
+- Go sit with your group!
+
+<br>
+
+GROUPS, take five minutes to review the submission and get ready to present it to the class
+
+- Keep it simple, give us the question and your reaction to it
+
+- We'll then work together to decide on the feedback we want to provide
+
+<br>
+
+Ok, time to kick off our discussions
+
+- Each group should take notes on their assigned question
+
+- At the end of class, each group will clean up the feedback and get it ready to return to each senior
+
+- Then email me it to me so I can provide the feedback to the students in 494.
+
+- *PRESENT and DISCUSS each*
 
 :::
 
@@ -50,15 +165,16 @@ Prep for Class
 
 ## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
 
-<br>
+![](Images/03_2-ASSIGN.png)
 
-Mingst & Arreguin-Toft (2017) "Chapter 3, International Relations Theories"
 
 ::: notes
 
-For Friday you'll be reading a chapter that will introduce you to some of the big, grand-daddy theories of International Relations.
+Next week we begin developing a class research proposal
+
+- That means we need a research question to organize our work
 
 <br>
 
-### Questions on anything from today?
+### Questions on the assignment?
 :::

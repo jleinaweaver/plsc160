@@ -14,11 +14,11 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-**Designing "Good" Research Questions**
+**Practice Designing "Good" Research Questions**
 
-- How do we write research questions?
+- Evaluate research questions in the literature
 
-- How do we make them "better"?
+- Generate new research questions
 
 :::
 
@@ -31,277 +31,424 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. BRING all annotated research articles from last week
+
+2. Readings
+    - Baglione Chapter 2
+    - [Huntington-Klein, N. (2022) Chapter 2](https://theeffectbook.net/ch-ResearchQuestions.html)
 
 <br>
+
+This week we focus in on the first element of an excellent research proposal: the research question
+
+- Today I want us to practice both evaluating established questions and generating new ones
+
+<br>
+
+Before class I asked each of you to complete two readings on the basic concepts and strategies we need to do these two agenda items
+
+- SLIDE: Let's make sure we're all on the same page with the basics
 
 :::
 
 
 
-## Baglione (2019) Chapter 2 {background-image="Images/Background-Rally_v2.png" .center}
-
-
-
-
-
-## Huntington-Klein, N. (2022) Chapter 2 {background-image="Images/Background-Rally_v2.png" .center}
-
-
-
-
-## "Research Questions" {background-image="Images/Background-Rally_v2.png" .center}
-
-**(Huntington-Klein 2022)**
+## Why do we need a research question? {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-::: {.r-fit-text}
-**What is a research question?**
+::: {.fragment}
+
+A research question **focuses** your work, **drives** your progress and let's you know when you're **done**
+
 :::
 
 ::: notes
 
-Today's reading is all about helping us see the difference between questions and RESEARCH questions.
-
-- A very important distinction.
+**Per the readings, why do we need a research question at all?**
 
 <br>
 
-### Per the reading, what is the first key element that distinguishes a "question" from a "research question"?
+**Did the two readings agree on the answer to this question? Why or why not?**
 
-- (**SLIDE**)
+- (Generally speaking, yes, research questions importantly focus our work)
+
+- Also offer us two different perspectives: one a student centric approach focused on doing your first project and the other from a professional methodologist 
+
+<br>
+
+REVEAL: My takeaway
+
+<br>
+
+I especially like Baglione's idea that a good research question gives us a progress bar for our research.
+
+- Along the way we simply ask ourselves, have we answered the question or not?
+
+- And, is my answer convincing or not?
+
+<br>
+
+**Does everybody understand why we use research questions to help us explain the political world?**
+
+<br>
+
+*Notes from the Readings*
+
+*Baglione (p19):*
+
+1. "Topics are too broad" and contain many, many possible issues
+    - Questions focus you on what is manageable 
+2. Questions link you to controversies, controversies lead you to academic literature
+3. Questions demand an answer and the need for an answer helps you move forward and track how far you've gone
+
+
+*Huntington-Klein:*
+
+1. Exploring data without a question, data mining, can help you find patterns but not help you to understand why things happen
+2. Without a disciplined research question, there’s no reason not to just check everything! Something is going to pop up as related by random chance if you check enough stuff.
 
 :::
 
 
 
-## "Research Questions" {background-image="Images/Background-Rally_v2.png" .center}
 
-**(Huntington-Klein 2022)**
-
-<br>
-
-**A research question:**
-
-1. Can be answered
-
-::: notes
-
-It means that it’s possible for there to be some set of evidence in the world that, if you found it, your question would have a believable answer. 
-
-- The book chapter gives an example: what is the best James Bond movie?
+## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-### Why can't that be answered?
-
-### - What if we collected survey data asking people to rank their favorite Bond movies in order? Wouldn't that do it?
-
-- (That's a measure of "popularity" not "quality"!)
-
-<br>
-
-### Give me some examples of other questions that cannot be answered with empirical data.
-
-<br>
-
-### Everybody clear on the first criteria?
-
-<br>
-
-### What is the second key element that distinguishes a "question" from a "research question"?
-
-- **SLIDE**
-
-:::
-
-
-
-## "Research Questions" {background-image="Images/Background-Rally_v2.png" .center}
-
-**(Huntington-Klein 2022)**
-
-<br>
-
-**A research question:**
-
-1. Can be answered
-
-2. Improves our understanding of how the world works.
-
-::: notes
-
-A good research question leads to an answer that will improve your understanding of how the world works.
-- It should inform theory in some way.
-
-<br>
-
-### Alright then, what is "theory"?
-- (Theory just means that there’s a *why* underpinning your view of the world)
-
-- Theory explains why we think the relationships we see in the world are happening 
-
-<br>
-
-**SLIDE**: You've encountered a TON of theories in your time in poli sci so far
-:::
-
-
-
-## {background-image="Images/03_1-soldier-British-trench-Western-Front-World-War.webp" .center}
-
-::: notes
-
-Essentially, the entire specialization of International Relations exists to propose and test alternative theories of why wars happen.
-
-- Given that war is a devastating and risky activity, it is a puzzle that states keep starting them!
-
-<br>
-
-Selected IR theories to explain war:
-
-- Neorealism: War is the result of states' worrying about their security
-
-- Institutionalism: War is the result of survival fears overwhelming our institutions of international cooperation 
-
-- Economic liberalism: War should be less likely in a world of interdependent trade and specialization
-
-- and on, and on
-
-<br>
-
-None of these theories can be proven, BUT each makes specific predictions about the world and our research questions can help us set up projects to test them.
-
-- Neorealists might propose a research question like: Does the risk of conflict increase when states invest in purely defensive technologies only? e.g. Do security dilemmas actually exist?
-
-- Institutionalists might propose a research question like: Does UN involvement in a conflict zone shorten wars?
-
-- And economic liberals might propose a research question like: Do states that participate more in international trade specialize in fewer types of goods and services?
-
-<br>
-
-### Does this theory piece make some sense?
-
-:::
-
-
-
-## "Research Questions" {background-image="Images/Background-Rally_v2.png" .center}
-
-**(Huntington-Klein 2022)**
-
-<br>
-
-**A research question:**
-
-1. Can be answered
-
-2. Improves our understanding of how the world works.
-
-::: notes
-
-You almost certainly have a million intuitions about how and why the world works like it does.
-
-- Our aim is to design research projects that force us to clarify these assumptions in order to test them with empirical data.
-
-- A good research question helps us begin that process
-
-<br>
-
-I especially like the advice from Huntington-Klein that: "A good test for whether a research question informs theory is to imagine that you find an unexpected result, and then wonder whether it would make you change your understanding of the world."
-
-- If the data shows us that defensive military investments don't lead to war I would certainly hope that neorealists would reconsider their theory
-
-<br>
-
-### Any questions on these two basic requirements of a research question?
-
-<br>
-
-So, all academic projects in quantitative political science are framed as an answer to a research question.
-
-- The question itself MUST be answerable with data and the answer must help us better understand the world (support or lead to revision of a theory).
-:::
-
-    
-    
-## "Research Questions" {background-image="Images/Background-Rally_v2.png" .center}
-
-**(Huntington-Klein 2022)**
-
-<br>
-
-**How Do You Know if You’ve Got a Good One?**
+::::: {.fragment}
 
 :::: {.columns}
+
 ::: {.column width="50%"}
-- Consider Potential Results
+**Baglione (2019)**
 
-- Consider Feasibility
+1. Interesting
 
-- Consider Scale
+2. Important
+
+3. Controversial
+
+4. Brief
+
+5. Direct
+
+6. Doable
+
+7. (optional) Puzzling
 :::
 
 ::: {.column width="50%"}
-- Consider Design
+**Huntington-Klein (2022)**
 
-- Keep It Simple!
+1. Consider Potential Results
+
+2. Consider Feasibility
+
+3. Consider Scale
+
+4. Consider Design
+
+5. Keep It Simple!
 :::
+
+::::
+
+:::::
+
+::: notes
+
+**What pieces of advice from the readings resonated with you the most about designing a "good" research question?**
+
+<br>
+
+**REVEAL: Any questions on the criteria proposed and discussed in the readings for designing a "good" research question?**
+
+<br>
+
+*Notes from the Readings*
+
+*Baglione: Six Qualities of a Great Research Question*
+
+1. **Interesting**: To you, scholars, the public policy community and the public
+2. **Important**: Is there an established academic literature on this question? If yes, then important!
+3. **Controversial**: Is there dispute about the answer? The more the better!
+4. **Brief**: Keep it short (one sentence!)
+5. **Direct**: Don't meander, use an active voice and be clear
+6. **Doable**: Borrow from HK book: It can be answered e.g. It means that it’s possible for there to be some set of evidence in the world that, if you found it, your question would have a believable answer.
+    - Chapter example: What is the best James Bond movie?
+7. **(optional) Puzzling**: "...an event or development that doesn't seem to make sense given what we know" (p33).
+    - It either lacks an obvious answer or the conventional wisdom appears to be incorrect
+
+*Huntington-Klein: A "good" research question*
+
+1. **Consider Potential Results**: "If you can’t say something interesting about your potential results, that probably means your research question and your theory aren’t as closely linked as you think!"
+2. **Consider Feasibility**: "A research question should be a question that can be answered using the right data, if the right data is available. But is the right data available?"
+    - You picked the data project first so this should be done!
+3. **Consider Scale**: "What kind of resources and time can you dedicate to answering the research question? ... Given the confines of, say, a term paper, you could take some wild swings at that question, but you’re likely to do a much more thorough job answering questions with a lot less complexity."
+4. **Consider Design**: "So, an important part of evaluating whether you have a workable research question is figuring out if there’s a reasonable research design you can use to answer it. Figuring out whether you do have a reasonable research design is the topic of the rest of this book."
+5. **Keep It Simple!**: "Answering any research question can be difficult. Don’t make it even harder on yourself by biting off more than you can chew!"
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+### Strategies to Generate Research Questions
+
+<br>
+
+::::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Why this major?
+
+2. What are your career aspirations?
+
+3. What are your extracurricular activities?
+
+4. What courses have you enjoyed most?
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Embrace your curiosity
+
+2. Be opportunistic
+:::
+
+::::
+
+:::::
+
+::: notes
+
+**What pieces of advice from the readings resonated with you the most about generating a research question?**
+
+<br>
+
+**REVEAL: Any questions on the strategies proposed in the readings?**
+
+<br>
+
+*Notes from the Readings*
+
+*Baglione (2019)*
+
+1. Why the major?
+2. Career aspirations
+3. Extracurricular activities
+4. Courses/Topics enjoyed?
+
+*Huntington-Klein (2022): 2.3 Where Do Research Questions Come From?*
+
+- Embrace your curiosity
+    - We want to know how the world works, and that naturally leads to questions!
+    - Can start with theory (e.g. “I think this is how the world works”) OR with a question (“Will students work harder in school if you pay them for good grades?”)
+- Be opportunistic
+    - Have a neat data set? Use it!
+    - Keep track of current events (Maybe you’ve learned that a few school districts have decided to try paying their students for good grades. When you hear about something like this, you might ask “what research questions would this allow me to answer?”)
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+Fortna, V. P., Lotito, N. J., & Rubin, M. A. (2018). Don’t Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars.
+
+::::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+2. Important
+3. Controversial
+4. Brief
+5. Direct
+6. Doable
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+2. Consider Feasibility
+3. Consider Scale
+4. Consider Design
+5. Keep It Simple!
+:::
+
+::::
+
+:::::
+
+::: notes
+
+Time to practice!
+
+- Let's evaluate the research questions from our research articles last week
+
+<br>
+
+*Split class into groups of 4*
+
+- Go sit with your group
+
+<br>
+
+**Remind me, what is the research question from the first article we reviewed last week?**
+
+- (First sentence of the abstract!)
+
+<br>
+
+REVEAL: GROUPS, I want you to evaluate this research question using all the criteria from the readings
+
+- Try to specify BOTH strengths AND weaknesses!
+
+<br>
+
+*PRESENT and DISCUSS analyses*
+
+- *Make sure to highlight strengths AND weaknesses*
+
+<br>
+
+*Mix up the groups! Don't let them get too sedentary or they'll get groggy!*
+
+- Go sit with your new group!
+
+::: 
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+Xu, X. (2021). To Repress or to Co‐opt? Authoritarian Control in the Age of Digital Surveillance.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+2. Important
+3. Controversial
+4. Brief
+5. Direct
+6. Doable
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+2. Consider Feasibility
+3. Consider Scale
+4. Consider Design
+5. Keep It Simple!
+:::
+
 ::::
 
 ::: notes
-Walk me through each of these. 
 
-### What does each criteria mean and how do I use it to make my research question "better"?
-
-- **Consider Potential Results**: "If you can’t say something interesting about your potential results, that probably means your research question and your theory aren’t as closely linked as you think!"
-
-- **Consider Feasibility**: "A research question should be a question that can be answered using the right data, if the right data is available. But is the right data available?"
-    - You picked the data project first so this should be done!
-
-- **Consider Scale**: "What kind of resources and time can you dedicate to answering the research question? ... Given the confines of, say, a term paper, you could take some wild swings at that question, but you’re likely to do a much more thorough job answering questions with a lot less complexity."
-
-- **Consider Design**: "So, an important part of evaluating whether you have a workable research question is figuring out if there’s a reasonable research design you can use to answer it. Figuring out whether you do have a reasonable research design is the topic of the rest of this book."
-
-- **Keep It Simple!**: "Answering any research question can be difficult. Don’t make it even harder on yourself by biting off more than you can chew!"
+Let's do it again!
 
 <br>
 
-### Everybody clear on these criteria?
+**What's the research question in Xu (2021)?**
 
-Take a minute to reflect and revise
-- Try to revise your question to improve it across these criteria
-
-- You may end up with multiple versions, that's great! Keep them all!
+- (p309, right column)
 
 <br>
 
-Ok, let's mix it up again!
-- Go around the room and hear all the questions
-
-- Explain to each other how you think your question meets these criteria
-
-- Try to help each other refine/tweak/improve the questions
+GROUPS, I want you to evaluate this research question using all the criteria from the readings
 
 <br>
 
-Now, take a moment to reflect on the feedback you received and the questions you saw and use that experience to revise your question.
+*PRESENT and DISCUSS analyses*
+
+- *Make sure to highlight strengths AND weaknesses*
+
+<br>
+
+*Mix up the groups! Don't let them get too sedentary or they'll get groggy!*
+
+- Go sit with your new group!
+
 :::
 
 
 
-## Evaluating Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+## {background-image="Images/Background-Rally_v2.png" .center}
 
-1. Fortna, V. P., Lotito, N. J., & Rubin, M. A. (2018). Don’t Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars
+Clayton, A., O’Brien, D. Z., & Piscopo, J. M. (2023). Women Grab Back: Exclusion, Policy Threat, and Women’s Political Ambition.
 
-2. Xu, X. (2021). To Repress or to Co‐opt? Authoritarian Control in the Age of Digital Surveillance.
+:::: {.columns}
 
-3. Clayton, A., O’Brien, D. Z., & Piscopo, J. M. (2023). Women Grab Back: Exclusion, Policy Threat, and Women’s Political Ambition.
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+2. Important
+3. Controversial
+4. Brief
+5. Direct
+6. Doable
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+2. Consider Feasibility
+3. Consider Scale
+4. Consider Design
+5. Keep It Simple!
+:::
+
+::::
 
 ::: notes
 
-Apply these tools to the four research articles from last week: What is the question? Is it a "good" one per these criteria? Strengths AND weaknesses!
+Let's do it again!
+
+<br>
+
+**What's the research question in this article?**
+
+- (p1467, bottom of left column; also on 1st page but I think the detail is better on latter page)
+
+<br>
+
+GROUPS, I want you to evaluate this research question using all the criteria from the readings
+
+<br>
+
+*PRESENT and DISCUSS analyses*
+
+- *Make sure to highlight strengths AND weaknesses*
+
+<br>
+
+*Mix up the groups! Don't let them get too sedentary or they'll get groggy!*
+
+- Go sit with your new group!
 
 :::
 
@@ -309,10 +456,73 @@ Apply these tools to the four research articles from last week: What is the ques
 
 ## Let's Practice! {background-image="Images/Background-Rally_v2.png" .center}
 
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+2. Important
+3. Controversial
+4. Brief
+5. Direct
+6. Doable
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+2. Consider Feasibility
+3. Consider Scale
+4. Consider Design
+5. Keep It Simple!
+:::
+
+::::
+
 ::: notes
 
-Exercise: Use current events (today's newspapers!) to generate research questions (finding the "scientific angle" in the news). You open a few sites and assign a current event to each group. Groups must brainstorm multiple research questions from their story! Present and discuss each. Help them see how many possible questions underpin every "news event"
+Let's generate new research questions using current events!
+
+- *Open a news site (NYT, WPost, WSJ) and class picks a single story focused on a recent event*
+
+<br>
+
+GROUPS: Read this news story and then brainstorm AT LEAST TWO research questions for exploring this event.
+
+- **Questions on the assignment?**
+
+- Go!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+*REPEAT exercise with a new news story*
+
+<br>
+
+*REPEAT exercise with a new news story*
+
+<br>
+
+**Any questions on designing a research question?**
 
 :::
 
 
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Reviewing and giving feedback to Senior Seminar students on their research questions
+
+::: notes
+
+
+:::
