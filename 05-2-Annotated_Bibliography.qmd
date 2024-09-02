@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Annotated Bibliography Basics 
+**Setting Up a Class Research Project**
 
-2. ?
+- Developing our annotated bibliography
 
 :::
 

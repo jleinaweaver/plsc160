@@ -127,7 +127,7 @@ To start, everybody read the abstract and introduction only.
     
 - The data (sources and case selections?)
     
-- The analyses (what did they do?)
+- The conclusions (how confident are they?)
 
 <br>
 

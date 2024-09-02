@@ -1,0 +1,55 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Setting Up a Class Research Project**
+
+- Developing our annotated bibliography
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. Review class submissions on Canvas
+
+<br>
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+
+
+::: notes
+
+**Questions on the assignment?**
+:::

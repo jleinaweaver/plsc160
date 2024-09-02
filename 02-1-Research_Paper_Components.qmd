@@ -361,7 +361,7 @@ SLIDE: Ok, lets combine all this advice and use it to propose an approach to rea
     
     - The data (sources and cases?)
     
-    - The analyses (what did they do?)
+    - The conclusions (how confident are they?)
     
 3. Evaluate: What are the strongest and weakest parts of the paper?
 :::
@@ -435,7 +435,7 @@ Develop an Outline of the Article (bullets and p#):
     
 - The data (sources and case selections?)
     
-- The analyses (what did they do?)
+- The conclusions (how confident are they?)
 
 ::: notes
 

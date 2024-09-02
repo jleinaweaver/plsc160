@@ -16,9 +16,9 @@ Data, slides and errata for my class at Drury University (PLSC 160: Political In
 
 04-2-Basic_Skills.html
 
-05-1-AB_Basics.html
+05-1-Gather_Lit.html
 
-05-2-AB_2.html
+05-2-Annotated_Bibliography.html
 
 06-1-Lit_Review_Basics.html
 
