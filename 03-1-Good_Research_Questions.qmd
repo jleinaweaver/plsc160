@@ -115,8 +115,6 @@ I especially like Baglione's idea that a good research question gives us a progr
 
 ## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
 
-<br>
-
 ::::: {.fragment}
 
 :::: {.columns}
@@ -198,8 +196,6 @@ I especially like Baglione's idea that a good research question gives us a progr
 
 ### Strategies to Generate Research Questions
 
-<br>
-
 ::::: {.fragment}
 
 :::: {.columns}
@@ -262,7 +258,7 @@ I especially like Baglione's idea that a good research question gives us a progr
 
 ## {background-image="Images/Background-Rally_v2.png" .center}
 
-Fortna, V. P., Lotito, N. J., & Rubin, M. A. (2018). Don’t Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars.
+Fortna, Lotito & Rubin (2018). Don’t Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars.
 
 ::::: {.fragment}
 
@@ -296,15 +292,11 @@ Fortna, V. P., Lotito, N. J., & Rubin, M. A. (2018). Don’t Bite the Hand that 
 
 ::: notes
 
-Time to practice!
+Let's practice by evaluating the research questions from our research articles last week
 
-- Let's evaluate the research questions from our research articles last week
+- *Split class into groups of 4*
 
-<br>
-
-*Split class into groups of 4*
-
-- Go sit with your group
+- Go sit with your group and pull out this article
 
 <br>
 
@@ -336,7 +328,7 @@ REVEAL: GROUPS, I want you to evaluate this research question using all the crit
 
 ## {background-image="Images/Background-Rally_v2.png" .center}
 
-Xu, X. (2021). To Repress or to Co‐opt? Authoritarian Control in the Age of Digital Surveillance.
+Xu (2021). To Repress or to Co‐opt? Authoritarian Control in the Age of Digital Surveillance.
 
 :::: {.columns}
 
@@ -396,7 +388,7 @@ GROUPS, I want you to evaluate this research question using all the criteria fro
 
 ## {background-image="Images/Background-Rally_v2.png" .center}
 
-Clayton, A., O’Brien, D. Z., & Piscopo, J. M. (2023). Women Grab Back: Exclusion, Policy Threat, and Women’s Political Ambition.
+Clayton, O'Brien & Piscopo (2023). Women Grab Back: Exclusion, Policy Threat, and Women’s Political Ambition.
 
 :::: {.columns}
 
@@ -454,7 +446,7 @@ GROUPS, I want you to evaluate this research question using all the criteria fro
 
 
 
-## Let's Practice! {background-image="Images/Background-Rally_v2.png" .center}
+## Practice on Current Events {background-image="Images/Background-Rally_v2.png" .center}
 
 :::: {.columns}
 
