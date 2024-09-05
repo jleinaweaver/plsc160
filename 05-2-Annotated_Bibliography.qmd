@@ -38,17 +38,158 @@ Prep for Class
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/05_1-ASSIGN.png)
 
 ::: notes
 
+**How did this go?**
+
+- **Getting any easier with practice?**
+
+:::
+
+
+## Baglione (2019) Chapter 3 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### What is a bibliography and why is it important?
+
+::: notes
+
+(p50-53)
+
+- A treasure map!
+
+- A list of sources that "provides all the information that contributed to the work"
+
+- The list helps to "legitimize" your work by showing: 1) you are connected to other high quality work, and 2) You are aware of the big debates about your topic
 
 :::
 
 
 
+## Baglione (2019) Chapter 3 {background-image="Images/Background-Rally_v2.png" .center}
 
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+<br>
+
+### What do we have to cite and why is paraphrasing better than quoting?
+
+::: notes
+
+(p53-58)
+
+- Plagiarism is passing off someone's ideas or words as your own
+
+- You MUST cite ideas and information, not just quotations.
+
+- Paraphrasing: "...restating in their own wordsthe sense of others' arguments and citing the original sources" (54).
+    - Keep the argument in YOUR words, YOUR voice
+    
+    - Look at any high quality published research article and you will see almost only paraphrasing, not quoting!
+    
+<br>
+
+**Questions on these very important topics?**
+
+:::
+
+
+
+## Baglione (2019) Chapter 3 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### What is an annotated bibliography (AB)?
+
+::: notes
+
+(p59-88)
+
+- Adds an "annotation" to each entry in your bibliography
+
+- The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (59).
+
+- Adopt the form: "The author argues/asserts/contends/insists" but never "This work is about..."
+
+<br>
+
+Our outlining exercise so far this semester has been about understanding the basic elements of a research paper
+
+- Your AB is written in paragraph form (not bullet points) and summarizes the argument AS IT PERTAINS TO ANSWERING YOUR RESEARCH QUESTION
+
+<br>
+
+**Does this make sense?**
+
+- **Did the examples in the chapter help?**
+
+<br>
+
+I know Baglione also argues that an AB should be organized and grouped by ideas or answers to your RQ, but I think we'll hit those points in our work next week
+
+- **Any questions before we practice this?**
+
+:::
+
+
+
+## Building our Class AB {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (Baglione 2020, 59).
+
+
+::: notes
+
+Let's practice!
+
+- Everybody take some time to write an AB version of the article outline they submitted to Canvas today
+
+- In a few minutes I'll have you get feedback on these in pairs
+
+<br>
+
+Share your annotation with the person next to you
+
+- Does it clearly summarize the main arguments and contribution of this article to answering our RQ?
+
+<br>
+
+Once you're happy with these let's submit them!
+
+- Everybody add their annotation as a "reply" to their Canvas discussion post for today
+
+:::
+
+
+
+## Building our Class AB {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+![](Images/04_2-Zotero_Ponder_Notes.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Let's go through all the submissions today
+
+- As we go you should each copy the outline and annotation into the notes attached to each of the articles in your Zotero library
+
+<br>
+
+*PRESENT each annotation*
+
+- **FOR EACH: Any questions or need for clarification?**
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
 <br>
 
@@ -58,7 +199,7 @@ Prep for Class
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+For next class, read Baglione and the Koubi (2019) which is an example of a well organized literature review
 
 <br>
 

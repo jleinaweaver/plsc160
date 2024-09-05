@@ -16,7 +16,7 @@ library(readxl)
 
 **Setting Up a Class Research Project**
 
-- Developing our annotated bibliography
+- Gathering and summarizing the literature
 
 :::
 
@@ -31,6 +31,8 @@ Prep for Class
 
 1. Review class submissions on Canvas
 
+2. Run Zotero on your computer too so you can import the new submissions and create a bibliography as demo
+
 <br>
 
 
@@ -38,18 +40,91 @@ Prep for Class
 
 
 
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+![](Images/04_2-ASSIGN.png)
+
+::: notes
+
+**How did this go?**
+
+- **Any trouble finding "good" options?**
+
+- **Any articles you couldn't find the pdf for?** Send to me and I'll try to investigate
+
+<br>
+
+Alright, let's go around the room to hear what you found.
+
+- Name the article you submitted and explain why you submitted this article
+
+- While you listen your job is to 1) import ALL of these articles into your Zotero, and 2) to save the pdf
+
+- **Questions on what I'm asking you to do?**
+
+- *YOU DO IT TOO*
+
+<br>
+
+*PRESENT each*
+
+:::
 
 
 
+## {background-image="Images/Background-Rally_v2.png" .center}
 
+::: {.r-fit-text}
+**1. Create an APA bibliography with Zotero**
+:::
 
+![](Images/04_2-Zotero_Create_Bib.png){style="display: block; margin: 0 auto"}
 
-
-
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+::: {.r-fit-text}
+**2. Paste the bibliography into a Word document**
+:::
 
 
 ::: notes
 
+Everybody build a bibliography from all our submissions and paste into a Word document.
+
+<br>
+
+**Impressive start to our class research project, right?**
+
+- *Demo if needed*
+
+<br>
+
+**Any entries look wrong?**
+
+- We may need to tweak a few records...
+
+<br>
+
+SLIDE: Our next job is to summarize these research articles (e.g. prepare to annotate the bibliography)
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+![](Images/05_1-ASSIGN.png)
+
+::: notes
+
+*Read the prompt AND highlight the tweak to the outline headers*
+
+<br>
+
 **Questions on the assignment?**
+
+<br>
+
+Let's get to work on this now so we you can help each other!
+
 :::
