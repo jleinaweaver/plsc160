@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Literature Review Basics 
+**Setting Up a Class Research Project**
 
-2. ?
+- Introduction to writing a literature review
 
 :::
 
@@ -29,7 +29,8 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Readings
+    - Baglione chapter 4
 
 <br>
 
@@ -38,12 +39,7 @@ Prep for Class
 
 
 
-## {background-image="Images/background-teal4.png" .center}
 
-::: notes
-
-
-:::
 
 
 
