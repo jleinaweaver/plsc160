@@ -171,9 +171,9 @@ Gather the articles missing from our bibliography
 
 PAIRS: Go find this article and its pdf and upload to our discussion board
 
-1. Import them into Zotero, and 
+1. Import them into Zotero 
 
-2. Find the pdf
+2. Find the pdf, and
 
 3. Share the APA citation and pdf on our discussion board
 
@@ -221,13 +221,39 @@ PAIRS: Take some time to review your assigned article and to write an annotation
 
 
 
-## Literature Review (due October 4th) {background-image="Images/background-blue_triangles_flipped.png" .center}
+## Literature Review {background-image="Images/background-blue_triangles_flipped.png" .center}
 
 <br>
 
-![](Images/06_2-ASSIGN.png)
+::: {.r-fit-text}
+Submit a literature review for our class research proposal
 
+- A stand-alone argument paper with bibliography
+
+- Required Minimums: 1,000 words, 12 sources
+
+- Due Oct 4th
+
+:::
 ::: notes
+
+Time to get our first piece of the proposal written up and submitted!
+
+- I want everyone to write a version of the literature review for our class research project
+
+- Due at the end of next week
+
+<br>
+
+Per Baglione, this section of your proposal is a stand-alone argument paper meaning it must have:
+
+- A clear thesis statement (which school are you moving forward with?)
+
+- A clear macro structure (intro, body and conclusion), and
+
+- A clear meso structure arranged around presenting and analyzing the schools of thought
+
+<br>
 
 **Questions on the assignment?**
 
@@ -246,9 +272,9 @@ SLIDE: While that happens in the background, we move forward!
 
 ::: {.r-fit-text}
 
-1. Baglione ch 5 on developing a theory
+1. Baglione Chapter 5 (Theory)
 
-2. Bring the research articles from Week 2 to class
+2. Bring: Fortna, Lotito and Rubin (2018)
 
 :::
 

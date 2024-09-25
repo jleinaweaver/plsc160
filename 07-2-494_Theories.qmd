@@ -14,11 +14,11 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
-
-2. ?
+Evaluating the theories from 494
 
 :::
+
+<br>
 
 <br>
 
@@ -33,34 +33,140 @@ Prep for Class
 
 <br>
 
+SLIDE: Reminder of assignment deadline
 
 :::
 
 
 
-## {background-image="Images/background-teal4.png" .center}
-
-::: notes
-
-
-:::
-
-
-
-
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## Literature Review {background-image="Images/background-blue_triangles_flipped.png" .center}
 
 <br>
 
-1. Baglione ch 4
+::: {.r-fit-text}
+Submit a literature review for our class research proposal
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+- A stand-alone argument paper with bibliography
+
+- Required Minimums: 1,000 words, 12 sources
+
+- Due Oct 4th
+
+:::
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+Don't forget our current deadline (tomorrow!)
 
 <br>
 
 **Questions on the assignment?**
+
+<br>
+
+SLIDE: Theory as part of the research proposal
+
 :::
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+The students in Senior Seminar are currently on step 3 (theory) for their projects so we thought it would be a good time to give them some feedback!
+
+<br>
+
+SLIDE: Here's the prompt we gave them
+
+:::
+
+
+
+## The Prompt: Theory {background-image="Images/Background-Rally_v2.png"  .center}
+
+::: {.r-fit-text}
+
+1. What is your research question?
+
+2. What is your answer to the question? 
+
+3. Explain the reasoning behind your answer
+
+:::
+
+::: notes
+
+This is the assignment prompt Dr. Ponder gave his students
+
+- Our job today will be to review and evaluate those details then to provide feedback to those students
+
+- My hope is that for each question we can give them something useful in terms of what we like and what needs clarification or revising
+
+:::
+
+
+
+## Science Requires Theory {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+"A theory is a set of propositions and concepts that combine to explain phenomena by specifying the relationships among the propositions. Theory's ultimate goal is to predict phenomena" (Mingst and Arreguin-Toft 2017, 72).
+
+<br>
+
+A useful theory, like a useful map, must:
+
+- Be clearly specified
+
+- Be built from logical assumptions, and 
+
+- Accurately explain important outcomes in the world
+
+::: notes
+
+As we discussed on Tuesday, theories are the stories we tell to explain why things happen in the world
+
+- Like maps, neither true nor false, but instead useful or not
+
+<br>
+
+**Any questions on the material we explored last class?**
+
+<br>
+
+*Split class into groups, one per proposal*
+
+- We'll have each group stand up, present the work and then we discuss it
+
+- Groups, you will take notes for the class for your assigned theory and send it to me after class so I can share it with the student
+
+- Ok, 5 mins to get organized then we get to work!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+:::
+
+
+
+## For Next Week {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Start working on the theory you will propose in your version of the class research proposal

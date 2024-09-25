@@ -106,6 +106,22 @@ Prep for Class
 
 ::: notes
 
+**Per Baglione, what is the AB?**
+
+- **Put differently, what should the "annotation" do in this context?**
+
+:::
+
+
+
+## Building our Class AB {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (Baglione 2020, 59).
+
+::: notes
+
 (p59-88)
 
 - Adds an "annotation" to each entry in your bibliography
@@ -116,9 +132,17 @@ Prep for Class
 
 <br>
 
-Our outlining exercise so far this semester has been about understanding the basic elements of a research paper
+**How is this activity different from the summary exercise you did for class today?**
+
+- Our outlining exercise so far this semester has been about summarizing the basic elements of a research paper
 
 - Your AB is written in paragraph form (not bullet points) and summarizes the argument AS IT PERTAINS TO ANSWERING YOUR RESEARCH QUESTION
+
+- If I wanted to answer my question but all I had was this article, what would I say is the extent of our knowledge?
+
+- What are the valuable "bits" in this article a researcher should consider if working in this area? 
+    
+    - e.g. useful data, sources, cases, theories 
 
 <br>
 
@@ -142,6 +166,9 @@ I know Baglione also argues that an AB should be organized and grouped by ideas 
 
 The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (Baglione 2020, 59).
 
+<br>
+
+**RQ: What explains the variation in the use of violence by religious groups around the world?**
 
 ::: notes
 
