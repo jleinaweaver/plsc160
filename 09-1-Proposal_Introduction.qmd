@@ -1,0 +1,151 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Writing your version of our class research project**
+
+- Introduction, Lit Review and Theory
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. TBD
+
+<br>
+
+
+:::
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+The proposal you are working on now (at least at an intuitive level)
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png"  .center .smaller}
+
+Submit a research proposal for the project we have been developing in class during the first half of the semester 
+
+- This proposal must include three separate sections: An introduction, a literature review and a theoretical argument (with hypotheses)
+    - The introduction section should introduce your research question and make an argument that it is important
+    - The literature review section should summarize and evaluate the academic literature while making an argument about the "best" approach for moving forward with this project
+    - The theory section should explain your answer to the research question with a DAG, the key assumptions in your model, and the hypotheses you plan to test
+
+::: {.fragment}
+- Each section should be written as a complete argument that connects to the next one (organized to advance a thesis, with clear macro and meso structures)
+
+- Be sure to consult the "Submission Requirements for the Argument Papers" in the syllabus
+:::
+
+::: notes
+
+Details taken from the Canvas assignment prompt
+
+- REVEAL x1
+
+- Proposal is due at the end of next week (Oct 25)
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Let's work for a bit on the introduction argument
+
+- Everybody spend 10 minutes brainstorming premises to support the argument that we have an important research question
+
+- Aim for a much longer list then you'll need, e.g. 10 reasons!
+
+<br>
+
+PAIRS: Compare lists and try to lock in on the three strongest reasons
+
+<br>
+
+Now take some time to find at least one piece of evidence to support each of your chosen premises
+
+<br>
+
+SLIDE: Ok, the rest of your time today is to work, but first!
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+### Brainstorming a Domestic Project
+
+<br>
+
+::: {.fragment}
+
+Submit a recent news story illustrating the effect of money on US elections.
+
+1. Submit an APA citation to your evidence, and
+
+2. A brief explanation of your example/case
+
+:::
+
+::: notes
+
+After the break we will spend a week brainstorming ideas for your final project of the semester
+
+- An individual research project proposal
+
+<br>
+
+REVEAL: We'll start with some ideas related to the domestic politics of elections 
+
+<br>
+
+**Questions on the assignment?**
+
+:::
+
+
+
+

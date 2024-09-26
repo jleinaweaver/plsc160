@@ -43,8 +43,9 @@ SLIDE: Reminder of assignment deadline
 
 <br>
 
+### Submit a literature review for our class research proposal
+
 ::: {.r-fit-text}
-Submit a literature review for our class research proposal
 
 - A stand-alone argument paper with bibliography
 
@@ -165,8 +166,36 @@ As we discussed on Tuesday, theories are the stories we tell to explain why thin
 
 
 
-## For Next Week {background-image="Images/background-blue_triangles_flipped.png" .center}
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
 <br>
 
-### Start working on the theory you will propose in your version of the class research proposal
+### Diagramming a Theory from the AB
+
+::: {.fragment}
+
+::: {.r-fit-text}
+1. APA paper citation
+
+2. Describe the DAG
+
+3. Describe the theory 
+    
+    - e.g. list and explain the assumptions
+:::
+
+:::
+
+::: notes
+
+For next class we will divy out the papers on our class AB (using the shared Google Doc) and you will be tasked with diagramming and evaluating the theoretical model in the paper.
+
+<br>
+
+*Divy out the papers from the class AB*
+
+<br>
+
+REVEAL: Submit to Canvas...
+
+:::

@@ -1,0 +1,327 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Writing your version of our class research project**
+
+- Designing your theory / model
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Timings
+    - 30 mins groups develop model
+    - 20 mins present and discuss each (x4)
+    - 10 mins groups develop hypotheses
+    - 5 mins report back
+    - 10 mins theory section paper structure
+
+<br>
+
+SLIDE: Aims for today
+
+:::
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+We are now coming to the end of our preparation for writing your first research proposal.
+
+<br>
+
+Aim of today is to: 
+
+1. Continue building our familiarity with the literature on our question, and 
+
+2. To develop models for our research proposal
+
+<br>
+
+SLIDE: For today...
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Developing YOUR theory / model
+
+1. Review all of the models discussed today, and
+
+2. Submit a list of **at least three** assumptions that COULD be important in YOUR model of religion and violence
+
+::: notes
+
+For today I asked everyone to pull together the assumptions that spoke directly to them from our AB.
+
+<br>
+
+*Split class into four groups*
+
+- Go sit with your groups!
+
+<br>
+
+*30 minutes*
+
+Groups, share your lists with each other and then use them, or some of them, to design a model for our class research proposal. 
+
+- Your aim is to put on the board a consensus DAG and a list of assumptions underpinning your model
+
+- **Questions on the assignment?**
+
+- Go!
+
+:::
+
+
+
+## Science Requires Theory {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+"A theory is a set of propositions and concepts that combine to explain phenomena by specifying the relationships among the propositions. Theory's ultimate goal is to predict phenomena" (Mingst and Arreguin-Toft 2017, 72).
+
+<br>
+
+A useful theory, like a useful map, must:
+
+- Be clearly specified
+
+- Be built from logical assumptions, and 
+
+- Accurately explain important outcomes in the world
+
+::: notes
+
+*5 mins per model: 20 mins*
+
+Let's give each other some feedback!
+
+- Reminder, here's our criteria for thinking about models
+
+- *PRESENT and DISCUSS each*
+
+:::
+
+
+
+## Hypotheses {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Per Baglione:
+
+- A "particular type of thesis...that asserts that a specific cause (or causes) either is correlated with or leads to certain effects" (Baglione 2020, 117).
+
+- Typically phrased in either a positive (increase in x, increase in y), or negative (increase in x, decrease in y) direction
+
+<br>
+
+:::{.fragment}
+
+H3: Rebels funded by foreign democracies will be less likely to employ terrorism than those funded by foreign nondemocracies (Fortna, Lotito and Rubin 2018, 785)
+
+:::
+
+::: notes
+
+With your model in place, we now need to specify the hypotheses you would like to test in this project.
+
+- *Read the Baglione take*
+
+<br>
+
+REVEAL: Example from our oft discussed research article by Fortna, Lotito and Rubin (2018)
+
+- **Is this a positive or a negative directional hypothesis?**
+
+- (Negative! Add foreign democracy support, reduce terrorism!)
+
+<br>
+
+Now where do these hypotheses come from?
+
+- SLIDE: Hypotheses are the testable implications of your model
+
+:::
+
+
+
+## Hypotheses {background-image="Images/Background-Rally_v2.png" .center}
+
+### The Testable Implications of your Model
+
+<br>
+
+**A Rational Actor Model of Voting**
+
+![](Images/07_1-Mobile voting.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+What if we developed a rational actor model of voting
+
+- In other words, our model assumes that individuals decide to vote or not by strategically weighting the costs and benefits of voting
+
+- We expect individuals to vote ONLY if the perceived benefits outweigh the costs
+
+- **Does this very simple model make sense?**
+
+<br>
+
+We can't actually test this model itself, but what we can do is identify what this model expects the world to look like assuming it were "true"
+
+- **So, what is a testable implication of a rational voter model?**
+
+<br>
+
+- (More strict Voter ID laws (costs increase) should reduce voting)
+
+- (Creating more polling places (shorter lines, more convenient) should increase voting)
+
+- (Having greater wealth (resources and skin in the game of government) should increase voting)
+
+<br>
+
+THESE are all things we can test with data!
+
+- Model assumptions are never meant to be "tested", they are assumed to be true
+
+- Models lead to hypotheses which CAN be tested
+
+- If the data supports your hypotheses then we feel more confident about the usefulness of our model!
+
+<br>
+
+**Make sense?**
+
+:::
+
+
+
+## Hypotheses {background-image="Images/Background-Rally_v2.png" .center}
+
+### The Testable Implications of your Model
+
+<br>
+
+::: {.r-fit-text}
+Generate at least two hypotheses
+:::
+
+::: notes
+
+*10 mins*
+
+GROUPS, take a few minutes to generate TWO hypotheses from your model
+
+- Put them on the board!
+
+<br>
+
+**Questions on the assignment?**
+
+- Go!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+SLIDE: Let's end by discussing the structure of your theory section for the proposal
+
+:::
+
+
+
+## The Research Proposal {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+### The Theory Section
+
+- Organized as an argument paper
+    - Advances a thesis,
+    - Has a clear macro structure, and
+    - Has a clear micro structure
+
+::: {.fragment}
+
+- Explains your answer to the research question using a:
+    - DAG,
+    - Clear model assumptions, and
+    - Hypotheses
+
+:::
+
+::: notes
+
+*Discuss slide then reveal and discuss slide*
+
+<br>
+
+**Questions on this structure?**
+
+<br>
+
+Next class we will work on the introduction section of your proposal
+
+- SO, think about the logic and evidence you will need to make an argument that ours is an important research question
+
+:::
+
+
+
+
+
+
+
+
+
+
+

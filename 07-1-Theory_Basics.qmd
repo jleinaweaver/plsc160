@@ -676,8 +676,9 @@ ggplot(data = d1, aes(x = x, y = y)) +
 
 <br>
 
+### Submit a literature review for our class research proposal
+
 ::: {.r-fit-text}
-Submit a literature review for our class research proposal
 
 - A stand-alone argument paper with bibliography
 

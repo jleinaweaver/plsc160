@@ -225,8 +225,9 @@ PAIRS: Take some time to review your assigned article and to write an annotation
 
 <br>
 
+### Submit a literature review for our class research proposal
+
 ::: {.r-fit-text}
-Submit a literature review for our class research proposal
 
 - A stand-alone argument paper with bibliography
 
@@ -235,6 +236,7 @@ Submit a literature review for our class research proposal
 - Due Oct 4th
 
 :::
+
 ::: notes
 
 Time to get our first piece of the proposal written up and submitted!

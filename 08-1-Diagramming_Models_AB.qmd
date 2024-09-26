@@ -1,0 +1,189 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Setting Up a Class Research Project**
+
+- Designing a theory / model
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Prep new Canvas discussion to collect work from today
+
+3. Bring lots of markers!
+
+<br>
+
+SLIDE: Big picture
+:::
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+We are now coming to the end of our preparation for writing your first research proposal.
+
+<br>
+
+Aim of today is to: 
+
+1. Continue building our familiarity with the literature on our question, and 
+
+2. To give us more practice evaluating theories and models
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Diagramming a Theory from the AB
+
+::: {.r-fit-text}
+1. APA paper citation
+
+2. Describe the DAG
+
+3. Describe the theory 
+    
+    - e.g. list and explain the assumptions
+:::
+
+::: notes
+
+For today I asked everyone to diagram one of the theories from our AB.
+
+- **Are we ready to go with this?**
+
+<br>
+
+SLIDE: Time to share!
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Diagramming and Evaluating a Theory
+
+1. On the board
+    
+    - Draw the DAG, and 
+    
+    - List the key assumptions
+
+::: {.fragment}
+
+2. Get ready to present
+
+    - The model, and
+    
+    - Your evaluation of the model (strengths and weaknesses)
+
+:::
+::: notes
+
+In a moment I will ask EVERYONE to put their assigned model on the board!
+
+- Give us the DAG and the key assumptions
+
+- Try to be concise; zoom in on the key elements in the model
+
+<br>
+
+REVEAL: Then I will give you a few minutes to prepare to present your model AND your evaluation of it!
+
+<br>
+
+**Questions on the assignment?**
+
+- Go!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+- Class, THIS is the important info you need to construct your own model for the proposal
+
+- SO, make sure to ask questions to clarify and evaluate each model!
+
+<br>
+
+*After presentations*
+
+<br>
+
+Everybody reflect on the discussions we just had about your model, revise your notes and then submit a revised version of the assignment for today on Canvas
+
+- This way everyone will have good quality notes on all of the models we've been exploring
+
+- Go!
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Developing YOUR theory / model
+
+1. Review all of the models discussed today, and
+
+2. Submit a list of **at least three** assumptions that COULD be important in YOUR model of religion and violence.
+
+::: notes
+
+Time to start putting a rough draft of your proposed model on paper!
+
+- Review all of our work from the last two weeks and then submit to Canvas a list of assumptions you are leaning towards including in your model
+
+<br>
+
+**Questions on the assignment?**
+
+:::

@@ -8,7 +8,7 @@
 <link href="07-2-494_Theories_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="07-2-494_Theories_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="07-2-494_Theories_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.555">
+  <meta name="generator" content="quarto-1.5.57">
 
   <title>theories</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -358,8 +358,8 @@
 <section id="literature-review" class="slide level2 center" data-background-image="Images/background-blue_triangles_flipped.png">
 <h2>Literature Review</h2>
 <p><br></p>
+<h3 id="submit-a-literature-review-for-our-class-research-proposal">Submit a literature review for our class research proposal</h3>
 <div class="r-fit-text">
-<p>Submit a literature review for our class research proposal</p>
 <ul>
 <li><p>A stand-alone argument paper with bibliography</p></li>
 <li><p>Required Minimums: 1,000 words, 12 sources</p></li>
@@ -477,10 +477,39 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="for-next-week" class="slide level2 center" data-background-image="Images/background-blue_triangles_flipped.png">
-<h2>For Next Week</h2>
+<section id="for-next-class" class="slide level2 center" data-background-image="Images/background-blue_triangles_flipped.png">
+<h2>For Next Class</h2>
 <p><br></p>
-<h3 id="start-working-on-the-theory-you-will-propose-in-your-version-of-the-class-research-proposal">Start working on the theory you will propose in your version of the class research proposal</h3>
+<h3 id="diagramming-a-theory-from-the-ab">Diagramming a Theory from the AB</h3>
+<div class="fragment">
+<div class="r-fit-text">
+<ol type="1">
+<li><p>APA paper citation</p></li>
+<li><p>Describe the DAG</p></li>
+<li><p>Describe the theory</p>
+<ul>
+<li>e.g.&nbsp;list and explain the assumptions</li>
+</ul></li>
+</ol>
+</div>
+</div>
+<aside class="notes">
+<p>For next class we will divy out the papers on our class AB (using the shared Google Doc) and you will be tasked with diagramming and evaluating the theoretical model in the paper.</p>
+<p><br></p>
+<p><em>Divy out the papers from the class AB</em></p>
+<p><br></p>
+<p>REVEAL: Submit to Canvas…</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
@@ -767,18 +796,7 @@
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -810,7 +828,29 @@
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -818,7 +858,7 @@
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {

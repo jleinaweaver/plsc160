@@ -28,11 +28,11 @@ Data, slides and errata for my class at Drury University (PLSC 160: Political In
 
 07-2-494_Theories.html
 
-08-1-Diagramming_Models.html
+08-1-Diagramming_Models_AB.html
 
-08-2-Diagramming_Models2.html
+08-2-Proposal_Theory.html
 
-09-1-Class_Proposal.html
+09-1-Proposal_Introduction.html
 
 10-1-Brainstorming_Domestic.html
 
