@@ -35,6 +35,11 @@ Prep for Class
     - Baglione chapter 5
     
 2. Bring markers for multiple small groups to work on the board
+
+3. Timings
+    - Introduce the new concepts (theory, hypotheses and DAGs)
+    - Groups design model of voting
+    - Groups diagram research article model
     
 <br>
 
@@ -162,6 +167,8 @@ REVEAL: The Mingst and Arreguin-Toft (2017) agrees quite closely with Donovan an
 - "Ultimate goal" is too strong, but I like the acknowledgement that we use theories to help us navigate in new places
 
 - If your theory makes bad predictions, then it isn't a useful theory
+
+- A theory of war should help us devise strategies to avoid wars in the future!
 
 - **Make sense?**
 
@@ -532,7 +539,7 @@ Just remember, your theory is an explanation of why these arrows exist
 
 <br>
 
-*Split class into small groups (no more than 4 per group)*
+*Split class into small groups (aim for four groups in class)*
 
 - Go sit with your group and claim some space on the board
 
@@ -569,7 +576,7 @@ Ok groups, take a few minutes to put your theory of voting on the board as a DAG
 
 <br>
 
-*Mix up the groups! (Groups of 4)*
+*Mix up the groups! (aim for three groups in class)*
 
 - Go sit with your new group!
 

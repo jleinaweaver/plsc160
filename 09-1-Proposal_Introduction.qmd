@@ -35,6 +35,9 @@ Prep for Class
 
 <br>
 
+Today I want to talk about the proposal you will be submitting at the end of next week.
+
+- SLIDE: Let's connect the dots!
 
 :::
 
@@ -57,92 +60,149 @@ Designing a "good" research proposal requires:
 
 ::: notes
 
-The proposal you are working on now (at least at an intuitive level)
+Big picture aims of this class
+
+<br>
+
+Our job is to learn to produce a "good" research proposal and we have spent the last eight weeks collaborating on a new proposal
+
+- It's time to get this thing completed and down on paper!
 
 :::
 
 
 
-## {background-image="Images/Background-Rally_v2.png"  .center .smaller}
+## Research Proposal: The Sections {background-image="Images/Background-Rally_v2.png" .center}
 
-Submit a research proposal for the project we have been developing in class during the first half of the semester 
+::: {.incremental}
+1. Introduction: We have a puzzle!
 
-- This proposal must include three separate sections: An introduction, a literature review and a theoretical argument (with hypotheses)
-    - The introduction section should introduce your research question and make an argument that it is important
-    - The literature review section should summarize and evaluate the academic literature while making an argument about the "best" approach for moving forward with this project
-    - The theory section should explain your answer to the research question with a DAG, the key assumptions in your model, and the hypotheses you plan to test
+    - Introduce the RQ and make an argument that answering it is important
 
-::: {.fragment}
-- Each section should be written as a complete argument that connects to the next one (organized to advance a thesis, with clear macro and meso structures)
+2. Literature Review: What do we know?
 
-- Be sure to consult the "Submission Requirements for the Argument Papers" in the syllabus
+    - Organize and evaluate the relevant academic literature while making an argument about the "best" approach for your project
+
+3. Theory: My proposed answer
+
+    - Explain your answer using a DAG, the key assumptions in your model, and the hypotheses you plan to test
 :::
 
 ::: notes
 
-Details taken from the Canvas assignment prompt
+At an intuitive level your research proposal does three things and we execute each of those with a series of specific tasks
 
-- REVEAL x1
+- REVEAL x 6
+
+<br>
+
+**Questions on this?**
+
+<br>
+
+- Each section should be written as a complete argument that connects to the next one (organized to advance a thesis, with clear macro and meso structures)
+
+- Be sure to consult the "Submission Requirements for the Argument Papers" in the syllabus
 
 - Proposal is due at the end of next week (Oct 25)
 
+:::
+
+
+
+
+## The Introduction {background-image="Images/Background-Rally_v2.png" .center}
+
 <br>
 
-**Questions on the assignment?**
+We have a puzzle!
+
+1. Introduce the research question, and 
+
+2. Make an argument that answering it is important
 
 <br>
+
+::: {.r-fit-text}
+**Brainstorm premises in the importance argument**
+:::
+
+::: notes
 
 Let's work for a bit on the introduction argument
 
-- Everybody spend 10 minutes brainstorming premises to support the argument that we have an important research question
+- You have the research question, so your next job is to outline the importance argument
+
+<br>
+
+Everybody take 15 minutes to brainstorm a list of reasons this is an important question
 
 - Aim for a much longer list then you'll need, e.g. 10 reasons!
 
 <br>
 
-PAIRS: Compare lists and try to lock in on the three strongest reasons
-
-<br>
-
-Now take some time to find at least one piece of evidence to support each of your chosen premises
-
-<br>
-
-SLIDE: Ok, the rest of your time today is to work, but first!
+PAIRS: Compare lists and try to lock in on the three strongest reasons for each of you
 
 :::
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
-
-### Brainstorming a Domestic Project
+## The Introduction {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-::: {.fragment}
+We have a puzzle!
 
-Submit a recent news story illustrating the effect of money on US elections.
+1. Introduce the research question, and 
 
-1. Submit an APA citation to your evidence, and
+2. Make an argument that answering it is important
 
-2. A brief explanation of your example/case
+<br>
 
-:::
+### Find at least TWO pieces of evidence to support each of your chosen premises
 
 ::: notes
 
-After the break we will spend a week brainstorming ideas for your final project of the semester
-
-- An individual research project proposal
+Now take some time to find at least TWO piece of evidence to support each of your chosen premises
 
 <br>
 
-REVEAL: We'll start with some ideas related to the domestic politics of elections 
+Once you have the evidence, start writing!
+
+- Let's get this thing done!
 
 <br>
 
-**Questions on the assignment?**
+SLIDE: For next class
+
+:::
+
+
+
+
+## For Next Class: Writing Workshop {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+Before class you must submit to canvas **a completed rough draft** of your research proposal
+
+- All three sections are included 
+
+- EACH has a recognizable macro and meso structure
+
+- Built using paragraphs not bullet points
+
+- Includes a bibliography
+
+::: notes
+
+After the break we will have an in class writing workshop
+
+<br>
+
+To get ready for that I want completed rough drafts submitted before class next Tuesday
+
+- **Questions on the assignment?**
 
 :::
 
