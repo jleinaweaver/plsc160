@@ -34,28 +34,28 @@ Data, slides and errata for my class at Drury University (PLSC 160: Political In
 
 09-1-Proposal_Introduction.html
 
-10-1-Brainstorming_Domestic.html
+10-1-Class_Proposal_Draft.html
 
-10-2-Brainstorming_International.html
+10-2-Individual-Brainstorming.html
 
 11-1-Individual-RQ.html
 
-11-2-Individual-RQ2.html
+11-2-Individual-Section1.html
 
-12-1-Individual-AB1.html
+12-1-Individual-Find_Schools.html
 
-12-2-Individual-AB2.html
+12-2-Individual-Gather_Lit.html
 
-13-1-Individual-AB3.html
+13-1-Individual-Evaluate_School1.html
 
-13-2-Individual-AB4.html
+13-2-Individual-Evaluate_School2.html
 
-14-1-Individual-Lit_Review.html
+14-1-Individual-Evaluate_School3.html
 
-14-2-Individual-Lit_Review2.html
+14-2-Individual-Lit_Review.html
 
 14-3-Individual-Theory.html
 
-15-1-Individual-Proposal.html
+15-1-Individual-Draft.html
 
-15-2-Individual-Proposal2.html
+15-2-Individual-Workshop.html
