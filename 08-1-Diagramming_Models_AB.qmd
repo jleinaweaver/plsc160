@@ -111,6 +111,8 @@ SLIDE: Time to share!
 
 1. On the board
     
+    - Author (Year),
+    
     - Draw the DAG, and 
     
     - List the key assumptions

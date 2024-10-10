@@ -185,35 +185,80 @@ REVEAL: Example from our oft discussed research article by Fortna, Lotito and Ru
 
 Now where do these hypotheses come from?
 
-- SLIDE: Hypotheses are the testable implications of your model
+- Hypotheses are the testable implications of your model
+
+- SLIDE: Let's practice this idea for a second
 
 :::
 
 
 
-## Hypotheses {background-image="Images/Background-Rally_v2.png" .center}
 
-### The Testable Implications of your Model
-
-<br>
-
-**A Rational Actor Model of Voting**
+## A Rational Actor Model of Voting {background-image="Images/Background-Rally_v2.png" .center}
 
 ![](Images/07_1-Mobile voting.jpg){style="display: block; margin: 0 auto"}
 
 ::: notes
 
-What if we developed a rational actor model of voting
+Many researchers have utilized a version of what we call a "rational actor model of voting"
 
-- In other words, our model assumes that individuals decide to vote or not by strategically weighting the costs and benefits of voting
-
-- We expect individuals to vote ONLY if the perceived benefits outweigh the costs
-
-- **Does this very simple model make sense?**
+- **Has anybody ever heard a version of this type of model?**
 
 <br>
 
-We can't actually test this model itself, but what we can do is identify what this model expects the world to look like assuming it were "true"
+SLIDE: Let's talk about the basics...
+
+:::
+
+
+
+
+## A Rational Actor Model of Voting {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+```{r, fig.retina = 3, fig.align = 'center', fig.width = 6, fig.height=.85, out.width='85%'}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Utility\nof Voting", "Voting")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 8) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow())
+```
+
+### Assumptions
+
+1. There are individual costs to voting
+
+2. There are individual benefits to voting
+
+3. There are societal benefits to voting
+
+4. Individuals are strategically rational
+
+
+::: notes
+
+This is a simplified version of the model proposed by Edlin, Gelman and Kaplan (2007)
+
+- *Step through model assumptions including weighing costs and benefits*
+
+<br>
+
+**Does this very simple model make sense?**
+
+<br>
+
+Here's the problem
+
+- We can't actually test this model itself, but what we can do is identify what this model expects the world to look like assuming it were "true"
 
 - **So, what is a testable implication of a rational voter model?**
 
