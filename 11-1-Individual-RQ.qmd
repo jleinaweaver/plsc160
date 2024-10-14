@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Refining your research question
 
 :::
 
@@ -29,7 +29,7 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Review Canvas submissions
 
 <br>
 
@@ -38,29 +38,9 @@ Prep for Class
 
 
 
-## {background-image="Images/background-teal4.png" .center}
-
-::: notes
-
-
-:::
 
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
 
-<br>
 
-1. Baglione ch 4
-
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
-
-::: notes
-
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
-
-<br>
-
-**Questions on the assignment?**
-:::

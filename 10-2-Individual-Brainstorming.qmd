@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Brainstorming puzzles
 
 :::
 
@@ -29,7 +29,7 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Review Canvas submissions
 
 <br>
 
@@ -38,29 +38,124 @@ Prep for Class
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## Research Proposal: The Sections {background-image="Images/Background-Rally_v2.png" .center}
+
+1. Introduction: We have a puzzle!
+
+    - Introduce the RQ and make an argument that answering it is important
+
+2. Literature Review: What do we know?
+
+    - Organize and evaluate the relevant academic literature while making an argument about the "best" approach for your project
+
+3. Theory: My proposed answer
+
+    - Explain your answer using a DAG, the key assumptions in your model, and the hypotheses you plan to test
 
 ::: notes
 
+Don't forget the assignment deadline tomorrow.
+
+<br>
+
+**Any questions on the assignment?**
+
+<br>
+
+Now it's time to look forward!
+
+- Over the next 6 weeks each of you will redo this exercise on your own in order to develop your own research proposal
+
+- Along the way we will be here to support you, but this will be your project
+
+<br>
+
+SLIDE: Assignment for today
 
 :::
 
 
 
-
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## Assignment for Today {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-1. Baglione ch 4
+Find a news story illustrating a type of event or puzzle you find intriguing and may use to develop your research proposal. 
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+1. Submit an APA citation to your evidence, and
+
+2. An explanation of what specifically you are intrigued by in this example/case
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+For today I asked everybody to bring in a news story that illustrates the kind of event or puzzle in the world you might want to research
 
 <br>
 
-**Questions on the assignment?**
+Before we discuss all these introguing ideas, let's talk about the next step in the process
+
+- SLIDE: Assignment for next class
+
 :::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Developing your Research Question
+
+1. What is your research question?
+
+2. What brought you to this topic? 
+
+3. Why should we care about it?
+
+::: notes
+
+This is the same prompt I gave to the kids in Senior Seminar
+
+<br>
+
+Expound on each of these for us!
+
+- Prompts 2 and 3 require a paragraph of discussion (3-5 sentences), AND
+
+- Third prompt should include evidence!
+
+<br>
+
+**Questions on the assignment for next class?**
+
+<br>
+
+Ok, let's circle up and hear all the cases you submitted for class today
+
+- Let's use these to stimulate discussion
+
+- I'm not looking for research questions yet, just interesting conversations about topics important in the political world
+
+<br>
+
+Let's go!
+
+- Jot down notes as we go, anything that sounds intriguing to you!
+
+- *Try to keep this fun and loose, discourage jumping to the end*
+
+- *Think of this like pizza and politics!*
+
+<br>
+
+**Does everybody have some good material to work from for the next step in our project development?**
+
+- Excellent!
+:::
+
+
+
+
+
+
+

@@ -326,8 +326,6 @@ SLIDE: Let's end by discussing the structure of your theory section for the prop
 
 ## The Research Proposal {background-image="Images/Background-Rally_v2.png"  .center}
 
-<br>
-
 ### The Theory Section
 
 - Organized as an argument paper
