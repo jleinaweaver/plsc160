@@ -29,18 +29,154 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. Review Canvas submissions
+1. Bring lots of markers
+
+2. Review Canvas submissions
+    - Developing your Research Question: Same prompt as what we gave Senior Seminar class. 1. What is your research question? 2. What brought you to this topic? 3. Why should we care about it?
 
 <br>
 
+SLIDE: Aim for the second half of the semester
 
 :::
 
 
 
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+Each of you will develop and write-up a good research proposal
+
+- We'll work together to develop the three components you need
+
+<br>
+
+SLIDE: Aim for this week
+
+:::
 
 
 
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+<br>
+
+### Section 1: The Introduction
+
+- Make an argument that answering your research question is important
+
+::: notes
+
+This week we map out section 1 of the final proposal: What is your research question and why is it important?
+
+<br>
+
+For today everybody submitted their pitch for a "good" research question
+
+- SLIDE: Let's refresh our criteria for RQs
+
+:::
 
 
 
+## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### A good question...
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+::: {.fragment}
+- makes absolutely clear what you are trying to explain (e.g. the outcome)
+:::
+
+::: notes
+
+We'll use the criteria from the readings to help guide our evaluations
+
+- **Any questions on the criteria before we apply them?**
+
+<br>
+
+PAIRS (5 mins x 2 = 10 mins)
+
+- I want you to spend 5 minutes on each other's RQ
+
+- Each of you should practice presenting your RQ and explaining it to another person
+
+- Help the other person craft the strongest version of their RQ that you can
+
+<br>
+
+One additional note!
+
+- REVEAL: Make sure the question **clearly identifies the outcome variation to be explained**
+
+<br>
+
+**Questions on your job?**
+
+- I'll keep the time
+
+- Go!
+
+<br>
+
+Ok, everybody write their revised RQ on the board!
+
+- *PRESENT and DISCUSS each*
+
+- *Force the class to take the lead giving feedback and let volunteers determine order of presentation (in case time runs out)*
+
+<br>
+
+SLIDE: ASSIGNMENT for next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Outline Section 1
+
+- A "good" research question
+
+- A three premise importance argument
+
+- Each premise must include **AT LEAST ONE** piece of evidence (APA formatted citations)
+
+::: notes
+
+Remember, all of this is work on your final exam for this class
+
+- So, if you have concerns about your current research question it is up to you to strengthen it
+
+- We are going to keep pushing forward on the projects
+
+<br>
+
+**Any questions on the assignment?**
+
+:::

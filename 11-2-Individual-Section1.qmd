@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Developing Section 1
 
 :::
 
@@ -29,38 +29,118 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Review Canvas submissions
 
 <br>
 
-
+SLIDE: Aim for the second half of class
 :::
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
 
 ::: notes
 
+As you already know, but I like to keep our eyes on the prize here,  each of you are developing a good research proposal as your "final" for this class
+
+<br>
+
+SLIDE: This week
 
 :::
 
 
 
-
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-1. Baglione ch 4
+### Section 1: The Introduction
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+- Make an argument that answering your research question is important
+
+<br>
+
+### Outline
+
+- A "good" research question
+
+- A three premise importance argument with evidence
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+This week we've been developing the first section of those proposals
 
 <br>
 
-**Questions on the assignment?**
+Today I want each of you to get and give feedback on your outlines of Section 1
+
+- **Before we dig in, any questions for the group?**
+
+<br>
+
+Ok, your job today is to present your Section 1 outline to EVERYONE else in class AND hear theirs!
+
+- This is our last big chance to give each other feedback on the RQs before we move to the literature review
+
+<br>
+
+**IMPORTANT:** These two elements (a precise research question AND three importance premises) ARE the search terms you will use to find relevant academic literature!
+
+- **Make sense?**
+
+<br>
+
+Go!
+
 :::
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Identifying "Schools of Thought"
+
+::: {.incremental}
+
+- Gather **THREE** relevant, recent, political science journal articles that aim to answer your question.
+
+- Before class, read the introductions and literature reviews in each article
+
+- Submit to Canvas the APA citation for each article you have selected
+
+:::
+
+::: notes
+
+REVEAL x 3
+
+- **Any questions on the assignment?**
+
+:::
+
+
+
+
+
+
+
+
+
+
+
