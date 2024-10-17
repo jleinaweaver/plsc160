@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Finding the possible "Schools of Thought"
 
 :::
 
@@ -29,38 +29,117 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Review Canvas submissions
 
 <br>
 
-
+SLIDE: Our work last week
 :::
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Section 1: The Introduction
+
+- Make an argument that answering your research question is important
+
+<br>
+
+### Outline
+
+- A "good" research question
+
+- A three premise importance argument with evidence
 
 ::: notes
 
+At this point everyone has a good outline / first draft of Section 1 of their proposal
+
+<br>
+
+SLIDE: Now we shift to Section 2, the Literature Review
 
 :::
 
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-1. Baglione ch 4
+### Section 2: The Literature Review
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+- What are the current answers to your RQ?
+
+<br>
+
+### The Fundamentals of the Literature Review
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+Your work today in class is building up to writing this section of your proposal
 
 <br>
 
-**Questions on the assignment?**
+To do this, today I want each of you to consider the literature reviews in the three articles you brought to class
+
+- Each article should have covered and organized the established literature into "schools of thought"
+
+- Rather than reinvent the proverbial wheel, I want you to consider the options presented in these published articles
+
+- Your goal is to decide on the three "schools of thought" you will use in your proposal
+
+<br>
+
+**Questions on the task for today?**
+
+- Let's get to work and we'll check in before the end of class to make sure everyone has selected their three schools
+
 :::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Gathering the Literature
+
+- Submit APA citations for **TWO** relevant and recent political science journal articles for **EACH** of your selected "schools of thought"
+
+- To include an article in your list you MUST have access to the pdf
+
+::: notes
+
+This means you are adding six new articles to the three you already have from today
+
+- That's nine total articles by next class
+
+<br>
+
+**Any questions on the assignment?**
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+

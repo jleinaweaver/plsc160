@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Gathering the literature
 
 :::
 
@@ -29,38 +29,110 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Check Canvas submissions
 
 <br>
 
+SLIDE: Our work so far...
 
 :::
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Section 1: The Introduction
+
+- Make an argument that answering your research question is important
+
+<br>
+
+### Outline
+
+- A "good" research question
+
+- A three premise importance argument with evidence
 
 ::: notes
 
+Section 1 redux
+
+- **Everybody has this in good shape, right?**
+
+<br>
+
+SLIDE: This week we've shifted to Section 2
 
 :::
 
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-1. Baglione ch 4
+### Section 2: The Literature Review
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+- What are the current answers to your RQ?
+
+<br>
+
+### The Fundamentals of the Literature Review
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+At this point everyone in class should have three schools of thought and nine political science articles that aim to answer their RQ
 
 <br>
 
-**Questions on the assignment?**
+**Any questions on this exercise so far?**
+
+<br>
+
+Your work for today is to finish collecting the literature you need for your proposal
+
+- By the end of class your aim is to have **FOUR** articles per school minimum
+
+- This should give you a bibliography of at least 12 sources
+
+<br>
+
+SLIDE: Before end of class let's highlight your work for next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Prepping the Literature Review
+
+- Review the four articles in your first "school"
+
+<br>
+
+### Submit your evaluation of School 1:
+    
+1. At least three strengths
+    
+2. At least three weaknesses
+
+::: notes
+
+For next class I want you to dig into the articles in the first school of thought only
+
+<br>
+
+**Any questions on the assignment?**
+
 :::

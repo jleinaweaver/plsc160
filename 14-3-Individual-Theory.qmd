@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Outlining your Theory Section
 
 :::
 
@@ -33,34 +33,67 @@ Prep for Class
 
 <br>
 
-
+SLIDE: Let's work on getting these theory outlines done!
 :::
 
 
 
-## {background-image="Images/background-teal4.png" .center}
-
-::: notes
-
-
-:::
-
-
-
-
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-1. Baglione ch 4
+### Section 3: Theory
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
-
-::: notes
-
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+- My proposed answer to the RQ
 
 <br>
 
-**Questions on the assignment?**
+### Explain your answer using:
+
+- A DAG
+
+- The assumptions underpinning your causal arrow
+
+- At least two testable hypotheses
+
+::: notes
+
+Your job for today is to complete your outline of the theory section of your paper
+
+- Outline must be submitted BEFORE class ends
+
+<br>
+
+**Any questions before we dive in?**
+
+- Let's get to work!
+
+<br>
+
+*BEFORE class ENDS*
+
+- SLIDE: Goals for next class
+
 :::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Submit a completed outline of your final proposal
+
+- All key elements must be included
+
+- Bullet points as complete sentences
+
+- Bibliography and in-text citations in APA
+
+::: notes
+
+**Any questions on the assignment?**
+
+:::
+
+

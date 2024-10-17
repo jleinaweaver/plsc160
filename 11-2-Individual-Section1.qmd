@@ -133,14 +133,3 @@ REVEAL x 3
 - **Any questions on the assignment?**
 
 :::
-
-
-
-
-
-
-
-
-
-
-

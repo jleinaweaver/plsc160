@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Outlining your Literature Review
 
 :::
 
@@ -38,29 +38,75 @@ Prep for Class
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Section 2: The Literature Review
+
+- What are the current answers to your RQ?
+
+<br>
+
+### The Fundamentals of the Literature Review
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
 
 ::: notes
 
+Over the last two weeks we have gathered and evaluated a sample of the academic literature that has tried to answer your research question
+
+- Your job for today is to complete your outline of the Lit Review section of your paper
+
+- Outline must be submitted BEFORE class ends
+
+<br>
+
+**Any questions before we dive in?**
+
+- Let's get to work!
+
+<br>
+
+*BEFORE class ENDS*
+
+- SLIDE: Goals for next class
 
 :::
 
 
 
-
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## By the END of Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
 <br>
 
-1. Baglione ch 4
+### Section 3: Theory
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+- My proposed answer to the RQ
+
+<br>
+
+### Explain your answer using:
+
+- A DAG
+
+- The assumptions underpinning your causal arrow
+
+- At least two testable hypotheses
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+By the **END** of the next class you will submit an outline of the theory section of your proposal. 
+
+- The outline must clearly include these three things
 
 <br>
 
-**Questions on the assignment?**
+**Any questions on the assignment?**
+
 :::
+
+

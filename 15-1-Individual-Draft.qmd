@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Reviewing outlines and writing the final proposal
 
 :::
 
@@ -29,38 +29,72 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Review Canvas submissions
 
 <br>
 
-
+SLIDE: Big picture wrap-up
 :::
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
 
 ::: notes
 
+Big picture aims for the class
 
 :::
 
 
 
+## Research Proposal: The Sections {background-image="Images/Background-Rally_v2.png" .center}
 
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+1. Introduction: We have a puzzle!
 
-<br>
+    - Introduce the RQ and make an argument that answering it is important
 
-1. Baglione ch 4
+2. Literature Review: What do we know?
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+    - Organize and evaluate the relevant academic literature while making an argument about the "best" approach for your project
+
+3. Theory: My proposed answer
+
+    - Explain your answer using a DAG, the key assumptions in your model, and the hypotheses you plan to test
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+Your final research proposal should mirror the class proposal you did at midterm
+
+- Three sections, each of which advances an argument
+
+- **Any questions on the assignment?**
 
 <br>
 
-**Questions on the assignment?**
+I'll work through the outlines you submitted on Canvas
+
+<br>
+
+Your plan for today
+
+1. PAIRS: Get and give feedback on your outlines
+
+2. Writing workshop!
+
+
 :::
+

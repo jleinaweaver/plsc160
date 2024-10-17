@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Evaluating your third "school of thought"
 
 :::
 
@@ -29,38 +29,124 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Review Canvas submissions
 
 <br>
 
+SLIDE: Let's finish evaluating your final school of thought
 
 :::
 
 
 
-## {background-image="Images/background-teal4.png" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Section 2: The Literature Review
+
+- What are the current answers to your RQ?
+
+<br>
+
+### The Fundamentals of the Literature Review
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
 
 ::: notes
 
+For today everyone completed their evaluations of the third and final school of thought from the bibliography
+
+- Let's review your evaluations in pairs
+
+<br>
+
+PAIRS (10 mins)
+
+- Take a few minutes to review and give feedback on the strengths/weaknesses submitted by the other person to Canvas today
+
+- I know you aren't familiar with the specific articles analyzed by the other person, BUT their strengths and weaknesses should be clear enough to understand without that familiarity!
+
+- Go!
 
 :::
 
 
 
-
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-1. Baglione ch 4
+### Section 3: Theory
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+- My proposed answer to the RQ
+
+<br>
+
+### Explain your answer using:
+
+- A DAG
+
+- The assumptions underpinning your causal arrow
+
+- At least two testable hypotheses
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+Ok, just like last class, let's now shift your focus to the theory sections of the papers in your final school of thought
+
+- Specifically, I want you to diagram the DAGs and assumptions for each of the four articles in the third school of thought
 
 <br>
 
-**Questions on the assignment?**
+**Questions on what I'm asking you to do?**
+
+- Get to it!
+
+<br>
+
+*15 minutes left*
+
+Let's share something you've learned today!
+
+- Everybody put ONE of the DAGs and models you diagrammed today on the board
+
+- *PRESENT and DISCUSS each*
+
+:::
+
+
+
+## By the END of Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Outline your Literature Review
+
+<br>
+
+### The Fundamentals of the Literature Review
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
+
+::: notes
+
+By the **END** of class on Thursday you will submit an outline of the literature review section of your proposal. 
+
+- The outline must clearly include all of the elements required by Baglione's list of the four "fundamentals" for a literature review.
+
+<br>
+
+So, you'll have time in class to finish up your analyses of the three schools with a deadline at the end of class for getting the outline on paper
+
+<br>
+
+**Any questions on the assignment?**
+
 :::

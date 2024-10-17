@@ -14,9 +14,9 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-1. Theories, Models and Hypotheses Basics 
+**Designing an individual research project**
 
-2. ?
+- Evaluating your first "school of thought"
 
 :::
 
@@ -29,38 +29,174 @@ Justin Leinaweaver (Fall 2024)
 ::: notes
 Prep for Class
 
-1. TBD
+1. Review Canvas submissions
 
 <br>
 
+SLIDE: Our work so far...
 
 :::
 
 
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
 
-## {background-image="Images/background-teal4.png" .center}
+<br>
+
+### Section 1: The Introduction
+
+- Make an argument that answering your research question is important
+
+<br>
+
+### Outline
+
+- A "good" research question
+
+- A three premise importance argument with evidence
 
 ::: notes
 
+Two weeks ago everybody set up their individual research proposal 
+
+- At this point everyone has a RQ and the outline of an importance argument
+
+<br>
+
+SLIDE: Last week we shifted to Section 2
 
 :::
 
 
-
-
-## For Next Class {background-image="Images/background-blue_triangles.jpg" .center}
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-1. Baglione ch 4
+### Section 2: The Literature Review
 
-2. Koubi, V. (2019). Climate Change and Conflict. *Annual Review of Political Science*, 22(1), 343–360.
+- What are the current answers to your RQ?
+
+<br>
+
+### The Fundamentals of the Literature Review
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
 
 ::: notes
 
-For next class, read Baglione and focus on the literature review in the Koubi (2019)
+At this point everyone has three schools of thought and at least four political science research articles as examples of each
+
+- That means you completed the first two of Baglione's "Fundamentals" last week!
+
+- For today each of you began analyzing the first school of thought in order to cover the third and fourth fundamental tasks
 
 <br>
 
-**Questions on the assignment?**
+PAIRS (10 mins)
+
+- Take a few minutes to review and give feedback on the strengths/weaknesses submitted by the other person to Canvas today
+
+- I know you aren't familiar with the specific articles analyzed by the other person, BUT their strengths and weaknesses should be clear enough to understand without that familiarity!
+
+- Go!
+
+<br>
+
+Before we discuss next steps for today, let's flag your work for next class
+
+- SLIDE
+
 :::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Prepping the Literature Review
+
+- Review the four articles in your SECOND "school"
+
+<br>
+
+### Submit your evaluation of School 2:
+    
+1. At least three strengths
+    
+2. At least three weaknesses
+
+::: notes
+
+For next class you repeat the work of today but focused on the second school of thought only
+
+<br>
+
+**Any questions on the assignment?**
+
+<br>
+
+SLIDE: Back to School 1!
+
+:::
+
+
+
+## Developing your Research Proposal {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Section 3: Theory
+
+- My proposed answer to the RQ
+
+<br>
+
+### Explain your answer using:
+
+- A DAG
+
+- The assumptions underpinning your causal arrow
+
+- At least two testable hypotheses
+
+::: notes
+
+As you already know, the third and final section of your proposal focuses on your proposed answer to the research question
+
+- e.g. the model you are proposing to test
+
+<br>
+
+Given that you've done a ton of work on the articles in the first school, let's finish with those articles before moving to the second school
+
+- I want you to use the bulk of our class time today to evaluate the theories proposed in these articles from the first school
+
+- Specifically, I want you to diagram the DAGs and assumptions for each of the four articles in the first school of thought
+
+<br>
+
+**Questions on what I'm asking you to do?**
+
+- Get to it!
+
+<br>
+
+*15 minutes left*
+
+Let's share something you've learned today!
+
+- Everybody put ONE of the DAGs and models you diagrammed today on the board
+
+- *PRESENT and DISCUSS each*
+
+<br>
+
+Don't forget your assignment for next class
+
+- Focus on evaluating the strengths and weaknesses of the second school
+
+:::
+
