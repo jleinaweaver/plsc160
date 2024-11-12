@@ -75,9 +75,9 @@ SLIDE: Last week we shifted to Section 2
 
 - What are the current answers to your RQ?
 
-<br>
-
-### The Fundamentals of the Literature Review
+::: {.r-fit-text}
+**Baglione's Fundamentals of the Literature Review**
+:::
 
 1. What are the relevant schools?
 2. How does each answer the question?
@@ -102,45 +102,8 @@ PAIRS (10 mins)
 
 - Go!
 
-<br>
-
-Before we discuss next steps for today, let's flag your work for next class
-
-- SLIDE
-
 :::
 
-
-
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
-
-<br>
-
-### Prepping the Literature Review
-
-- Review the four articles in your SECOND "school"
-
-<br>
-
-### Submit your evaluation of School 2:
-    
-1. At least three strengths
-    
-2. At least three weaknesses
-
-::: notes
-
-For next class you repeat the work of today but focused on the second school of thought only
-
-<br>
-
-**Any questions on the assignment?**
-
-<br>
-
-SLIDE: Back to School 1!
-
-:::
 
 
 
@@ -197,6 +160,34 @@ Let's share something you've learned today!
 Don't forget your assignment for next class
 
 - Focus on evaluating the strengths and weaknesses of the second school
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+### Prepping the Literature Review
+
+- Review the four articles in your SECOND "school"
+
+<br>
+
+### Submit your evaluation of School 2:
+    
+1. At least three strengths
+    
+2. At least three weaknesses
+
+::: notes
+
+For next class you repeat the work of today but focused on the second school of thought only
+
+<br>
+
+**Any questions on the assignment?**
 
 :::
 

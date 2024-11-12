@@ -47,9 +47,9 @@ SLIDE: Let's keep pushing forward in our work!
 
 - What are the current answers to your RQ?
 
-<br>
-
-### The Fundamentals of the Literature Review
+::: {.r-fit-text}
+**Baglione's Fundamentals of the Literature Review**
+:::
 
 1. What are the relevant schools?
 2. How does each answer the question?
