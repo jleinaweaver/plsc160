@@ -1,0 +1,449 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Practice diagramming models
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Markers x 4
+
+3. Readings
+
+    - Fortna, Lotito & Rubin (2018) model (Week 3-2)
+    - Martinez i Coma, F., & Morgenbesser, L. (2020) (Week 4)
+
+<br>
+
+Your assignment for today was to diagram the model in Fortna, Lotito & Rubin (2018)
+
+- *Split class into four groups*
+
+- Go sit with your group
+
+<br>
+
+**SLIDE**: Let's get to work
+
+:::
+
+
+
+## Diagram the Model {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/02_1-Fortna2018-Title.png)
+
+::: notes
+
+**What's the research question in this paper?**
+
+- (Why do some rebel groups use terrorism and others do not?)
+
+<br>
+
+Ok groups, compare notes from your Canvas submissions and get a consensus DAG and model diagram on the board!
+
+- Go!
+
+<br>
+
+*PRESENT and DISCUSS each version*
+
+- (**SLIDE**: My version)
+
+:::
+
+
+
+## Fortna, Lotito & Rubin (2018) {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r, fig.retina = 3, fig.align = 'center', fig.width = 9, fig.height=.85, out.width='85%'}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Rebel\nFinancing", "Terrorism")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 0) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow())
+```
+
+- Rebel leaders are rational and consider the reception of "particular audiences" for terrorism
+
+- Terrorism has specific benefits but carries high legitimacy costs that may threaten group funding
+
+- Terrorism that threatens your funder should be avoided (domestic civilians, foreign democracies)
+
+- Terrorism that reinforces your control over funding is appealing (local natural resources)
+
+
+::: notes
+
+**Is this a clear answer to the research question? Why or why not?**
+
+- (Super intriguing idea to think about terror groups as organizations that have to worry about resources)
+
+<br>
+
+**Is this a logical explanation for the answer? Why or why not?**
+
+<br>
+
+**Does this model connect to the hypotheses in the paper? (p4-5)**
+
+- H1: Rebel groups financed by the extraction of lootable natural resources are most likely to use terrorism, relative to those who rely on foreign sponsors or those who rely on local civilians.
+- H2: Rebel groups supported by foreign sponsors are more likely to use terrorism than those who rely on local civilian support alone, but less so than those financed by natural resources.
+- H3: Rebels funded by foreign democracies will be less likely to employ terrorism than those funded by foreign nondemocracies.
+- H4: Access to natural resource financing and external support, relative to reliance on civilian support, is more strongly related to a rebel group’s decision to use terrorism at all than to the scale of terrorism used once adopted.
+
+<br>
+
+**Ok, how are we doing with this exercise?**
+
+- **What is the hardest part of this diagramming for you?**
+
+<br>
+
+It'll only get easier with practice, so let's do it again!
+
+- *MAKE THREE NEW GROUPS*
+
+- Go sit with your new group!
+
+- **SLIDE**
+
+<br>
+
+*p784-785*
+
+- RQ: Why do some rebel groups use terrorism and others do not?
+
+- Rebel group financing ---> Terrorism
+
+- Three audiences p784 left column
+
+- Domestic civilians likely oppose terrorism even they aren't the target p784 left
+
+- Funding by local natural resources may make terrorism "an asset rather than a liability"
+
+- Funding by local civilians means terrorism is very risky
+
+- Funding by international sources may make terrorism feasible
+:::
+
+
+
+## Diagram the Model {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/14_2-MartinezeComa.png)
+
+::: notes
+
+**What's the research question in this paper?**
+
+- (What explains election turnout in authoritarian regimes?)
+
+<br>
+
+**SLIDE**: This paper pulls together three different mechanisms to explain voter turnout in authoritarian regimes.
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Martinez i Coma & Morgenbesser (2020)**
+:::
+
+```{r, fig.retina = 3, fig.align = 'center', fig.width = 9, fig.height=6, out.width='85%'}
+## Manual DAG
+d2 <- tibble(
+  x = c(-3, -2, -2, 3),
+  y = c(1, 2, 0, 1),
+  labels = c("Contestation", "Coercion", "Clientelism", "Turnout in\nauthoritarian\nregimes")
+)
+
+ggplot(data = d2, aes(x = x, y = y)) +
+  geom_point(size = 0) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow()) +
+ annotate("segment", x = -1.2, xend = 1.9, y = 1.8, yend = 1.2, arrow = arrow()) +
+  annotate("segment", x = -1.2, xend = 1.9, y = .2, yend = .8, arrow = arrow())
+```
+
+::: notes
+
+In short, the researchers argue that "turnout in authoritarian regimes is explained by contestation, coercion and clientelism"
+
+- By my reading of the paper, these are three somewhat distinct models rather than a single model with different implications
+
+<br>
+
+For ease of the exercise, let's attack these as separate models:
+
+- Group 1 focus on the contestation model that includes hypothesis 1 and hypothesis 1a
+
+- Group 2 focus on the coercion model that includes hypotheses 2a, 2b and 2c
+
+- Group 3 focus on the clientelism model that includes hypothesis 3
+
+<br>
+
+Ok Groups, work together to get your model diagram on the board!
+
+- These aren't easy, but that's why it's such a great exercise for us
+
+- Sharpen your tools! Go!
+
+<br>
+
+*PRESENT and DISCUSS each version*
+
+- (**SLIDE x 3**: My versions)
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+::: {.r-fit-text}
+**Martinez i Coma & Morgenbesser (2020): Contestation Model**
+:::
+
+- Authoritarians must choose whether to allow opposition parties to contest elections
+
+- If the government allows competition, it must be managed to prevent the opposition from winning (e.g. abuse election rules, rights and resources)
+
+- Citizens are less likely to engage in heavily managed elections
+
+- If the government eliminates competition (one-party state), then all government powers are focused on citizen compliance
+
+- Citizens in systems that demand total compliance are more likely to act in ways that please the government
+
+- Opposition boycotts of an election should decrease voting by the opposition (duh), swing voters (loss of faith in the process) AND supporters of the ruling party (aura of invincibility)
+
+**Therefore, turnout is higher in uncompetitive elections (H1) and lower if the opposition boycotts (H1a)**
+
+::: notes
+
+Group 1:
+
+**Any changes or revisions you'd like to make in my version?**
+
+<br>
+
+**Is this a clear answer to the research question? Why or why not?**
+
+<br>
+
+**Is this a logical explanation for the answer? Why or why not?**
+
+<br>
+
+**Does this model connect to the hypotheses in the paper? (p4-5)**
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+::: {.r-fit-text}
+**Martinez i Coma & Morgenbesser (2020): Coercion Model**
+:::
+
+- Citizens in authoritarian regimes fear being harmed by the government and act to avoid being harmed
+
+- The government signaling that they will only target the opposition with violence frees other citizens to participate without fear of retribution
+
+- Government violence against citizens creates an "atmosphere" of fear that increases citizen desire to demonstrate support for the regime
+
+- Government violence against the physical integrity of citizens should create more fear and compliance than violence against material goods
+
+**Therefore, turnout is higher if coercion targets opposition (H2a), if violence is frequent and dispersed (H2b), or when government threatens torture and killings (H2c)**
+
+::: notes
+
+Group 2:
+
+**Any changes or revisions you'd like to make in my version?**
+
+<br>
+
+**Is this a clear answer to the research question? Why or why not?**
+
+<br>
+
+**Is this a logical explanation for the answer? Why or why not?**
+
+<br>
+
+**Does this model connect to the hypotheses in the paper? (p4-5)**
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+::: {.r-fit-text}
+**Martinez i Coma & Morgenbesser (2020): Clientelism Model**
+:::
+
+- Authoritarian governments may provide benefits directly to citizens to induce their support in elections
+
+- Citizens are "favorable" to receiving any targeted benefits
+
+- Authoritarian governments also tend to provide inducements that are not otherwise available to citizens
+
+- Citizens are "favorable" to receiving targeted benefits they cannot otherwise obtain
+
+- *Not actually in the hypotheses: Citizens accepting these rewards must consider the extent of government monitoring of participation*
+
+**Therefore, turnout is higher when government provides targeted benefits (H3)**
+
+::: notes
+
+Group 3:
+
+**Any changes or revisions you'd like to make in my version?**
+
+<br>
+
+**Is this a clear answer to the research question? Why or why not?**
+
+<br>
+
+**Is this a logical explanation for the answer? Why or why not?**
+
+<br>
+
+**Does this model connect to the hypotheses in the paper? (p4-5)**
+
+
+**Is this a clear answer to the research question? Why or why not?**
+
+<br>
+
+**Is this a logical explanation for the answer? Why or why not?**
+
+<br>
+
+**Does this model connect to the hypotheses in the paper? (p4-5)**
+
+<br>
+
+**SLIDE**: Big picture
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Martinez i Coma & Morgenbesser (2020)**
+:::
+
+```{r, fig.retina = 3, fig.align = 'center', fig.width = 9, fig.height=6, out.width='85%'}
+## Manual DAG
+d2 <- tibble(
+  x = c(-3, -2, -2, 3),
+  y = c(1, 2, 0, 1),
+  labels = c("Contestation", "Coercion", "Clientelism", "Turnout in\nauthoritarian\nregimes")
+)
+
+ggplot(data = d2, aes(x = x, y = y)) +
+  geom_point(size = 0) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow()) +
+ annotate("segment", x = -1.2, xend = 1.9, y = 1.8, yend = 1.2, arrow = arrow()) +
+  annotate("segment", x = -1.2, xend = 1.9, y = .2, yend = .8, arrow = arrow())
+```
+
+::: notes
+
+**Ok, how are we doing with this exercise?**
+
+- **What is the hardest part of this model diagramming for you?**
+
+<br>
+
+**SLIDE**: Let's connect this back to your proposals
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+**Paper 3 (e.g. revised Paper 1) is due tomorrow**
+
+<br>
+
+**For Next Class**
+
+- Analyze the models in your literature review
+
+- Details on Canvas
+
+::: notes
+
+Two notes to end on!
+
+- *Read slide*
+
+<br>
+
+**Questions on the assignment or anything from today?**
+
+<br>
+
+Canvas ASSIGNMENT: Analyzing the Models in your Literature Review
+
+Review the models in the research articles in your bibliography and then answer the following questions. The more you invest in this process (reading and writing) the easier your final paper will be to complete.
+
+1. Which paper's model comes the closest to your thinking about the research question? Why? (Be specific! Explain the model and your reaction to it)
+2. Which paper's model do you like the least? Why? (Be specific! Explain the model and your reaction to it)
+3. When you compare across all of the models, what are the most common assumptions being made to answer questions in your topic?
+
+
+:::

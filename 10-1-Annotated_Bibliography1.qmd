@@ -1,0 +1,298 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Developing your annotated bibliography (AB)
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: For today I asked each of you to read the Baglione on AB's and to unpack the research articles you have gathered
+
+:::
+
+
+
+## Unpacking a Research Article {background-image="Images/Background-Rally_v2.png" .center}
+
+1. What is the research question?
+2. Why is the question important?
+3. What is the proposed answer to the question?
+4. What real-world cases are being analyzed?
+5. What are the bottom-line conclusions in the paper? 
+6. How confident is the researcher in these conclusions?
+7. What future research does the author suggest should follow this paper?
+
+::: notes
+
+**How did this go?**
+
+- **Is unpacking a research article getting easier with practice?**
+
+<br>
+
+**Which parts do you find the most challenging to unpack?**
+
+<br>
+
+**SLIDE**: Let's shift our focus to the Baglione chapter excerpt
+
+:::
+
+
+
+## Baglione (2019) Chapter 3 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**What is a bibliography and why is it important?**
+
+::: notes
+
+(p50-53)
+
+- A treasure map!
+
+- A list of sources that "provides all the information that contributed to the work"
+
+- The list helps to "legitimize" your work by showing: 1) you are connected to other high quality work, and 2) You are aware of the big debates about your topic
+
+:::
+
+
+
+## Baglione (2019) Chapter 3 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### What do we have to cite and why is paraphrasing better than quoting?
+
+::: notes
+
+(p53-55)
+
+- Plagiarism is passing off someone's ideas or words as your own
+
+- You MUST cite ideas and information, not just quotations.
+
+- Paraphrasing: "...restating in their own words the sense of others' arguments and citing the original sources" (54).
+    - Keep the argument in YOUR words, YOUR voice
+    
+    - Look at any high quality published research article and you will see almost only paraphrasing, not quoting!
+    
+<br>
+
+**Questions on these very important topics?**
+
+:::
+
+
+
+## Baglione (2019) Chapter 3 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### What is an annotated bibliography (AB)?
+
+::: notes
+
+**Per Baglione, what is the AB?**
+
+- **Put differently, what should the "annotation" do in this context?**
+
+- (**SLIDE**)
+
+:::
+
+
+
+## Annotating a Research Article {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (Baglione 2020, 59).
+
+::: notes
+
+(p59-88)
+
+- Adds an "annotation" to each entry in your bibliography
+
+- The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (59).
+
+- Adopt the form: "The author argues/asserts/contends/insists" but never "This work is about..."
+
+<br>
+
+**How is this activity different from the summary exercise you did for class today?**
+
+- Our outlining exercise so far this semester has been about summarizing the basic elements of a research paper
+
+- Your AB is written in paragraph form (not bullet points) and summarizes the argument AS IT PERTAINS TO ANSWERING YOUR RESEARCH QUESTION
+
+- If I wanted to answer my question but all I had was this article, what would I say is the extent of our knowledge?
+
+- What are the valuable "bits" in this article a researcher should consider if working in this area? 
+    
+    - e.g. useful data, sources, cases, theories 
+
+<br>
+
+**Does this make sense?**
+
+- **Did the examples in the chapter help?**
+
+<br>
+
+I know Baglione also argues that an AB should be organized and grouped by ideas or answers to your RQ, but I think we'll hit those points in our work next week
+
+- **Any questions before we practice this?**
+
+:::
+
+
+
+## Annotating a Research Article {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (Baglione 2020, 59).
+
+<br>
+
+**Annotate one of the articles in your bibliography**
+
+- What is this article's answer to the RQ?
+
+- Why is this article useful or important? (x3)
+
+::: notes
+
+Let's practice!
+
+- Everybody take 15 minutes to write the annotation for one of the articles on their bibliography
+
+<br>
+
+**SLIDE**: Let's get some feedback
+
+:::
+
+
+
+## Annotating a Research Article {background-image="Images/Background-Rally_v2.png" .center}
+
+The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (Baglione 2020, 59).
+
+<br>
+
+**Pairs: Read the annotation and give feedback...**
+
+- Do you understand this article's answer to the RQ?
+
+- Do you understand how and why this article is useful or important? (x3)
+
+::: notes
+
+Share your annotation with the person next to you
+
+- Other person, don't agonize the feedback, you shouldn't know anything about the article they are annotating
+
+- Read the annotation, and evaluate these two things
+
+- The author of the annotation needs to know if either of these things aren't clear enough
+
+- Go!
+
+<br>
+
+**SLIDE**: Revision time
+
+:::
+
+
+
+## Annotating a Research Article {background-image="Images/Background-Rally_v2.png" .center}
+
+The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (Baglione 2020, 59).
+
+<br>
+
+**Revise your annotation**
+
+1. Make both elements clearer, AND
+
+2. Make sure your three reasons this article is a important are clear and distinct
+
+::: notes
+
+Ok, take the feedback on board and spend TEN minutes revising your annotation.
+
+- Make both elements clearer, AND
+
+- Let's aim for AT LEAST THREE reasons this article is an important contribution to the research
+
+<br>
+
+Now, go read everybody elses' annotations
+
+- Go see them all!
+
+- Get and give more feedback
+
+<br>
+
+**Any questions on the annotation exercise?**
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+:::
+
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Submit your annotated bibliography for the six sources you have gathered and unpacked**
+
+::: notes
+
+**Questions on our work today or the assignment?**
+
+<br>
+
+Canvas ASSIGNMENT: Annotated Bibliography (six sources) (10 pts)
+
+Submit your annotated bibliography with all six sources annotated per the advice in the Baglione book.
+
+:::

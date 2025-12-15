@@ -1,0 +1,477 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+Gathering and evaluating "facts" about the political world
+
+- (with science!)
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review and record participation submissions
+
+2. Markers x 4
+
+<br>
+
+**SLIDE**: Refresh course basics
+
+:::
+
+
+## Canvas is the backbone of our class {background-image="Images/Background-Rally_v2.png"  .center}
+
+![](Images/01_1-Canvas_Homepage.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Any questions or difficulty using Canvas for this class so far?**
+
+<br>
+
+**Any problems submitting your participation assignment today?**
+
+:::
+
+
+
+## The answer is probably in the syllabus  {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/01_1-Course_Syllabus.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**With a couple days to think about it, any questions on the syllabus or the requirements of the class?**
+
+:::
+
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/01_2-computer_scientist.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+We have two big picture aims for today:
+
+1. We must make sure that everyone understands what it means to adopt a scientific approach to generating knowledge, and
+
+2. We need to reflect for a bit on the uncertain nature of "facts"
+
+<br>
+
+Importantly, these two aims are related to each other
+
+- It is BECAUSE facts are uncertain and evolving over time that we must use science to develop knowledge
+
+- If your chosen method for developing knowledge is fixed it can never explain the variations over time
+
+<br>
+
+Ok, that got a little deep so let's step back and build to it.
+
+- **Based on the Donovan and Hoover reading, what are the key elements to using a scientific method to generate knowledge?**
+
+- Talk to the people around you and in 2 minutes you'll help me make a list on the board, go!
+
+<br>
+
+*Track responses ON BOARD and DISCUSS / CLARIFY as needed*
+
+<br>
+
+**SLIDE**: Let's see if we missed anything in my notes
+
+:::
+
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+"The point is that the scientific method seeks to test thoughts against observable evidence in a disciplined manner, with each step in the process made explicit" (H&D p30).
+
+- We must clearly identify and define our concepts,
+
+- We must clearly explain our theories and hypotheses,
+
+- We must THEN gather appropriate, high quality evidence
+
+- We must analyze our hypotheses using data, and
+
+- We must acknowledge the uncertainty in our conclusions
+
+::: notes
+
+**Any questions on these elements?**
+
+<br>
+
+**SLIDE**: Let's shift to the Arbesman chapter
+
+:::
+
+
+
+## The Half-life of Facts {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### What are your takeaways from the Arbesman (2012) chapter?
+
+::: {.fragment}
+- Facts have a "half-life"
+
+- Facts can be classified by their speed of change
+
+- Studying the spread of knowledge is valuable 
+:::
+
+::: notes
+
+**Ok, talk to the people around you and in two minutes you'll help me make a list on the board, go!**
+
+<br>
+
+*Track responses ON BOARD and DISCUSS / CLARIFY as needed*
+
+<br>
+
+**REVEAL**
+
+<br>
+
+Facts change all the time (p2)
+
+- Smoking was once doctor recommended, meat / eggs good and or bad for you, Earth was center of the universe in our models, dinosaurs now have feathers!
+
+<br>
+
+"Facts, in the aggregate, have half-lives (p2)
+
+- We can measure the amount of time for half of a subject's knowledge to be overturned" (p3).
+
+- Classified along a dimension running from "fast-changing facts" (e.g. weather forecast, stock market close) to "very slow-changing facts" (e.g. number of fingers on your hand). (p6)
+
+- Majority of facts in the middle, **"mesofacts"** change at the middle timescale
+
+<br>
+
+Accepting this truth, will help you make sense of the world!
+
+- **Uncertainty is a natural** part of the evolution of our knowledge, NOT SOMETHING TO BE FEARED!
+
+<br>
+
+**SLIDE**: Let's process some new "facts"!
+
+:::
+
+
+
+## Let's process some new "facts"!  {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/01_2-data-processing.jpeg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+For today, each of you submitted a recent news story that asserts a NEW "fact" about the political world that you are confident is true
+
+- **How did that go? Was it hard to find a fact in the news?**
+
+<br>
+
+Everybody open up the Canvas discussion with all of the submissions in it
+
+- Take a couple minutes to skim through everything that's been submitted
+
+- Think about your level of confidence in these "facts" as you read
+
+<br>
+
+*Split class into small groups (four groups for board space)*
+
+- Go sit with your group!
+
+:::
+
+
+
+## 1. Evaluate the Submissions  {background-image="Images/Background-Rally_v3.png" .center}
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+![](Images/01_2-Evaluation.png){style="display: block; margin: 0 auto"}
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+
+::: {.column width="50%"}
+### Confidence Level
+
+- High (4)
+
+- Moderate (3)
+
+- Low (2)
+
+- None (1)
+:::
+
+::::
+
+::: notes
+
+GROUPS, your first job is to review and classify all of the submissions using this scale
+
+- Make sure to take notes on the score you are giving each fact
+
+- **Questions?**
+
+- Go!
+
+<br>
+
+Groups, now put your aggregate results on the board as a simple table
+
+- e.g. a count of the number of "facts" in each category
+
+<br>
+
+Remember, each group was evaluating the same cases
+
+**Do the aggregate results match across the groups? Why or why not?**
+
+<br>
+
+**What does that remind us is key about using the scientific method to generate knowledge?**
+
+- (Science means you must be transparent in your methods!)
+
+- (It is SO, SO, SO important to design precise instruments to ensure reliable measurements)
+
+<br>
+
+**SLIDE**: Next job
+
+:::
+
+
+
+## 2. Rank the Submissions {background-image="Images/Background-Rally_v3.png" .center}
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+![](Images/01_2-cartoon_race.webp){style="display: block; margin: 0 auto"}
+
+:::
+
+::: {.column width="30%"}
+
+::: {.r-fit-text}
+- Top 5
+
+- Bottom 5
+
+:::
+
+:::
+
+::::
+
+::: notes
+
+GROUPS, your next job is to create two lists of top-5's
+
+- List 1: The five "facts" you are MOST confident in
+
+- List 2: The five "facts" you are LEAST confident in
+
+- Put your lists on the board
+
+<br>
+
+**Questions?**
+
+- Go!
+
+<br>
+
+**SLIDE**: One more step before we discuss the results
+
+:::
+
+
+## 3. Identify Key Characteristics {background-image="Images/Background-Rally_v3.png" .center}
+
+<br>
+
+### Make Two Lists
+
+1. What specific characteristics boosted your confidence? 
+
+2. What specific characteristics lowered your confidence?
+
+
+::: notes
+
+GROUPS, with your scores and rankings complete I now want you to step back and generalize from the exercise.
+
+<br>
+
+Make two lists of characteristics for us.
+
+- Focus on the top-5 and describe what they have in common or what they did so well
+
+- Then focus on the bottom-5 and repeat the exercise
+
+- After this we all report back and see where we ended up
+
+<br>
+
+**SLIDE**: Report back
+
+:::
+
+
+
+## Let's process some new "facts"!  {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/01_2-data-processing.jpeg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Ok groups, give us your top-5, your bottom-5 and the key characteristics you relied on for the evaluations**
+
+- *PRESENT and DISCUSS all*
+
+- *NOTES ON BOARD*
+
+:::
+
+
+
+## Given the aim of this class is to prepare you to do scientific research on the political world, what are the big takeaways from our work today? {background-image="Images/Background-Rally_v2.png" .center}
+
+::: notes
+
+*DISCUSS*
+
+<br>
+
+SLIDE: My takeaways...
+
+:::
+
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.incremental}
+1. Science is a process for converting empirical observations into knowledge (e.g. the "why" of it all)
+
+2. The scientific method prioritizes transparency and replicatability
+
+3. ALL facts have a half-life which makes higher quality facts more valuable
+
+4. Science is never finished, so, be humble in your conclusions
+
+::::
+
+::: notes
+
+**REVEAL x 4**
+
+<br>
+
+Remember, science is a process for generating knowledge, not a bucket of facts about the natural world
+
+- Science is never complete, our conclusions are never certain
+
+<br>
+
+Our job is to reduce the uncertainty in the world and we do this by being transparent in our methods and replicatable in our work
+
+- Knowledge that cannot be independently confirmed is not useful.
+
+<br>
+
+Bottom line, you can study anything "scientifically."
+
+- Even politics!
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Reflecting on your News Diet**
+
+- Where do you get your "news"?
+
+- Find us an intriguing recent "news" story
+
+- Details on Canvas
+
+:::
+
+::: notes
+
+<br>
+
+**Questions on the assignment or anything from today?**
+
+<br>
+
+Canvas ASSIGNMENT: Reflecting on your News Diet
+
+1. Where do you most often get your daily news? Be specific
+2. What is one source of news that you know is not reliable that you CONTINUE to rely on? Why? What do you like about it?
+4. What is one source of news that you rely on that you feel confident is reliable? Why?
+5. Submit one recent news story that you found intriguing. Give us the APA citation, and a short explanation for why you find it intriguing
+
+:::

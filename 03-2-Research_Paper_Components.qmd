@@ -1,0 +1,518 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Developing our Basic Research Tools**
+
+- Identifying the key components of published research
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Readings
+
+    - Krippner (2000)
+    - Hoover Green (2013)
+    - Fortna, V. P., Lotito, N. J., & Rubin, M. A. (2018). Don’t Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars. International Studies Quarterly, 62(4), 782–794. https://doi.org/10.1093/isq/sqy038
+    
+2. Bring your annotated copy of Fortna article to class
+
+    - Scanned and in Readings folder
+
+<br>
+
+**SLIDE**: This week we've been developing our research tools
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+
+**Research Tools**
+
+- A bibliography manager: Zotero
+
+- Top political science journals: Google Scholar
+
+- Argument paper basics: Farrell (2010)
+
+:::
+
+::: notes
+
+**Any questions on our work last class?**
+
+<br>
+
+I want everyone to commit to using these three tools all semester long
+
+- Save everything in Zotero with separate collections for each class
+
+- When I ask you for published research focus on the top-20 lists
+
+- And always keep Farrell in mind when writing an argument paper
+
+<br>
+
+**SLIDE**: Big picture aim of this class
+
+:::
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+By the end of the semester, you should be able to produce a research proposal
+
+- e.g. a coherent foundation for performing a scientific research project
+
+<br>
+
+That means being able to clearly communicate to the reader:
+
+1. An important research question, 
+
+2. The state of our knowledge about that question, and
+
+3. Your best argument for why the world behaves as it does
+
+<br>
+
+The best way to learn how to do this is to read widely from the academic literature
+
+- Learn from the experts as they struggle with the same challenges!
+
+<br>
+
+**SLIDE**: Let's start with the advice I assigned for reading research papers
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png"}
+
+::: {.r-fit-text}
+**How to Read a (Quantitative) Journal Article (Krippner 2000)**
+:::
+
+![](Images/02_1-Fortna2018-Fig2.png){.absolute left=150 width="750"}
+
+::: notes
+
+Let's start with the Krippner advice on reading quantitative research
+
+<br>
+
+**What big picture advice does Krippner (2000) offer you to help you read research papers?**
+
+- **Focus primarily on the first four bullet points!**
+
+- Talk to each other and then report back to me
+
+<br>
+
+**SLIDE**: My takeaways
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**How to Read a (Quantitative) Journal Article (Krippner 2000)**
+:::
+
+::: {.fragment}
+1. All research articles follow a formula
+    - Intro
+    - Theory
+    - Data / Methods
+    - Analysis
+    - Results / Discussion
+
+:::
+
+::: {.incremental}
+2. The answers SHOULD BE in the text
+
+3. Practice, practice, practice
+:::
+
+::: notes
+
+**REVEAL**: FIRST, all good scientific research "articles follow a formula"
+
+- Learning to read research article is like reading a recipe for a new meal
+
+- Each section has a very specific job and you will learn to quickly extract the key piece from each
+
+- **Any questions about what each section typically does (as per Krippner bullet 1)?**
+
+<br>
+
+**REVEAL**: SECOND, you shouldn't have to be a statistician to read quantitative research!
+
+- ALL the key info in the tables and visualizations SHOULD be described in the text!
+
+- A well written article should explain what they did and what they learned from doing it!
+
+<br>
+
+**REVEAL**: THIRD, this will get easier with time, practice and more experience learning research design.
+
+- THAT is one of the important purposes of this class
+
+<br>
+
+**Questions on this advice?**
+
+- The rest of the bullet points offer useful advice for dealing with data
+
+- Most of that work will wait until you take 296 Data analysis in the spring
+
+<br>
+
+**SLIDE**: Let's jump to the advice from Green (2013)
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**How to Read Political Science (Green 2013)**
+
+1. Title, Headings, Abstract	
+
+2. Skim for Signposts
+
+3. Read Strategically
+
+4. Review
+
+:::
+
+::: notes
+**Per Green (2013), how should we read a political science article?**
+
+- **What are the key pieces of advice in this essay?**
+
+- Talk to each other and then report back to me
+
+<br>
+
+I think this is really useful big picture advice
+
+- Scientific research articles are not precious collections of complex metaphors
+
+- They are NOT Shakespeare
+
+- You should not have to agonize over unpacking the author's meaning
+
+<br>
+
+Research articles should diagram the act of doing science
+
+- The arguments should be clearly flagged and explained!
+
+- The methods should be clearly applied and explained!
+
+<br>
+
+If the basic structure of the article doesn't make sense, than that's bad science!
+
+- That's not to say we will always understand the methods; tools are complex
+
+- BUT all of the elements of the recipe should be completely obvious on first read
+
+<br>
+
+**SLIDE**: Ok, lets combine all this advice and use it to propose an approach to reading research articles
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**How to Read Political Science (amended)**
+:::
+
+::: {.incremental}
+1. Carefully read the abstract, introduction and conclusion
+
+2. Develop an outline of the article (bullets and p#):
+    - The research question (why important?)
+    
+    - The key concepts (any debate?)
+    
+    - The main argument (key mechanisms?)
+    
+    - The data (sources and cases?)
+    
+    - The conclusions (how confident are they?)
+    
+3. Evaluate: What are the strongest and weakest parts of the paper? What knowledge has been created?
+:::
+
+::: notes
+
+I will not pretend this is the only way to do this, but I'd like to talk you through one useful way to read new literature
+
+- This is how I will ask you to explore the literature we read this week (and going forward)
+
+- **REVEAL** x 8
+
+<br>
+
+So, my advice:
+
+1. Read the abstract and introduction carefully to get a broad idea of the entire paper
+
+2. Skim the rest to summarize these key components
+
+3. Finally, take a moment to reflect on your summary of the paper and use it to evaluate the research
+    - Critical analysis!
+
+<br>
+
+**Make sense? Everybody have this written down?**
+
+<br>
+
+**Questions on this approach before we practice using the Fortna Lotito, & Rubin (2018) article?**
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/02_1-Fortna2018-Title.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+*Split class into small groups (3 per?)*
+
+- Sit with your group
+
+<br>
+
+**SLIDE**: Before class today everybody has already read the abstract, the introduction and the conclusion so we can dive straight in!
+
+:::
+
+
+
+## Fortna, Lotito and Rubin (2018) {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.r-fit-text}
+
+::: {.incremental}
+
+- The research question (why important?)
+    
+- The key concepts (any debate?)
+    
+- The main argument (key mechanisms?)
+    
+- The data (sources and cases?)
+    
+- The conclusions (how confident are they?)
+:::
+
+::::
+
+::: notes
+
+Let's use the article to practice the steps we've been discussing
+
+<br>
+
+**REVEAL**: Groups, get ready to report back on the research question this paper is trying to answer AND why the authors want you to believe it is important
+
+- (*DISCUSS*)
+
+<br>
+
+**REVEAL**: Ok, what are the key concepts raised in the abstract and introduction that we think need to be carefully defined?
+
+- (*Make a list ON BOARD*)
+
+<br>
+
+Groups, dig into the paper and find us the definitions for these concepts
+
+- Look for definitions in BOTH the theory section and the methodology section
+
+- *Report back*
+
+<br>
+
+**REVEAL**: Groups, now we need to find the researchers' answer to the RQ
+
+- Go to the section that ends with the hypotheses (p784)
+
+- Get ready to report back, what are the key premises in this argument?
+
+- (*ON BOARD*)
+
+<br>
+
+Ok, groups, now move to the data
+
+- Get ready to report back, where does the data come from?
+
+- (*ON BOARD*)
+
+<br>
+
+IMPORTANT: Save this list for your future self who needs to do research
+
+- You never know what data you'll need in the future!
+
+<br>
+
+**REVEAL**: Finally, groups, go to the end of the article and review the final conclusions
+
+- Get ready to report back, what are the bottom line conclusions these researchers believe we should accept? Are they confident in them?
+
+<br>
+
+**SLIDE**: Bottom line
+
+:::
+
+
+
+## Fortna, Lotito and Rubin (2018) {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Bottom Line Takeaways
+
+::: {.incremental}
+
+1. What are the strengths and weaknesses of this research paper?
+
+2. What knowledge has been created by this paper?
+
+:::
+
+::: notes
+
+Alright groups, only after completing this summary work can we move to the critical analysis step
+
+- NOW, reflect on these article summaries to give us our two takeaways
+
+<br>
+
+**REVEAL: What are the strengths and weaknesses of this research paper?**
+
+- (*DISCUSS*)
+
+<br>
+
+**REVEAL: What knowledge has been created by this paper?**
+
+- (*DISCUSS*)
+
+<br>
+
+**Alright, how are we feeling with this exercise?**
+
+- I promise this exercise gets easier and easier with practice
+
+- You will also get faster and faster at this the more you do it!
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+Xu, X. (2021). To Repress or to Co‐opt? Authoritarian Control in the Age of Digital Surveillance. *American Journal of Political Science*. 65(2), 309–325.
+
+1. Read the abstract, introduction and conclusion
+
+2. Unpack the article and submit to Canvas
+
+::: notes
+
+Next week we will practice everything from today on two new articles.
+
+<br>
+
+For next class, you will unpack the Xu (2021) article on your own, HOWEVER, I am not asking you to read the entire article
+
+- Just read the abstract, intro and the conclusion
+
+- I want you to see just how much of the key info you can pull from those three sections
+
+- We will then dig into the body of the article in class
+
+<br>
+
+Please do this exercise working on your own!
+
+- I need to see where each of you are on this kind of exercise
+
+- Think of this like setting a skills baseline for the semester
+
+<br>
+
+**Questions on the assignment?**
+
+:::
+
+

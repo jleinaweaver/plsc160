@@ -1,0 +1,208 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Evaluating the research questions from 394**
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Make sure you have the P394 research questions
+
+<br>
+
+Over the last few weeks we've been reviewing the research question component of a research proposal
+
+- Why do we need them?
+
+- What makes a "good" research question?
+
+- And how do we generate new research questions?
+
+:::
+
+
+
+## Science Requires Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+A research question **focuses** your work, **drives** your progress and let's you know when you're **done**
+
+<br>
+
+A good question...
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+::: notes
+
+**Any questions on the research question material we've been exploring?**
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png"  .center}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/08_2-PLSC394.png")
+```
+
+::: notes
+
+Currently in the Research Design class, a group of juniors in our department are working hard to design and execute a research project
+
+- Today we get a chance to help them do it!
+
+<br>
+
+This will give you a chance to see first-hand an exercise that you will be taking on in a few years
+
+- We'll try and do this style of feedback exercise a couple times this semester
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png"  .center}
+
+::: {.r-fit-text}
+
+**The Prompt**
+
+1. What is your research question?
+
+2. What brought you to this topic? 
+
+3. Why should we care about it?
+
+:::
+
+::: notes
+
+This is the assignment prompt Dr. VanDenBerg gave his students
+
+- Our job today will be to review and evaluate those questions then to provide feedback to those students
+
+- My hope is that for each question we can give them something useful in terms of what we like and what needs clarification or revising
+
+:::
+
+
+
+
+## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### A good question...
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+::: notes
+
+We'll use the criteria from the readings to help guide our evaluations
+
+- **Any questions on the criteria before we apply them?**
+
+<br>
+
+*Split glass into groups, one group per submitted research question*
+
+- Go sit with your group!
+
+<br>
+
+GROUPS, take five minutes to review the submission and get ready to present it to the class
+
+- Keep it simple, give us the question and your reaction to it
+
+- We'll then work together to decide on the feedback we want to provide
+
+<br>
+
+Ok, time to kick off our discussions
+
+- Each group should take notes on their assigned question
+
+- At the end of class, each group will clean up the feedback and get it ready to return to each senior
+
+- Then email me it to me so I can provide the feedback to the students in 494.
+
+- *PRESENT and DISCUSS each*
+
+:::
+
+
+
+
+## For Class After Spring Break {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Gathering the Literature for your Proposal**
+
+- Find THREE political science research articles that aim to answer your RQ
+
+- Details on Canvas
+
+::: notes
+
+*Read the slide*
+
+- Everybody open the Canvas post and let me know if you have any questions on the assignment
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas ASSIGNMENT: Gathering the Literature (I) (10pts)
+
+Find THREE political science research articles that each:
+
+- Aim to answer your chosen RQ (or, at least, are focused on explaining the same outcome),
+- Has a pdf that you can access, and
+- Is published in a journal on one of the Google Scholar "top" 20 lists (note: you can email me for permission to add articles from journals outside this list)
+
+For each article you find:
+
+1. Import it into Zotero and save it in a new "collection" in your library named "P160 Project"
+2. Clean up the relevant bibliography fields in Zotero (if needed)
+3. Download and save the pdf on your computer
+
+Submit to Canvas:
+
+1. What is your RQ?
+2. The APA citations for your three articles, and
+3. Explain why you've submitted EACH article (e.g. how it connects to your RQ or broader topic) (3+ sentences minimum per article)
+
+:::

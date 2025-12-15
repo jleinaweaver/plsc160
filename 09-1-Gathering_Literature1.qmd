@@ -1,0 +1,319 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Gathering the academic literature
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+Welcome back from break, Let's recap!
+
+- We started our work in this class unpacking the "science" in political science and discussing the half-life of facts
+
+- **SLIDE**
+
+:::
+
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+1. Science is a process for converting empirical observations into knowledge (e.g. the "why" of it all)
+
+2. The scientific method prioritizes transparency and replicatability
+
+3. ALL facts have a half-life which makes higher quality facts more valuable
+
+4. Science is never finished, so, be humble in your conclusions
+
+::: notes
+
+*Read slide*
+
+<br>
+
+Science is the process of generating knowledge based on empirical observations
+
+- That means a good social scientist is a well informed social scientist
+
+- So we next shifted to reflecting on our individual news diets
+
+- **SLIDE**
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.r-fit-text}
+**Reflecting on your News Diet**
+
+1. Be curious!
+
+2. Garbage in, garbage out
+
+3. Focus on the NEWS and not the OPINION
+
+4. Explaining "why" requires science
+
+::::
+
+::: notes
+
+I sincerely hope each of you has given some thought, and maybe even made some efforts, to make your news diets "healthier"!
+
+<br>
+
+**SLIDE**: We then transitioned into developing your research tools
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+
+**Developing your Research Tools**
+
+- Using bibliography managers
+
+- Finding for academic literature
+
+- Structuring an argument paper
+
+- Unpacking and analyzing research papers
+
+:::
+
+::: notes
+
+*Step through items on slide*
+
+<br>
+
+From this point we shifted our focus to helping each of you design a research proposal
+
+- **SLIDE**: And that started with a research question
+
+:::
+
+
+
+## Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+A research question **focuses** your work, **drives** your progress and let's you know when you're **done**
+
+<br>
+
+### A good question...
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+::: notes
+
+*Read slide*
+
+<br>
+
+**SLIDE**: And that took us to your first paper for the class
+
+:::
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 1: Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+::: notes
+
+This first paper represents the beginning of your research proposal.
+
+<br>
+
+The next section of our class shifts our focus to the next key component of your research proposal
+
+- **SLIDE**: The literature review!
+
+:::
+
+
+
+## Course Outline {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/05_2-Course_Outline.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+The literature review is the section of your proposal where you connect your work explicitly to the established research
+
+- This is where you make clear we all "stand on the shoulders of giants!"
+
+<br>
+
+Essentially, you will each be writing an argument in this section that presents and organizes the competing answers to your research question in the literature.
+
+- No rush, we'll get there!
+
+<br>
+
+**SLIDE**: But first, we have to collect the literature!
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Gathering the Literature for your Proposal**
+
+- Find THREE political science research articles that aim to answer your RQ
+
+- Details on Canvas
+
+::: notes
+
+**Let's debrief the assignment for today: How did this go?**
+
+<br>
+
+- **Did you have any trouble finding good options in the top journals?**
+
+- **Do you have the sense that there is a big literature on this topic?**
+
+    - **If yes, examples?**
+    
+    - **If no, can we help the "no" students think about other searches?**
+
+<br>
+
+PAIRS: Tell your partner your RQ and show them the three articles you found
+
+- Your job is to convince them that these three articles answer your RQ
+
+- Go!
+
+<br>
+
+Repeat with a new partner!
+
+<br>
+
+**SLIDE**: Ok, let's go around the room and hear about some of the cool research you've found!
+
+:::
+
+
+
+## Share what you've found so far {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+1. What is your RQ?
+
+2. How did you search for this topic?
+
+3. Tell us about ONE of the articles you found
+:::
+::: notes
+
+For number 2, give us the kinds of keywords or topics you searched for
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+:::
+
+
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Gathering the Literature for your Proposal**
+
+- Find **THREE MORE** political science research articles that aim to answer your RQ
+
+- Details on Canvas
+
+::: notes
+
+*Read slide*
+
+<br>
+
+**Questions on the assignment or anything from today?**
+
+- Everybody get to work on this in class!
+
+<br>
+
+Canvas ASSIGNMENT: Gathering the Literature (II) (10pts)
+
+Find THREE MORE political science research articles that each:
+
+- Aim to answer your chosen RQ (or, at least, are focused on explaining the same outcome),
+- Has a pdf that you can access, and
+- Is published in a journal on one of the Google Scholar "top" 20 lists (note: you can email me for permission to add articles from journals outside this list)
+
+For each article you find:
+
+1. Import it into Zotero and save it in a new "collection" in your library named "P160 Project"
+2. Clean up the relevant bibliography fields in Zotero (if needed)
+3. Download and save the pdf on your computer
+
+Submit to Canvas:
+
+1. What is your RQ?
+2. The APA citations for your three articles, and
+3. Explain why you've submitted EACH article (e.g. how it connects to your RQ or broader topic) (3+ sentences minimum per article)
+
+:::

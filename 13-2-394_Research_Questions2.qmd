@@ -1,0 +1,84 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Evaluating the research questions from 394**
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Make sure you have the P394 research questions
+
+<br>
+
+The students in PLSC 394 have continued to work on their research projects and so we're going to review and giving feedback based on where they are now
+
+<br>
+
+*Split glass into groups, one group per submitted research question*
+
+- Go sit with your group!
+
+<br>
+
+GROUPS, take five minutes to review the submission and get ready to present it to the class
+
+- Keep it simple, give us the question and your reaction to it
+
+- We'll then work together to decide on the feedback we want to provide
+
+<br>
+
+Ok, time to kick off our discussions
+
+- Each group should take notes on their assigned question
+
+- At the end of class, each group will clean up the feedback and get it ready to return to each senior
+
+- Then email me it to me so I can provide the feedback to the students in 494.
+
+- *PRESENT and DISCUSS each*
+
+:::
+
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+1. Paper 3 due end of next week
+
+2. Read Baglione Chapter 5
+
+:::
+::: notes
+
+**Questions on the assignment?**
+
+:::

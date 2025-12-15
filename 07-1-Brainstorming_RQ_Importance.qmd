@@ -1,0 +1,284 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Brainstorming an importance argument
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: Refreshing our work on the first paper in your research proposal
+
+:::
+
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 1: Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+::: notes
+
+This week we come to the end of Section 2 of our class
+
+- The goal for the end of this section is an argument paper selling the reader on the idea that you have a "good" and important research question
+
+<br>
+
+**Remind me, why do we need a research question?**
+
+- **According to Baglione and Huntington-Klein, what does a research question do for your proposal?**
+
+<br>
+
+(A research question **focuses** your work, **drives** your progress and let's you know when you're **done**)
+
+- Baglione (p19):
+    
+    1. "Topics are too broad" and contain many, many possible issues; Questions focus you on what is manageable 
+    2. Questions link you to controversies, controversies lead you to academic literature
+    3. Questions demand an answer and the need for an answer helps you move forward and track how far you've gone
+
+- Huntington-Klein:
+
+    1. Exploring data without a question, data mining, can help you find patterns but not help you to understand why things happen
+    2. Without a disciplined research question, there’s no reason not to just check everything! Something is going to pop up as related by random chance if you check enough stuff.
+
+<br>
+
+**SLIDE**: Criteria for a "good" research question
+
+:::
+
+
+
+## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### A good question...
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+::: notes
+
+**Questions on the criteria?**
+
+<br>
+
+*Split class into groups of three*
+
+- Go sit with your group!
+
+<br>
+
+Groups, present and briefly discuss each RQ
+
+- Make sure all three of you have a "good" research question
+
+- Go!
+
+<br>
+
+**Any questions on the RQs?**
+
+- **Everybody in good shape?**
+
+<br>
+
+**SLIDE**: The other half of your assignment for today
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**The Research Question: Making an Importance Argument**
+:::
+
+<br>
+
+Submit a list of TEN clear and distinct reasons you believe this question or topic is important. 
+
+- Remember, premises are ideas supported by evidence, not vice versa 
+
+- Your job is to come up with ten ideas, not ten pieces of evidence supporting a single idea
+
+
+::: notes
+
+Groups, now review each others' lists of brainstormed reasons
+
+- Make sure each list includes distinct ideas (with no overlap), AND that each is an idea (not evidence)
+
+- Go!
+
+<br>
+
+Groups, now help each other narrow your lists down to five items
+
+- Revise any that need strengthening, consolidate any that are close or overlapping
+
+- Go!
+
+<br>
+
+**SLIDE**: Let's write it down!
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**The Research Question: Making an Importance Argument**
+
+<br>
+
+On a NEW sheet of paper
+
+1. Write your revised RQ
+
+2. Write your FIVE importance reasons
+
+:::
+
+::: notes
+
+*Give everyone time to make their sheet*
+
+<br>
+
+Go read everybody's revised RQ AND brainstormed list, vote on the top THREE on each list
+
+- Use a pencil and leave a tick mark next to your THREE preferred reasons
+
+- Go!
+
+<br>
+
+Ok, reflect on the votes from the class and now pick your THREE strongest reasons
+
+- Those will be the premises of your first paper
+
+<br>
+
+**SLIDE**: Connect this back to the prompt
+
+:::
+
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 1: Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+::: notes
+
+Don't forget that all your work for today has been in service of writing this argument paper.
+
+- The THREE premises you have refined today represent the body of this paper
+
+<br>
+
+**SLIDE**: Let's now work on the outline for this paper
+
+:::
+
+
+
+## For Next Class: Outline your Paper {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+**Introduction**
+
+- Set up your argument (e.g. build to your thesis: it is important we answer your RQ)
+
+**Premise 1**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Premise 2**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Premise 3**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Conclusion**
+
+- Wrap it up (e.g. argument restated)
+
+::: notes
+
+For next class I would like each of you to submit an outline of your first paper
+
+- Use bullet points (in complete sentences) to map out the five parts of the paper
+
+- Your job is to communicate the big ideas and the evidence you plan on using to illustrate and support them
+
+<br>
+
+**Questions on the assignment or anything from today?**
+
+<br>
+
+Canvas ASSIGNMENT: Outlining your RQ Paper
+
+Submit a bullet-point outline of your first paper that makes clear:
+
+- You have a complete macro structure (intro, body and conclusion),
+- Your introduction sets up the puzzle you are interested in and leads to your RQ as the thesis statement,
+- Your meso structure is organized around three big ideas that build logically from one to the next (summarize each premise with a complete sentence or two), and
+- Each premise is supported by AT LEAST TWO pieces of evidence (APA citations)
+
+Make sure that each bullet point in your outline is at least one complete sentence. Other people should be able to read your outline and understand the argument in broad strokes.
+
+:::

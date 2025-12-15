@@ -1,0 +1,541 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Practice Designing "Good" Research Questions**
+
+- Evaluate research questions in the literature
+
+- Generate new research questions
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. BRING all annotated research articles from last week
+
+2. Readings
+    - Baglione Chapter 2
+    - [Huntington-Klein, N. (2022) Chapter 2](https://theeffectbook.net/ch-ResearchQuestions.html)
+
+<br>
+
+This week we focus in on the first element of an excellent research proposal: the research question
+
+- Today I want us to practice both evaluating established questions and generating new ones
+
+<br>
+
+Before class I asked each of you to complete two readings on the basic concepts and strategies we need to do these two agenda items
+
+- **SLIDE**: Let's make sure we're all on the same page with the basics
+
+:::
+
+
+
+## Why do we need a research question? {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.fragment}
+
+A research question **focuses** your work, **drives** your progress and let's you know when you're **done**
+
+:::
+
+::: notes
+
+**Per the readings, why do we need a research question at all?**
+
+<br>
+
+**Did the two readings agree on the answer to this question? Why or why not?**
+
+- (Generally speaking, yes, research questions importantly focus our work)
+
+- Also offer us two different perspectives: one a student centric approach focused on doing your first project and the other from a professional methodologist 
+
+<br>
+
+**REVEAL**: My takeaway
+
+<br>
+
+I especially like Baglione's idea that a good research question gives us a progress bar for our research.
+
+- Along the way we simply ask ourselves, have we answered the question or not?
+
+- And, is my answer convincing or not?
+
+<br>
+
+**Does everybody understand why we use research questions to help us explain the political world?**
+
+<br>
+
+*Notes from the Readings*
+
+*Baglione (p19):*
+
+1. "Topics are too broad" and contain many, many possible issues
+    - Questions focus you on what is manageable 
+2. Questions link you to controversies, controversies lead you to academic literature
+3. Questions demand an answer and the need for an answer helps you move forward and track how far you've gone
+
+
+*Huntington-Klein:*
+
+1. Exploring data without a question, data mining, can help you find patterns but not help you to understand why things happen
+2. Without a disciplined research question, there’s no reason not to just check everything! Something is going to pop up as related by random chance if you check enough stuff.
+
+:::
+
+
+
+
+## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+::::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+
+2. Important
+
+3. Controversial
+
+4. Brief
+
+5. Direct
+
+6. Doable
+
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+
+2. Consider Feasibility
+
+3. Consider Scale
+
+4. Consider Design
+
+5. Keep It Simple!
+:::
+
+::::
+
+:::::
+
+::: notes
+
+**What pieces of advice from the readings resonated with you the most about designing a "good" research question?**
+
+<br>
+
+**REVEAL: Any questions on the criteria proposed and discussed in the readings for designing a "good" research question?**
+
+<br>
+
+*Notes from the Readings*
+
+*Baglione: Six Qualities of a Great Research Question*
+
+1. **Interesting**: To you, scholars, the public policy community and the public
+2. **Important**: Is there an established academic literature on this question? If yes, then important!
+3. **Controversial**: Is there dispute about the answer? The more the better!
+4. **Brief**: Keep it short (one sentence!)
+5. **Direct**: Don't meander, use an active voice and be clear
+6. **Doable**: Borrow from HK book: It can be answered e.g. It means that it’s possible for there to be some set of evidence in the world that, if you found it, your question would have a believable answer.
+    - Chapter example: What is the best James Bond movie?
+7. **(optional) Puzzling**: "...an event or development that doesn't seem to make sense given what we know" (p33).
+    - It either lacks an obvious answer or the conventional wisdom appears to be incorrect
+
+*Huntington-Klein: A "good" research question*
+
+1. **Consider Potential Results**: "If you can’t say something interesting about your potential results, that probably means your research question and your theory aren’t as closely linked as you think!"
+2. **Consider Feasibility**: "A research question should be a question that can be answered using the right data, if the right data is available. But is the right data available?"
+    - You picked the data project first so this should be done!
+3. **Consider Scale**: "What kind of resources and time can you dedicate to answering the research question? ... Given the confines of, say, a term paper, you could take some wild swings at that question, but you’re likely to do a much more thorough job answering questions with a lot less complexity."
+4. **Consider Design**: "So, an important part of evaluating whether you have a workable research question is figuring out if there’s a reasonable research design you can use to answer it. Figuring out whether you do have a reasonable research design is the topic of the rest of this book."
+5. **Keep It Simple!**: "Answering any research question can be difficult. Don’t make it even harder on yourself by biting off more than you can chew!"
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+### Strategies to Generate Research Questions
+
+::::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Why this major?
+
+2. What are your career aspirations?
+
+3. What are your extracurricular activities?
+
+4. What courses have you enjoyed most?
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Embrace your curiosity
+
+2. Be opportunistic
+:::
+
+::::
+
+:::::
+
+::: notes
+
+**What pieces of advice from the readings resonated with you the most about generating a research question?**
+
+<br>
+
+**REVEAL: Any questions on the strategies proposed in the readings?**
+
+<br>
+
+*Notes from the Readings*
+
+*Baglione (2019)*
+
+1. Why the major?
+2. Career aspirations
+3. Extracurricular activities
+4. Courses/Topics enjoyed?
+
+*Huntington-Klein (2022): 2.3 Where Do Research Questions Come From?*
+
+- Embrace your curiosity
+    - We want to know how the world works, and that naturally leads to questions!
+    - Can start with theory (e.g. “I think this is how the world works”) OR with a question (“Will students work harder in school if you pay them for good grades?”)
+- Be opportunistic
+    - Have a neat data set? Use it!
+    - Keep track of current events (Maybe you’ve learned that a few school districts have decided to try paying their students for good grades. When you hear about something like this, you might ask “what research questions would this allow me to answer?”)
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+Fortna, Lotito & Rubin (2018). Don’t Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars.
+
+::::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+2. Important
+3. Controversial
+4. Brief
+5. Direct
+6. Doable
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+2. Consider Feasibility
+3. Consider Scale
+4. Consider Design
+5. Keep It Simple!
+:::
+
+::::
+
+:::::
+
+::: notes
+
+Let's practice by evaluating the research questions from our research articles last week
+
+- *Split class into groups of 4*
+
+- Go sit with your group and pull out this article
+
+<br>
+
+**Remind me, what is the research question from the first article we reviewed last week?**
+
+- (First sentence of the abstract!)
+
+<br>
+
+**REVEAL: GROUPS, I want you to evaluate this research question using all the criteria from the readings**
+
+- Try to specify BOTH strengths AND weaknesses!
+
+<br>
+
+*PRESENT and DISCUSS analyses*
+
+- *Make sure to highlight strengths AND weaknesses*
+
+<br>
+
+*Mix up the groups! Don't let them get too sedentary or they'll get groggy!*
+
+- Go sit with your new group!
+
+::: 
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+Xu (2021). To Repress or to Co‐opt? Authoritarian Control in the Age of Digital Surveillance.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+2. Important
+3. Controversial
+4. Brief
+5. Direct
+6. Doable
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+2. Consider Feasibility
+3. Consider Scale
+4. Consider Design
+5. Keep It Simple!
+:::
+
+::::
+
+::: notes
+
+Let's do it again!
+
+<br>
+
+**What's the research question in Xu (2021)?**
+
+- (p309, right column)
+
+<br>
+
+GROUPS, I want you to evaluate this research question using all the criteria from the readings
+
+<br>
+
+*PRESENT and DISCUSS analyses*
+
+- *Make sure to highlight strengths AND weaknesses*
+
+<br>
+
+*Mix up the groups! Don't let them get too sedentary or they'll get groggy!*
+
+- Go sit with your new group!
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+::: {.r-fit-text}
+Evaluate the RQs for the articles from last week
+
+- Pick the strongest and the weakest from the options
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+2. Important
+3. Controversial
+4. Brief
+5. Direct
+6. Doable
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+2. Consider Feasibility
+3. Consider Scale
+4. Consider Design
+5. Keep It Simple!
+:::
+
+::::
+
+::: notes
+
+Each of you analyzed an article last week that included identifying the RQ. 
+
+1. Share the RQs with your new group, and then
+
+2. Groups get ready to report back the strongest and the weakest of the four options per these criteria
+
+- **Questions on the task?**
+
+- Go!
+
+<br>
+
+*PRESENT and DISCUSS each group's analyses*
+
+<br>
+
+*Last time! Mix up the groups! Don't let them get too sedentary or they'll get groggy!*
+
+- Go sit with your new group!
+
+:::
+
+
+
+## Practice on Current Events {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Baglione (2019)**
+
+1. Interesting
+2. Important
+3. Controversial
+4. Brief
+5. Direct
+6. Doable
+7. (optional) Puzzling
+:::
+
+::: {.column width="50%"}
+**Huntington-Klein (2022)**
+
+1. Consider Potential Results
+2. Consider Feasibility
+3. Consider Scale
+4. Consider Design
+5. Keep It Simple!
+:::
+
+::::
+
+::: notes
+
+Let's generate new research questions using current events!
+
+- *Open a news site (NYT, WPost, WSJ) and class picks a single story focused on a recent event*
+
+<br>
+
+GROUPS: Read this news story and then brainstorm AT LEAST TWO research questions for exploring this event.
+
+- **Questions on the assignment?**
+
+- Go!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+*REPEAT exercise with a new news story*
+
+<br>
+
+*REPEAT exercise with a new news story*
+
+<br>
+
+**Any questions on designing a research question?**
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Brainstorming Research Questions**
+
+1. Propose THREE questions
+
+2. For each, explain why it is "good" using our criteria
+
+:::
+
+::: notes
+
+It is time to develop the research question that will organize your project proposal this semester. 
+
+- Think about the research we have reviewed, the news we have discussed, and your own interests in the world in order to propose **THREE** good research questions you would be interested in exploring. 
+
+- For each question, explain how it meets the criteria for a "good" question from the readings and our class discussions.
+
+<br>
+
+**Questions on our work today or the assignment?**
+
+:::

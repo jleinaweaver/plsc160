@@ -1,0 +1,592 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+Welcome to PLSC 160: Inquiry in Political Science
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Update attendance list before class
+
+<br>
+
+Welcome all!
+
+- **SLIDE**: Let's kick things off with introductions
+
+:::
+
+
+## Introductions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Name
+
+2. Majors/Minors/Certificates
+
+3. What is an early memory of "politics" in "the news" that caught your attention?
+
+::: notes
+
+I can go first!
+
+- I'm Dr. Leinaweaver
+
+- Undergrad degree in History and Political Science, Masters in International Relations and a PhD in Political Science
+
+- I have earlier memories, but the fall of the Berlin Wall in 1989 really hit me hard.
+
+- I couldn't wrap my head around a wall splitting a city in half with one side in freedom and the other in something else
+
+- And when it came down the Berliners threw an epic party to celebrate and I was captivated
+
+<br>
+
+Your turn!
+
+<br>
+
+**SLIDE**: Define politics
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+What is "politics"?
+:::
+
+::: notes
+
+If all of your answers to my question about early memories of the political world are our data, then what does the word "politics" mean?
+
+- **Introduce yourself to the people around you and discuss this question**
+
+- Get ready to report back!
+
+<br>
+
+**Ok, what did you come up with?**
+
+<br>
+
+**SLIDE**: Textbook style answers
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+
+**What is "politics"? **
+
+- Decision-making in a community
+
+- How we make and enforce "the rules"
+
+- Who gets what, when and how?
+
+:::
+
+::: notes
+
+*Read slide*
+
+<br>
+
+In various senses, "politics" is the word we use to describe how groups of people function together
+
+- Group decision-making is complex and multilayered and that means there is A LOT to explore
+
+<br>
+
+In this sense, politics is one of the fundamental building blocks of our society 
+
+- What we definitely don't mean is the noise that most people are referring to when they say they hate "politics"
+
+- Although some political scientists study that too!
+
+<br>
+
+**SLIDE**: One more "getting to know each other" question
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+### Generally speaking, how well informed are you about current events?
+
+::: notes
+
+Here's my next question for you
+
+- Everybody take a sec to think about this question
+
+- Don't say anything out loud, but just think about how you would answer it
+
+<br>
+
+As a political scientist, I would like to use this question to learn something about you as a group
+
+- That means I want all of your answers to actually capture something important about the class
+
+- I'd like to be able to describe the class in terms of this answer in a simple way
+
+<br>
+
+**To generate useful answers to this question, what do we all need to agree on before answering?**
+
+- (1. Define the concepts, and)
+
+- (2. Agree on the format of the answers we will accept)
+
+<br>
+
+Let's first define the concepts
+
+- **What are the concepts in this question we need to agree on as a group?**
+
+- (**SLIDE**: "Well informed" and "current events")
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+### Generally speaking, how well informed are you about current events?
+
+- Define "well informed"
+
+- Define "current events"
+
+::: notes
+
+Ok, let's define the concepts!
+
+<br>
+
+**What are some strategies we could use to define these concepts?**
+
+In descending order of value:
+
+- (Consult the research that aims to measure the knowledge of individuals about the world)
+
+- (Dictionary definitions)
+
+- (Compare and contrast our intuitions, e.g. how do we each use these words?)
+
+- (NO, NO, NO, NO, NEVER: ChatGPT or AI tools)
+
+<br>
+
+Use some of those, talk to the people around you and get ready to report back to me your decisions
+
+- Go!
+
+<br>
+
+**Ok, how should we define "well informed"?**
+
+- (Aware of the basic facts?)
+
+- (Aware of the implications of these events for the world around us?)
+
+- (Able to differentiate between fact and analysis/opinion?)
+
+<br>
+
+**And how should we define "current events"?**
+
+- (What: Things or happenings)
+
+- (When: Right now or recently)
+
+- (Context: Of some importance to the political world)
+
+<br>
+
+Alright, we now all have a general agreement on what the question means
+
+- **SLIDE**: Let's talk about acceptable answers
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+### Generally speaking, how well informed are you about current events?
+
+- What is an acceptable answer?
+
+::: {.fragment}
+**Measurement Types**
+
+- Dummy
+
+- Nominal
+
+- Categorical
+
+- Numerical
+:::
+
+::: notes
+
+**If my goal is to be able to summarize the class in terms of how "well informed" you perceive yourselves to be, how could we gather your responses?**
+
+<br>
+
+**REVEAL**
+
+- *Help them tease out four options ON BOARD: Dummy, Nominal, Ordinal, Numeric*
+
+- *TRACK ON BOARD*
+
+- Dummy (e.g. Yes or No)
+
+- Nominal Categories (e.g. "Reads everything all the time", "Too busy to read anything", "Uses mainly social media", "Watches nightly news", etc)
+
+- Ordinal Categories (e.g. Completely well informed, Mostly, Somewhat, A little, Not at all)
+
+- Numeric (e.g. 1-10)
+
+<br>
+
+Ok, let's go around the room and answer the question each of the four ways
+
+- *Track ON BOARD*
+
+<br>
+
+**If you could only report the results of one of these which would it be? Why**
+
+- **In other words, which approach gives us the most useful data about our class? Why?**
+
+<br>
+
+**And with your preferred version of the answer, how confident are you it is "correct"?**
+
+- **How uncertain are these answers in your mind? Why?**
+
+<br>
+
+**SLIDE**: Thinking like a scientist
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Thinking Like a Political Scientist**
+:::
+
+:::: {.columns}
+::: {.column width="55%"}
+
+<br>
+
+- Clear questions
+
+- Well-defined concepts
+
+- Valid and reliable data
+
+- Transparent methods
+
+- Uncertain conclusions
+:::
+
+::: {.column width="45%"}
+![](Images/02_1-science_process_meme.png)
+:::
+::::
+
+::: notes
+
+Ok, all of this is meant to help us set the table for thinking like a political scientist
+
+- If your goal is knowledge about the world, then you have to think carefully about all of these elements (and more!)
+
+<br>
+
+**SLIDE**: If you skip these steps you end up like...
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/02_1-monkey_darts_politics.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+So much of what passes for "political" discussion, argument and analysis is much like this monkey throwing darts
+
+- A hairy fella making wild claims about the world and cherry picking results to confirm their priors
+
+<br>
+
+Don't be this guy!
+
+- **SLIDE**: Be a poli sci major!
+
+:::
+
+
+
+## Required Courses in PLSC {background-image="Images/Background-Rally_v2.png"  .center}
+
+![](Images/01_1-PLSC_Major_Required_Courses.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+All poli sci majors must complete this set of required courses
+
+:::
+
+
+
+## Required Courses in PLSC {background-image="Images/Background-Rally_v2.png"  .center}
+
+![](Images/01_1-PLSC_Major_Required_Courses2.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+The first three introduce you to the different specialties within political science
+
+<br>
+
+**For those who have taken 101, what kinds of questions were you pushed to consider in that class?**
+
+<br>
+
+**How about in comparative? Key questions explored?**
+
+<br>
+
+**And in IR what were the big questions you explored?**
+
+:::
+
+
+
+## Required Courses in PLSC {background-image="Images/Background-Rally_v2.png"  .center}
+
+![](Images/01_1-PLSC_Major_Required_Courses3.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+The second three courses, inquiry, data analysis and research design, are designed to teach you how to do your own research
+
+<br>
+
+Not just to read and consider how others have asked and answered big questions, but how YOU can ask and answer them too
+
+<br>
+
+These are the classes designed to teach you to be a practicing social scientist.
+
+:::
+
+
+
+## Required Courses in PLSC {background-image="Images/Background-Rally_v2.png"  .center}
+
+![](Images/01_1-PLSC_Senior_Seminar_Catalog.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+All of that, plus the electives you will choose for yourself, sum together in the Senior Research Seminar
+
+- The Fall of your senior year you will design and execute a research project!
+
+<br>
+
+**SLIDE**: So, let's talk about what we do in this class
+
+:::
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+Inquiry in Political Science is meant to teach you how to set up a research project with these three components
+
+<br>
+
+You will learn to:
+
+- Develop and refine research questions,
+
+- Identify the extent of our knowledge on those questions,
+
+- Develop theoretical answers to those questions, and
+
+- To communicate your research plans to others
+
+<br>
+
+- Once you learn to think like this you will see research questions, theories and evidence quality EVERYWHERE YOU LOOK!
+
+<br>
+
+Even more importantly, learning to think in terms of research quality will also make you a better consumer of the news 
+
+- As you learn how tenuous and difficult it is to produce knowledge you will, hopefully, become much more careful in the conclusions you draw about the world
+
+- And you will come to demand more from the sources you rely on
+
+<br>
+
+**Any questions about this as our goal?**
+
+<br>
+
+**SLIDE**: Let's talk course design
+
+:::
+
+
+
+## All Supporting Material is on Canvas  {background-image="Images/Background-Rally_v2.png"  .center}
+
+![](Images/01_1-Canvas_Homepage.png){style="display: block; margin: 0 auto"}
+
+::: notes
+Everybody log into Canvas with me and let's get oriented in our class infrastructure!
+
+<br>
+
+*Log into Canvas, set to student view and step them through the main pages*
+
+- Home page,
+
+- Grades,
+
+- Assignments,
+
+- Modules (with readings and assignment for Thursday)
+:::
+
+
+
+## The answer is in the syllabus   {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/01_1-Course_Syllabus.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Everybody open the syllabus and let's hit the highlights!
+
+- LOs
+
+- Grade composition
+
+- Attendance cliff (> 3 unexcused absences)
+
+- Excused absence coming up? **It is your responsibility to email me BEFORE the absence in order to receive a make-up assignment.**
+
+- Participation points
+
+- Paper requirements: APA, submitted on Canvas, NO AI TOOLS
+
+- Weekly plan (should essentially match the modules on Canvas)
+
+<br>
+
+**Any questions on our aims for the semester or my expectations for you as represented by the syllabus?**
+
+<br>
+
+Please keep me in the loop this semester!
+
+- I genuinely want you to make progress on our learning outcomes
+
+- So, if things are getting rough for you please come talk to me.
+
+- I will always offer you flexibility in the face of struggle IF YOU COME TO ME BEFORE DEADLINES HAVE PASSED!
+
+<br>
+
+**Questions on this?**
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Arbesman (2012) Chapter 1
+
+2. Donovan and Hoover (2014) Chapter 2
+
+3. Submit a NEW "fact" about the political world that you are confident is true (no overlapping submissions). 
+
+::: notes
+
+Next class we need to make sure everyone is on the same page in terms of these basic elements of the scientific method
+
+- For that, I've given you two short readings to flesh out what we've discussed today
+
+- In addition, I'd like each of you to help us collect some facts about the political world
+
+<br>
+
+Assignment details are on Canvas
+
+<br>
+
+**Questions on the assignment?**
+:::

@@ -1,0 +1,115 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Expanding your annotated bibliography (AB)
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: Annotating a research article
+
+:::
+
+
+
+## Annotating a Research Article {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+The annotation is "a paragraph or more that contains a summary of the *arguments of the work as they relate to your Research Question*, as well as key information about the topics the author discussed in making the argument and the research findings" (Baglione 2020, 59).
+
+<br>
+
+**Complete your annotated bibliography (six sources)**
+
+- What is this article's answer to the RQ?
+
+- Why is this article useful or important? (x3)
+
+::: notes
+
+For today I asked each of you to complete your AB for the six sources in your bibliography
+
+- **How did this go?**
+
+<br>
+
+**About how long does it take you to transform your notes on a research article into an annotation?**
+
+<br>
+
+15 minutes: Go read as many of your classmates ABs as you can
+
+- The more annotations you read and consider, the better you will get at writing them!
+
+- Go!
+
+<br>
+
+**SLIDE**: The rest of class today I want you working on your assignment for next class
+
+:::
+
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Add TWO more sources to your AB**
+
+- Must be a relevant political science journal article
+
+- You must have access to the PDF
+
+- You must submit the complete AB (8 sources)
+
+:::
+
+::: notes
+
+I want to make sure you have enough material to inform the literature review exercise that comes next
+
+- I think eight sources is a good minimum for this
+
+<br>
+
+**Questions on the assignment or anything from today?**
+
+<br>
+
+Canvas ASSIGNMENT: Revised Annotated Bibliography (eight sources) (10 pts)
+
+Submit your REVISED annotated bibliography with all EIGHT sources annotated per the advice in the Baglione book.
+
+:::

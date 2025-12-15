@@ -1,0 +1,168 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Gathering MORE academic literature
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: Where we are in your project
+
+:::
+
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+We have moved into the second required component of a research proposal
+
+- Exploring the literature on your chosen question
+
+<br>
+
+**SLIDE**: Assignment for today
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Gathering the Literature for your Proposal**
+
+- Find **THREE MORE** political science research articles that aim to answer your RQ
+
+- Details on Canvas
+
+::: notes
+
+Talk to me about this second effort to find relevant literature
+
+- **Was this harder? Why or why not?**
+
+<br>
+
+**Any strategies working well for you in this effort?**
+
+- **What did you do to find these new three?**
+
+<br>
+
+- Google Scholar: cited by, related to
+
+- Search the bibliography of the articles you already have
+
+- other?
+
+<br>
+
+Ok, same exercise as last class
+
+- Pair off
+
+- PAIRS: Tell your partner your RQ and show them the three NEW articles you found
+
+- Your job is to convince them that these three articles answer your RQ
+
+- Go!
+
+<br>
+
+Repeat with a new partner!
+
+<br>
+
+Ok, let's get work on using these articles you've found to learn about your RQ
+
+- **SLIDE**: Specifically, next week you each will develop an annotated bibliography
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+1. Read the next Baglione excerpt
+
+2. Unpack the six articles you have collected
+
+    - Details on Canvas
+
+:::
+
+::: notes
+
+Everybody take a look at the assignment prompt for next week
+
+<br>
+
+**Questions on the assignment or anything from today?**
+
+- Make sure each prompt gets AT LEAST ONE complete sentence, and page number citations
+
+- Let's get to work!
+
+<br>
+
+Canvas ASSIGNMENT: Preparing for your AB (10 pts)
+
+Submit your current six article bibliography with each article unpacked using the prompts from Weeks 4 and 5 of class. Each prompt should be answered by at least one complete sentence with a citation to the page numbers you are referencing.
+
+1. What is the research question?
+2. Why is the question important?
+3. What is the proposed answer to the question?
+4. What real-world cases are being analyzed?
+5. What are the bottom-line conclusions in the paper? 
+6. How confident is the researcher in these conclusions?
+7. What future research does the author suggest should follow this paper?
+
+:::

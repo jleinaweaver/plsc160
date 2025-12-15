@@ -1,0 +1,186 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Developing your theoretical model
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Identify a strong example from the submissions and get permission to share that one with the class
+
+    - Ideally, add that contribution as a slide to discuss
+
+<br>
+
+**SLIDE**: Final paper prompt
+
+:::
+
+
+
+## Paper 4 {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+**What is your proposed answer to the research question?**
+
+- Do not assume the reader is already familiar with your topic, or the relevant academic literature
+
+- Clearly explain your reasoning and define all key concepts in the following prompts
+
+- Write each response in paragraph form (not as bullet-points)
+
+::: notes
+
+**Any questions on the big picture notes?**
+
+<br>
+
+**SLIDE**: Paper 4 prompts
+
+:::
+
+
+
+## Paper 4 {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+**What is your proposed answer to the research question?**
+
+1. What is your research question?
+
+2. What is your theory? (with a DAG)
+
+3. What are your hypotheses? (two minimum)
+
+::: notes
+
+**Any questions on the specific prompts?**
+
+<br>
+
+Ok, today I want everyone to get feedback on their draft model
+
+- Before we do, let's practice the exercise of giving feedback on a draft model
+
+<br>
+
+**SLIDE**: A particularly good submission to discuss
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png"  .center}
+
+TBD - RQ, DAG and Model
+
+::: notes
+
+*Lead class through giving feedback to a draft model*
+
+- Is the DAG clearly labeled?
+
+- Is each sentence in the model a complete idea? 
+
+- Is the level of analysis clear in the model? (e.g. individuals, groups, states, IOs, etc.)
+
+    - Does the model start with a clear assumption about who or what is facing the key decisions?
+
+- Does each assumption connect from one to the next (e.g. build logically)?
+
+<br>
+
+**Questions on this process?**
+
+<br>
+
+*Split class into groups of four or five*
+
+- Go sith with your group!
+
+<br>
+
+**SLIDE**: Prompts
+
+:::
+
+
+## Feedback on the Draft Models {background-image="Images/Background-Rally_v2.png"  .center}
+
+- Is the DAG clearly labeled?
+
+- Is each sentence in the model a complete idea? 
+
+- Is the level of analysis clear in the model? (e.g. individuals, groups, states, IOs, etc.)
+
+- Does each assumption connect from one to the next (e.g. build logically)?
+
+
+::: notes
+
+Groups, I want you to spend ten minutes on each draft model in your group
+
+- Make sure you understand each answer to the research question and the model underpinning it
+
+- I'll track the time to make sure everyone gets 10 minutes
+
+- Go!
+
+<br>
+
+**SLIDE**: Let's keep working on the final!
+
+:::
+
+
+
+## Paper 4 {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+**What is your proposed answer to the research question?**
+
+1. What is your research question?
+
+2. What is your theory? (with a DAG)
+
+3. What are your hypotheses? (two minimum)
+
+::: notes
+
+Alright, the rest of the time today is yours to work!
+
+<br>
+
+Make sure to submit before the final exam window closes
+
+- No late papers can be accepted
+
+:::

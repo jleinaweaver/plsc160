@@ -1,0 +1,263 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Diagramming models in the relevant literature
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: Wrapping up our work this semester
+
+:::
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+This week we are finishing your research proposals by developing your theory piece
+
+- e.g. the proposed answer to your research question
+
+<br>
+
+**SLIDE**: The prompt for the final piece
+
+:::
+
+
+
+## Paper 4 {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+**What is your proposed answer to the research question?**
+
+::: {.fragment}
+
+- Do not assume the reader is already familiar with your topic, or the relevant academic literature
+
+- Clearly explain your reasoning and define all key concepts in the following prompts
+
+- Write each response in paragraph form (not as bullet-points)
+
+:::
+
+::: notes
+
+Everybody open the prompt on Canvas and let's discuss the details
+
+<br>
+
+**REVEAL**: Big picture notes here
+
+- **Questions on these three notes?**
+
+<br>
+
+**SLIDE**: The prompts
+
+:::
+
+
+
+
+## Paper 4 {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+**What is your proposed answer to the research question?**
+
+::: {.incremental}
+
+1. What is your research question?
+
+2. What is your theory? (with a DAG)
+
+3. What are your hypotheses? (two minimum)
+
+:::
+::: notes
+
+**REVEAL**: FIRST, I want a paragraph that introduces your research question and makes clear it is important
+
+- BOTH real-world impact and to the literature
+
+- Must provide evidence for all claims
+
+<br>
+
+**REVEAL**: SECOND, I want a paragraph (or two if needed) that explains your model
+
+- You must provide a DAG (e.g. Figure 1)
+
+- You must make the connections between your assumptions and the academic literature explicit in text
+
+<br>
+
+**REVEAL**: FINALLY, provide and explain AT LEAST two hypotheses derived from your model that we could test with empirical data
+
+<br>
+
+**Questions on the final assignment?**
+
+<br>
+
+**SLIDE**: Our work this week in class will all focus on getting this done.
+
+:::
+
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Analyzing the Models in your Literature Review**
+
+1. Which model did you like "best"?
+
+2. Which model did you like "least"?
+
+3. Most common assumptions across the models?
+
+:::
+::: notes
+
+Your work for today was meant to jump start your thinking about possible answers to your research questions.
+
+<br>
+
+*Split class into groups of 4*
+
+- Go sit with your group
+
+<br>
+
+I want each of you to report back to your group on your reflections from the Canvas assignment
+
+- Report back and explain to the group your takeaways from reviewing the models in your lit review. 
+
+    - What did you like? 
+    - What did you not like? 
+    - Where are you leaning?
+
+- I just want you to have a conversation about each topic for five minutes
+
+- Other members of the group, your job is to ask questions and help the presenter refine their thoughts on the topic
+    
+- Please give each person your full attention for the five minutes. 
+
+- I'll keep the time and tell you when to move to the next one.
+
+<br>
+
+**Questions?**
+
+- Go!
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+<br>
+
+Canvas ASSIGNMENT: Analyzing the Models in your Literature Review
+
+Review the models in the research articles in your bibliography and then answer the following questions. The more you invest in this process (reading and writing) the easier your final paper will be to complete.
+
+1. Which paper's model comes the closest to your thinking about the research question? Why? (Be specific! Explain the model and your reaction to it)
+2. Which paper's model do you like the least? Why? (Be specific! Explain the model and your reaction to it)
+3. When you compare across all of the models, what are the most common assumptions being made to answer questions in your topic?
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Propose a Theory and DAG for your RQ (Rough Draft)**
+
+- RQ, DAG and bullet-points theory (with citations!)
+
+:::
+
+::: notes
+
+Open the assignment on Canvas and let me know if you have questions on the details
+
+<br>
+
+Your theory, just like your research question, should build on the academic literature so make clear where your assumptions come from!
+
+- **Questions on the assignment?**
+
+<br>
+
+Ok, let's get to work.
+
+- Work directly on paper! Force yourself to write, it is a huge aid in thinking!
+
+- Get feedback if you get stuck
+
+- Let's go!
+
+<br>
+
+Canvas ASSIGNMENT: Propose a Theory and DAG for your RQ (Rough Draft)
+
+1. What is your RQ?
+2. Submit a DAG that answers your chosen RQ
+3. Submit a theory that explains the causal arrow in your DAG
+    - Use bullet-points in complete sentences, AND
+    - You MUST make explicit connections between your assumptions and the literature in your bibliography
+
+:::

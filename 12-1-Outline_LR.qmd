@@ -1,0 +1,211 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Outlining your literature review
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: We continue our work on the literature review portion of your research proposal
+
+:::
+
+
+
+## The Literature Review {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+An argument paper version of your annotated bibliography
+
+- Make **a convincing argument** that your project builds on the academic literature in useful ways
+
+- **Organize AND analyze** the state of our knowledge on your question
+
+::: notes
+
+**Any questions on the big picture aims of a literature review?**
+
+<br>
+
+**SLIDE**: Your work for today
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**The Fundamentals of your Literature Review**
+
+- Name, explain and analyze your schools of thought
+
+- Details on Canvas
+
+:::
+
+::: notes
+
+**Everybody ready to go with this?**
+
+<br>
+
+**SLIDE**: Let's get feedback on this
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+
+**FEEDBACK on the LR Fundamentals**
+
+1. Do the schools make sense?
+
+2. Are the analyses deep enough?
+
+:::
+
+::: notes
+
+Let's take some time to share your work with your classmates
+
+- Pitch your fundamentals to other people and see if:
+
+1. They buy your organization, and
+
+2. They are impressed by your analyses
+
+    - This means your analyses convey the idea you are developing expertise in this topic
+    
+<br>
+
+Let me emphasize this second point
+
+- Your evaluation of each school (e.g. strengths and weaknesses) MUST be more than just basic descriptions of the projects
+
+- The quality of your research proposal depends on convincing the reader you have the expertise necessary to generate NEW knowledge on this topic
+
+- This means you help each other by pushing on their analyses, ask them to explain or deepen their work
+    
+<br>
+
+**Questions on what I'm asking you to do for each other?**
+
+<br>
+
+Go!
+
+- Take notes as you get feedback!
+
+- Revise to strengthen your analyses!
+
+<br>
+
+**SLIDE**: Next steps
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+**Introduction**
+
+- Question: "What are the competing answers to this research question in the academic literature?"
+
+- Thesis idea is that your proposal builds on the academic literature
+
+**Premise 1: Explain AND analyze School 1**
+
+**Premise 2: Explain AND analyze School 2**
+
+**Premise 3: Explain AND analyze School 3**
+
+**Conclusion**
+
+- The "best" school for your project moving forward is...
+
+::: notes
+
+Let's now convert your fundamental notes into an outline for this paper
+
+- Use bullet-points (complete sentences)
+
+- The introduction should set up an argument paper that answers the question "What are the competing answers to this research question in the academic literature?"
+
+- All eight articles from your bibliography MUST be included in the outline
+
+<br>
+
+**Questions on the structure of the paper?**
+
+- Let's get to work!
+
+- If you get stuck, reach out to classmates for feedback!
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Completed Rough Draft: Paper 2**
+
+- Submit to Canvas **AND** bring a printed copy to class
+
+- By "completed" I mean that the entire paper is written in a readable, essay form (no bullet points), includes your cited evidence and a bibliography.
+
+
+::: notes
+
+**Questions on the assignment or anything from today?**
+
+<br>
+
+Canvas ASSIGNMENT: Completed Rough Draft - Literature Review
+
+Submit a completed rough draft of your literature review to Canvas AND bring a printed copy to class. 
+
+By "completed" I mean that the entire paper is written in a readable, essay form (no bullet points), includes your cited evidence and a bibliography. 
+
+:::

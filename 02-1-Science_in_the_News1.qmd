@@ -1,0 +1,408 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+Finding the political science in the news
+
+- Reflecting on your news diet
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Ideally circle up the class and chat seminar style
+
+<br>
+
+**SLIDE**: Refresher on science and facts
+
+:::
+
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/01_2-computer_scientist.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Ok, quick refresher on last week
+
+<br>
+
+**What does it mean to say political science uses the scientific method?**
+
+- **What are the characteristics of that method?**
+
+- (**SLIDE**)
+
+:::
+
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+"The point is that the scientific method seeks to test thoughts against observable evidence in a disciplined manner, with each step in the process made explicit" (H&D p30).
+
+- We must clearly identify and define our concepts,
+
+- We must clearly explain our theories and hypotheses,
+
+- We must THEN gather appropriate, high quality evidence
+
+- We must analyze our hypotheses using data, and
+
+- We must acknowledge the uncertainty in our conclusions
+
+::: notes
+
+Think of these as a set of guideposts for us in our efforts to create knowledge
+
+- Our research methods classes are designed to help you practice these specific steps
+
+<br>
+
+**Any questions on these elements?**
+
+<br>
+
+**SLIDE**: We then shifted from science to the complicated nature of facts
+
+:::
+
+
+
+## Arbesman (2012) {background-image="Images/Background-Rally_v2.png" .center}
+
+### **The Half-Life of Facts**
+
+![](Images/01_2-data-processing.jpeg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+We spent most of last class reflecting on the uncertainty in our facts about the world
+
+- **What did Arbesman argue we should keep in mind when evaluating facts?**
+
+<br>
+
+- Facts have a "half-life"
+
+- Facts can be classified by their speed of change
+
+- Studying the spread of knowledge is valuable 
+
+<br>
+
+**SLIDE**: Put it all together and...
+
+:::
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+1. Science is a process for converting empirical observations into knowledge (e.g. the "why" of it all)
+
+2. The scientific method prioritizes transparency and replicatability
+
+3. ALL facts have a half-life which makes higher quality facts more valuable
+
+4. Science is never finished, so, be humble in your conclusions
+
+::: notes
+
+**Any questions on our work from last week?**
+
+<br>
+
+This week I want us to shift our focus into "the news" more directly
+
+- We tend to gather a ton of our "facts" about the world from the media and we should spend some time reflecting on that
+
+<br>
+
+**SLIDE**: Let's tie this aim back into work we did last week
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+### Generally speaking, how well informed are you about current events?
+
+::: notes
+
+**Remind me, how did we develop answers to this question last week?**
+
+- **What aspects of the scientific method did we embrace?**
+
+<br>
+
+- (**SLIDE**: Defined concepts and designed answer options)
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+### Generally speaking, how well informed are you about current events?
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+**Concepts Defined**
+
+- "Well informed"
+
+- "Current events"
+
+:::
+
+::: {.column width="50%"}
+**Measurement Types**
+
+- Dummy
+
+- Nominal
+
+- Categorical
+
+- Numerical
+:::
+::::
+
+::: notes
+
+This was our version of being transparent and replicatable in our methods
+
+- We wanted to be clear how we defined the concepts and how we intended to collect the data
+
+<br>
+
+**And what did we learn about the class from the different answers to this question?**
+
+- **Are we a well informed group or not?**
+
+<br>
+
+**Was anybody inspired to read more or more widely since then? Why or why not?**
+
+<br>
+
+Ok, let's use your Canvas submissions for today as an answer to the question, "how can we be better informed about the world?"
+
+- **SLIDE**
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Do you have a "good" news diet?**
+:::
+
+<br>
+
+1. What is one source of news you rely on that you know is not reliable? Why do you use it?
+
+2. What is one source of news you rely on that you feel confident is reliable? Why do you think that?
+
+::: notes
+
+Let's go around the room and gather examples of the news sources you submitted to Canvas
+
+- *ON BOARD: Reliable vs Unreliable Sources*
+
+- *Discuss each*: **Do we agree on these placements? Why or why not?**
+
+<br>
+
+**SLIDE**: Introduce all the submitted news stories
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+
+**Reviewing News Stories**
+
+1. What is the story you submitted?
+
+2. Why do you find it intriguing?
+
+:::
+::: notes
+
+Let's go around the room and share the stories you submitted for today.
+
+- What are the characteristics of stories we find intriguing?
+
+<br>
+
+Let's examine one of these stories in more detail
+
+- **Which story do you want to explore as a class?**
+
+<br>
+
+**SLIDE**: Prompts
+
+:::
+
+
+
+## Unpacking a News Story {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.incremental}
+
+1. What are the clear facts of the case? 
+
+2. Who was the likely source for this story (e.g. primary perspective)? 
+
+3. Brainstorm research questions that this story inspires (e.g. different "why" questions) 
+
+4. Brainstorm answers to those questions (e.g. what does your intuition tell you explains these outcomes?)
+
+:::
+
+::: notes
+
+**REVEAL x 4**: *Track answers ON BOARD*
+
+<br>
+
+*IFF time remains, do it again!*
+
+<br> 
+
+**SLIDE**: Key takeaways
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.r-fit-text}
+**Key Takeaways**
+
+::: {.incremental}
+
+1. Be curious!
+
+2. Garbage in, garbage out
+
+3. Focus on the NEWS and not the OPINION
+
+4. Explaining "why" requires science
+
+:::
+::::
+
+::: notes
+
+**REVEAL**: Be curious
+
+- YOU need to keep up with the news of the world
+
+- The world is what we want to explain and that requires paying attention
+
+- Read widely too! You never know what kinds of stories will inform your theories and understanding!
+
+<br>
+
+**REVEAL**: Garbage in, garbage out
+
+- Your news diet needs to focus on reliable sources meaning those that emphasize first-hand, on site reporting
+
+<br>
+
+**REVEAL**: News NOT opinion
+
+- Reliable source + baseline facts of an event = useful information
+
+- Reliable source + "hot takes" = nonsense
+
+<br>
+
+**REVEAL**: Explaining "why" requires science!
+
+- When you are ready to know the WHY behind those facts, go to the SCIENCE!
+
+<br>
+
+**Questions on the assignment or anything from today?**
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Analyzing a News Article**
+
+- Find and unpack a NEW news article
+
+- Details on Canvas
+
+:::
+::: notes
+
+For next class I'd like each of you to replicate the work we just did extracting the science from the news
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas ASSIGNMENT: Analyzing a News Article
+
+Select a new, recent news article and unpack it as we did last class:
+
+1. APA citation to the story
+2. What are the clear facts of the case? 
+3. Who was the likely source for this story (e.g. primary perspective)? 
+4. What are two research questions this story inspires for you (e.g. different "why" questions)?
+5. Brainstorm an answer to each of those proposed questions (e.g. what does your intuition tell you explains these outcomes?)
+
+:::

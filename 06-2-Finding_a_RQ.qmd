@@ -1,0 +1,193 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Selecting a research question
+
+- Developing an importance argument
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: Aim of our class
+
+:::
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+Our goal in this class is to ensure that each of you develop the skills you need to design "good" research proposals
+
+- Think of a "good" proposal as one with an important topic, that builds on an established academic literature and proposes a compelling theory of political behavior
+
+<br>
+
+To learn the steps I will ask each of you to develop a proposal with these three elements in it
+
+<br>
+
+**SLIDE**: Today we need to ensure everyone has a "good" RQ
+
+:::
+
+
+
+
+## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### A good question...
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+::: notes
+
+**Any questions on the criteria we discussed and applied last class?**
+
+<br>
+
+For today I asked each of you to submit and defend three possible RQs you would be interested in exploring
+
+- Everybody take out a piece of paper and write your three questions down
+
+<br>
+
+PAIRS (5 mins): Share your three questions and make sure the question makes sense to another person
+
+- Revise as needed!
+
+<br>
+
+Ok, now I want you to go read EVERYBODY'S three RQs and let them know which of the three is the strongest 
+
+- Go!
+
+<br>
+
+Everybody now reflect on the feedback and narrow down to your top choice
+
+<br>
+
+Let's go around the room and hear all your chosen RQs
+
+- Use this as a chance to get more feedback!
+
+<br>
+
+**SLIDE**: The paper prompt
+
+:::
+
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 1: Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+::: notes
+
+I am breaking your research proposal up into a series of papers
+
+- In the end, these three papers can be combined to make a single, coherent and compelling research proposal
+
+<br>
+
+The first paper you will write must make an argument that responds to this prompt
+
+- **Questions on the prompt?**
+
+<br>
+
+**SLIDE**: Let's build up to this paper with our assignment for next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Brainstorming an Importance Argument**
+
+- Submit a list of ten reasons your RQ is important, and
+
+- Bring a PRINTED copy of the list 
+
+:::
+
+::: notes
+
+The RQ portion of your proposal is an argument that you have a "good" RQ that is important
+
+- So we need to develop that importance argument!
+
+<br>
+
+**Questions on the assignment or anything from today or the assignment for Thursday?**
+
+<br>
+
+Canvas ASSIGNMENT: Brainstorming an Importance Argument
+
+1. What is your RQ?
+2. Submit a list of TEN clear and distinct reasons you believe this question or topic is important. Remember, premises are ideas supported by evidence, not vice versa. Your job is to come up with ten ideas, not ten pieces of evidence supporting a single idea (e.g. my RQ is important).
+3. Bring a printed copy of this list to class 
+
+
+:::

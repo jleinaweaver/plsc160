@@ -1,0 +1,202 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Developing our Basic Research Tools**
+
+- Unpacking your research article
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Class plan
+
+    - 1/2 the class reviewing the work
+    - 1/2 the class exploring the "future research" needs identified in each article
+
+<br>
+
+**SLIDE**: Your work for today
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Unpack your Research Paper**
+
+- Prompts on Canvas
+
+:::
+::: notes
+
+**So, how did this go?**
+
+<br>
+
+- **Did everybody write in complete sentences?**
+
+    - In future you won't remember the details so be kind to your future self and write complete ideas!
+
+- **Did everybody include page numbers as references?**
+
+    - Again, in future you won't remember the paper so help your future self find the details!
+
+<br>
+
+Ok, for the first half of class today I want you to pair off with everyone in class and review their work
+
+- This is your chance for a crash course in a ton of cutting-edge research!
+
+- For any articles you are interested in you should borrow their notes and add them to your Zotero!
+
+<br>
+
+**Questions?**
+
+- Go!
+
+<br>
+
+**So, who did a particularly excellent job with this exercise today?**
+
+- **In other words, whose notes were thorough enough that you had an excellent sense of the strengths and weaknesses of a given article?**
+
+<br>
+
+**SLIDE**: Our plan for the semester
+
+:::
+
+
+
+## Course Outline {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/05_2-Course_Outline.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Today we are wrapping up the first section of our class
+
+- Big picture aim was to help you think about the world like a political scientist
+
+- This meant developing a healthy news diet, and rooting your knowledge in the scientific method
+
+<br>
+
+For the remainder of the semester we move from talking about doing research to actually doing research
+
+- That means each of you will be designing a research proposal from scratch!
+
+<br>
+
+Hopefully the work we've done so far this semester has pushed you to think about a lot of different puzzles in the world you might want to explore
+
+- **SLIDE**: Let's use the research articles you submitted today to see what research might be needed next
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.r-fit-text}
+
+**Unpacking a Research Article: Future Needs**
+
+::: {.fragment}
+
+- Go to the concluding section of the paper,
+
+- Find the "future research" ideas, and
+
+- Write them on the board!
+
+:::
+
+::::
+
+::: notes
+
+In basically every piece of published research the concluding section will include some ideas the researchers have for future work
+
+- This may be them acknowledging the limits in their current work that need to be re-examined, OR
+
+- Entirely new research questions that follow from their work
+
+<br>
+
+**REVEAL**: Everybody dig into the conclusion in their paper and find the future needs ideas
+
+- Write them on the board!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+- Take notes, these ideas are gold!
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Research Question Basics**
+
+- Do the readings,
+
+- Submit your reflections on Canvas
+
+:::
+
+::: notes
+
+**Questions on the assignment or anything from today?**
+
+<br>
+
+Canvas ASSIGNMENT: Research Question Basics
+
+Complete the two assigned readings and provide answers to the following questions. Your answers MUST cite both readings (with page numbers): 
+
+1. Why do we need research questions? 
+2. What are the characteristics of a "good" research question? 
+3. What are THREE strategies we could use to generate a research question?
+
+:::

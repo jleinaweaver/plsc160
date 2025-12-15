@@ -1,0 +1,260 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Outlining your importance argument
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. **IMPORTANT**: Pick one or two of the strongest submitted examples, get that student's permission and share with the class as an example of a "good" outline
+
+3. Run slides off of laptop so you can share the outline examples on screen
+
+<br>
+
+**SLIDE**: The paper prompt
+
+:::
+
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 1: Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+::: notes
+
+Here is the paper prompt you are working on
+
+- **Questions on the prompt or the assignment in general?**
+
+<br>
+
+**Remind me, according to the authors we've been reading, why does a research proposal need a research question?**
+
+- (A research question **focuses** your work, **drives** your progress and let's you know when you're **done**)
+
+<br>
+
+**And what are the criteria of a "good" research question?**
+
+- (is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019))
+
+- (considers potential results, feasibility,  scale and design (Huntington-Klein 2022))
+
+<br
+
+**SLIDE**: Your outline work for today
+
+:::
+
+
+
+## For Today: Outline your Paper {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+**Introduction**
+
+- Set up your argument (e.g. build to your thesis: it is important we answer your RQ)
+
+**Premise 1**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Premise 2**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Premise 3**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Conclusion**
+
+- Wrap it up (e.g. argument restated)
+
+::: notes
+
+**Everybody ready to go with this?**
+
+- **Any questions on the outlines before we get to work?**
+
+<br>
+
+As a jumping off point, I'd like to share some good examples of Paper 1 outlines from the class
+
+- *Show one or two and highlight the strengths of each*
+
+- *Note any areas still needing work*
+
+<br>
+
+Now I'd like to give you ten minutes to reflect on these examples and then to revise your outlines
+
+- Are your explanations of the big ideas clear enough?
+
+- Is your evidence high enough quality and connected to each idea?
+
+- Go!
+
+<br>
+
+Ok, now I want you to go see EVERYBODY'S outlines in the class
+
+- Get and give feedback
+
+- Help them strengthen and clarify the ideas
+
+<br>
+
+**SLIDE**: Let's go back to the advice in Farrell (2010) on writing an introduction
+
+:::
+
+
+
+## The Introduction (Farrell 2010) {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. The introduction should sell the argument to the reader
+
+    - "...grab the reader’s attention and ... persuade her that you have something interesting to say" (3).
+    
+::: {.fragment}
+
+2. The introduction is a road-map for your paper
+
+    - "By the time the reader has finished reading the first two sentences, she should know which question the essay addresses. By the time the reader has finished reading the first five or six, she should have a pretty good idea of how the author is going to tackle the question" (3). 
+
+:::
+
+::: notes
+
+The first important job for your introduction paragraph is to sell your paper to the reader
+
+- People are busy and you have to make them willing to invest the time into your paper
+
+<br>
+
+**What kinds of ways can we grab someone's attention in an academic paper?**
+
+- (Describe the topic as a puzzle to be solved)
+
+- (Provide evidence / real-world examples)
+
+- (Can you show there is some debate about this topic?)
+
+<br>
+
+**REVEAL**: The second important job for your introduction paragraph is to provide a road-map for your paper
+
+- What's the question you are answering?
+
+- Why should they care about the question?
+
+- How do you plan on answering that question?
+
+- etc
+
+<br>
+
+**Questions on the basic role of an introduction paragraph in an argument paper?**
+
+<br>
+
+Ok, everybody take some time to write a draft of their introduction paragraph
+
+- *Give them time but save some for reviewing and rewriting*
+
+<br>
+
+Go read everybody else's draft introductions
+
+- Get and give feedback!
+
+<br>
+
+Now reflect on what you saw and heard then revise your introductions!
+
+- Go!
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+<br>
+
+*Farrell 2010 notes*
+
+- "The introduction tells the reader what you are going to say" (4). 
+
+- "This is your best opportunity to grab the reader’s attention and to
+persuade her that you have something interesting to say" (3).
+
+- "By the time the reader has finished reading the first two sentences, she should know which question the essay addresses. By the time the reader has finished reading the first five or six, she should have a pretty good idea of how the author is going to tackle the question" (3). 
+
+- "When you write the main section of the essay (or re-write it, as needs be) the introduction will provide you with a roadmap of what you need to do" (4). 
+
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Completed Rough Draft: Paper 1**
+
+- Submit to Canvas **AND** bring a printed copy to class
+
+- By "completed" I mean that the entire paper is written in a readable, essay form (no bullet points), includes your cited evidence and a bibliography.
+
+
+
+::: notes
+
+**Questions on the assignment or anything from today?**
+
+<br>
+
+Canvas ASSIGNMENT: Completed Draft of the RQ Paper
+
+Submit a completed rough draft of your first paper to Canvas AND bring a printed copy to class. 
+
+By "completed" I mean that the entire paper is written in a readable, essay form (no bullet points), includes your cited evidence and a bibliography. 
+
+:::

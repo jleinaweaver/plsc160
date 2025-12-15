@@ -1,0 +1,769 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Developing our Basic Research Tools**
+
+- A bibliography manager: Zotero
+- Top political science journals: Google Scholar
+- Argument paper basics: Farrell (2010)
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Bring work PC to class so you can do all the steps today live
+
+2. Readings
+    - Download and install [Zotero](https://www.zotero.org/)
+    - Farrell (2010)
+    - Review the [Purdue OWL pages on the APA format](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
+    - [Google Scholar Guide 1](https://paperpile.com/g/google-scholar-guide/)
+    - [Google Scholar Guide 2](https://blog.google/products/search/tips-google-scholar-expert/)
+    - Review the ["top" political science journals per Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=soc_politicalscience)
+    - Review the ["top" international relations journals per Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=soc_diplomacyinternationalrelations)
+
+<br>
+
+Today I want us to set some baselines in terms of the tools you will need to do and manage a research project
+
+- **SLIDE**: Let's begin with a bibliography manager
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Install Zotero AND a browser connector**
+:::
+
+![](Images/04_2-Zotero_Download.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+FIRST things first, I want everyone to download and install BOTH Zotero and the browser connector
+
+- When you go to the Zotero download page it should attempt to auto-detect the version of the software you need.
+
+<br>
+
+If you are running a computer that cannot install Zotero (Google Chrome, maybe?) you can also set up an online account and use Zotero on the Web
+
+<br>
+
+*Once everyone succeeds in installing Zotero, let's use it!*
+
+:::
+
+
+
+## Add items with ISBN or DOI {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Zotero_Import_ISBN.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+:::: {.fragment}
+
+::: {.r-fit-text}
+
+**Add Dr. Ponder's book: ISBN 978-1-5036-0406-3**
+
+:::
+
+::::
+
+::: notes
+
+Super easy to enter new references for any source with an identifying number:
+
+- Books should have an ISBN number
+
+- Articles should have a DOI number
+
+<br>
+
+**REVEAL**: Add Ponder's latest book
+
+<br>
+
+**SLIDE**: Let's check the results
+
+:::
+
+
+
+## Auditing the Results... {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Zotero_Ponder.png){style="display: block; margin: 0 auto"}
+
+::: {.r-fit-text}
+
+**...means knowing what fields are important in APA**
+
+:::
+
+::: notes
+
+**Did everybody succeed in entering their first book?**
+
+<br>
+
+Review the results (make sure the import included all key pieces and formatting is correct)
+
+- Does this include all the details we need to produce an APA citation?
+
+- Is all the information in the right places?
+
+<br>
+
+**SLIDE**: Let's make sure we have what we need for APA formatting
+
+:::
+
+
+
+## APA Citations: General Advice {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+**Books**
+
+Author, A. A. (Year of publication). *Title of work: Capital letter also for subtitle*. Publisher Name. DOI (if available)
+
+<br>
+
+**Articles**
+
+Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. *Title of Periodical, volume number*(issue number), pages. https://doi.org/xx.xxx/yyyy
+
+<br>
+
+**Web Pages**
+
+Lastname, F. M. (Year, Month Date). *Title of page*. Site name. URL
+
+::: notes
+
+The basic requirements for an APA citation
+
+- Keep these in mind as you audit the records you import into Zotero
+
+- These are the fields to make sure are clear, in the right spot and formatted correctly
+
+<br>
+
+**Questions on these?**
+
+<br>
+
+Now everyone check the Ponder book entries.
+
+<br>
+
+**SLIDE**: Now click the "notes" tab on the right window...
+
+:::
+
+
+
+
+## Add Notes... {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Zotero_Ponder_Notes.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+### **Dr. Ponder's theory of presidential influence depends on a concept called "leverage"**
+
+::: notes
+
+**SLIDE**: Adding citation styles
+
+
+:::
+
+
+
+
+
+## Add Citation Styles {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Zotero_Styles.png){style="display: block; margin: 0 auto"}
+
+::: {.r-fit-text}
+
+**Menu: "Edit" -> "Preferences" -> "Cite"**
+
+:::
+
+::: notes
+
+Zotero can output bibliographies in basically every format you've ever heard of.
+
+- Take a look to see what is already installed in your Zotero
+
+- **Does everybody have APA in their list?**
+
+<br>
+
+You can add more styles by clicking “Get additional styles…”
+
+- Search for the style you want and click the style title to install it into Zotero. 
+
+- You can also do this from the Zotero website: Zotero Style Repository
+
+<br>
+
+**SLIDE**: Now let's output a bibliography
+
+:::
+
+
+
+## Create a bibliography entry {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+![](Images/04_2-Zotero_Create_Bib.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Most often you'll make a single-entry bibliography by right-clicking.
+
+<br>
+
+Everybody make an APA bibliography for the Ponder book, copy it to the clipboard and paste it into a word document
+
+- (**SLIDE**)
+
+:::
+
+
+
+## Create a bibliography entry {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+Ponder, D. E. (2017). *Presidential leverage: Presidents, approval, and the American state*. Stanford University Press.
+
+::: notes
+
+**Everybody have something like this?**
+
+<br>
+
+**SLIDE**: Let's add some more references to our library
+
+:::
+
+
+
+
+
+## Use the DOI to add an item {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Google_Scholar.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+Harknett, R. J. & VanDenBerg, J. A. (1997) Alignment theory and interrelated threats: Jordan and the Persian Gulf crisis, Security Studies, 6:3, 112-153
+
+::: notes
+
+Everybody search Google Scholar for Dr. VanDenBerg's 1997 article
+
+- Click through to it and locate the DOI
+
+- Then use the DOI to input the article into your Zotero
+
+<br>
+
+**SLIDE**: Option 2 for importing an article
+
+:::
+
+
+
+## Add items with the browser connector {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+![](Images/04_2-Zotero_Import_Browser.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Does everybody see this icon in their browser menu bar?**
+
+- If not, make sure you installed the Zotero connector!
+
+<br>
+
+**SLIDE**: Practice
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Use the browser connector to add an item**
+:::
+
+![](Images/04_2-Google_Scholar.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+Leinaweaver, J., & Thomson, R. (2021). The Elusive Governance of Climate Change: Nationally Determined Contributions as Commitments and Negotiating Positions. Global Environmental Politics, 21(2), 1–26.
+
+::: notes
+
+Use Google Scholar to find this article, then use the browser connector button to import it into your Zotero
+
+<br>
+
+**SLIDE**: Create a bibliography with multiple sources
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Zotero_Create_Bib.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+Create a bibliography with all three entries
+
+- Leinaweaver and Thomson (2021)
+- Ponder (2017)
+- Harknett and VanDenBerg (1997)
+
+::: notes
+
+Hold the ctrl key and select all three sources
+
+- Once they are all highlighted, right-click and create a bibliography
+
+- Then paste it into a Word document
+
+<br>
+
+**Did everybody get it?**
+
+<br>
+
+**SLIDE**: Finding more literature
+
+:::
+
+
+
+
+## Finding High Quality Literature {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Scholar_Top_10.png){style="display: block; margin: 0 auto"}
+
+::: {.r-fit-text}
+**Check the top journal rankings**
+:::
+
+::: notes
+
+I gave you links to the top 20 in political science and international relations
+
+<br>
+
+"More" doesn't automatically equal better, BUT more eyes on the research typically means a more important topic and a better chance that mistakes get caught!
+
+<br>
+
+You don't have to stay exclusively with these, BUT
+
+- You MUST focus exclusively on peer-reviewed political science literature!
+
+:::
+
+
+## Finding High Quality Literature {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Bibliography.png){style="display: block; margin: 0 auto"}
+
+::: {.r-fit-text}
+**Check the bibliographies of relevant research**
+:::
+
+::: notes
+
+Find a useful article on your topic?
+
+- Check their bibliography!
+
+- That is a curated list of all the most relevant literature they believe you should know!
+
+:::
+
+
+## Finding High Quality Literature {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Scholar_Related_Cited.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+::: {.r-fit-text}
+**Check the "Cited by" and "Related" results on Scholar**
+:::
+
+
+
+## Finding the PDF's {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+![](Images/04_2-Scholar_pdf.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+::: {.r-fit-text}
+**Best case scenario is Google Scholar**
+:::
+
+
+
+## Finding the PDF's {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Library_Search1.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+::: {.r-fit-text}
+**Try "OneSearch" on the library website**
+:::
+
+
+## Finding Journals {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/04_2-Library_Search2.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+::: {.r-fit-text}
+**Library: "Resources" -> "Publication Finder"**
+:::
+
+::: notes
+
+Last skills piece for today, writing an argument paper
+
+- **SLIDE**: The Farrell (2010) piece offers excellent writing advice
+
+:::
+
+
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+::: notes
+**What's the advice in the "read the requirements for the assignment" section?**
+
+<br>
+
+(Make sure you are answering the question that was asked!)
+
+- I see this a lot and it results in a much lesser grade than the work might otherwise deserve.
+
+<br>
+
+Also, don't try to kill two birds with one stone (e.g. one paper for two classes)
+
+- It is WAY harder than you think to write one paper to cover two separate class prompts. 
+
+- Plagiarism
+
+<br>
+
+Also, a good chance to reinforce our AI policy in this class (as specified by the syllabus)
+
+- You may not use AI tools on these papers
+
+- That includes both chatGPT style generators that write from scratch or Grammarly style tools that simply clean up your writing
+
+- One of my primary goals in this class is to help you become a better writer. I can't do that unless I see your actual writing in the assignments.
+:::
+
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+2. Avoid Data Dumps
+
+::: notes
+**What's the advice in the "avoid data dumps" section?**
+
+<br>
+
+(You may know a lot of stuff about a topic, but "stuff" is not the same thing as an argument)
+
+- In fact, a long litany of stuff typically undermines your argument because it is distracting and confusing.
+
+- For today you each produced 10 supporting reasons for your argument but in the final paper more is almost never better (if not tightly connected).
+:::
+
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+2. Avoid Data Dumps
+
+3. Cut to the Chase
+
+::: notes
+**What's the advice in the "cut to the chase" section?**
+
+1) Make sure your argument paper gets to making its argument from the get-go
+- No, "since the beginning of time" or "Webster's dictionary defines..."
+
+<br>
+
+2) (Focus your introduction on making three things clear:)
+1. What is the question?
+
+2. Why should we care?
+
+3. What is your argument.
+
+<br>
+
+3) (Focus every paragraph on your argument!)
+- No background for the sake of background
+:::
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+2. Avoid Data Dumps
+
+3. Cut to the Chase
+
+4. Organize, Organize, Organize
+
+::: notes
+**What's the advice in the "organize, organize, organize" section?**
+
+- (**SLIDE**)
+:::
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+2. Avoid Data Dumps
+
+3. Cut to the Chase
+
+4. Organize, Organize, Organize
+    - **Macro Structure**
+
+::: notes
+
+### According to Farrell, what is a good macro structure?
+- (Every paper should have a clear beginning, middle and end)
+
+- This is probably the basic advice you've been getting since grade school.
+
+- Tell me what you're gonna tell me, tell me and tell me what you told me.
+
+<br>
+
+### How do you demonstrate in the outline that your macro structure is good?
+- (Differentiate the introduction from the body of the paper from the conclusion.)
+:::
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+2. Avoid Data Dumps
+
+3. Cut to the Chase
+
+4. Organize, Organize, Organize
+    - **Meso Structure**
+
+::: notes
+
+### What is a good meso structure?
+- (Each paragraph should build support for your argument.)
+
+- (Each paragraph should focus on one main point.)
+
+- (The point of each paragraph should build on that in the previous paragraph, and create the foundations of the next.)
+
+<br>
+
+In other words, your meso structure is taken care of if you clearly diagram your argument, premises to the conclusion, before you start writing.
+
+- The work you've done this week in building that diagram is the work you need to outline and write a well structured argument paper.
+
+<br>
+
+### What is the exercise Farrell proposes you use to check the meso structure of an argument paper?
+1. (Summarize each paragraph in one sentence.)
+
+2. (Read the summary sentences only and the paper should both make sense AND build logically.)
+
+<br>
+
+### What does it mean if you can't summarize the paragraph in one sentence?
+- (Paragraph is doing too much.)
+
+<br>
+
+I cannot emphasize this enough.
+- You should check your meso structure every time you write a paper!
+
+- An argument with a bad meso structure will NEVER be convincing.
+
+- No amount of evidence and critical analysis can overcome this weakness.
+
+<br>
+
+A weak argument with an awesome meso structure CAN still be effective.
+- The easier it is for the reader to follow the argument, the more likely they will be convinced.
+
+<br>
+
+### Does that make sense?
+:::
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+2. Avoid Data Dumps
+
+3. Cut to the Chase
+
+4. Organize, Organize, Organize
+    - **Micro Structure**
+
+::: notes
+
+### What is a good micro structure?
+1. (Sentences must be well constructed: Simple words, simple sentences, direct active language, no spelling or grammatical mistakes.)
+
+2. (Each sentence should flow logically, from one to the next.)
+
+<br>
+
+### Any questions on the three types of structure Farrell describes?
+:::
+
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+2. Avoid Data Dumps
+
+3. Cut to the Chase
+
+4. Organize, Organize, Organize
+
+5. Exercises in Style
+
+::: notes
+
+**Last one, 5. what's the advice in the "exercises in style" section?**
+
+- (Use "simple, direct writing, which communicates its arguments and evidence as clearly and unambiguously as possible" p6)
+
+- Use the active voice (subject acts upon its verb) not passive (subject is a recipient of a verb’s action)
+    - e.g. Israel is threatening to bomb Iranian nuclear facilities NOT Iranian nuclear facilities are under Israeli threat.
+
+- Simple words are better than complex words
+
+- Simple sentences are better than complex ones.
+
+<br>
+
+**Any questions on the advice in the Farrell reading?**
+
+<br>
+
+**SLIDE**: For next class
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**How to read political science research:**
+
+1. Krippner (2000)
+
+2. Hoover Green (2013)
+
+3. Read the abstract, introduction and conclusion of Fortna, Lotito & Rubin (2018)
+
+::: notes
+
+Next class we discuss the skills of reading and understanding political science research articles
+
+<br>
+
+**Questions on the assignment?**
+
+:::

@@ -1,0 +1,151 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Drafting your literature review
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: Basics of a lit review
+
+:::
+
+
+
+## The Literature Review {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+An argument paper version of your annotated bibliography
+
+- Make **a convincing argument** that your project builds on the academic literature in useful ways
+
+- **Organize AND analyze** the state of our knowledge on your question
+
+::: notes
+
+**Any questions on the big picture aims of a literature review?**
+
+<br>
+
+**SLIDE**: Your work for today
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Completed Rough Draft: Paper 2**
+
+- Submit to Canvas **AND** bring a printed copy to class
+
+- By "completed" I mean that the entire paper is written in a readable, essay form (no bullet points), includes your cited evidence and a bibliography.
+
+::: notes
+
+**Everybody ready to go with this?**
+
+<br>
+
+This paper is due at the end of the week, so let's get some feedback!
+
+<br>
+
+**SLIDE**: The outline as a reference point
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+**Introduction**
+
+- Question: "What are the competing answers to this research question in the academic literature?"
+
+- Thesis idea is that your proposal builds on the academic literature
+
+**Premise 1: Explain AND analyze School 1**
+
+**Premise 2: Explain AND analyze School 2**
+
+**Premise 3: Explain AND analyze School 3**
+
+**Conclusion**
+
+- The "best" school for your project moving forward is...
+
+::: notes
+
+Ok, go read EVERYONE'S rough drafts
+
+- Get and give feedback!
+
+- Go!
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Reflections on your Research Question**
+
+- Reflect on your lit review and apply your new expertise to evaluating your RQ paper
+
+- Details on Canvas
+
+::: notes
+
+Everybody open up the assignment on Canvas and review the details
+
+- **Questions on the assignment?**
+
+<br>
+
+Canvas ASSIGNMENT: Reflections on your RQ
+
+Now that you have completed your literature review you should have a much deeper understanding of your research question. For class today I want you to reflect on your first paper (Important RQ) in terms of your added work
+
+1. How does your chosen research question compare to the RQs in the articles from your LR? How similar? How different?
+
+2. Based on your work in the LR, what are the most substantial gaps in our knowledge around your topic? In other words, what specific aspects of the topic need more investigation or exploration? Does your current RQ target those important gaps? Why or why not?
+
+:::

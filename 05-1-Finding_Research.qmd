@@ -1,0 +1,243 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Developing our Basic Research Tools**
+
+- Finding a NEW quantitative research article
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Can we circle up seminar-style? Try it!
+
+<br>
+
+**SLIDE**: Developing our research tools
+
+:::
+
+
+
+## Research Tools {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+- A bibliography manager: Zotero
+
+- Top political science journals: Google Scholar
+
+- Argument paper basics: Farrell (2010)
+
+- Unpacking a research paper (Krippner 2000, Hoover Green 2013)
+
+:::
+
+::: notes
+
+Over the last few weeks we've been introducing and applying tools and approaches to help you do scientific research.
+
+<br>
+
+That work has included:
+
+- Installing Zotero, inputting research and outputting bibliographies
+
+- Using Google Scholar to find high quality research articles
+
+- Reflecting on the components of an effective argument paper, and
+
+- Strategies for efficiently engaging with academic literature in a critical way
+
+<br>
+
+**How are we doing with each of these?**
+
+- **Any questions or problems you're running into?**
+
+<br>
+
+**SLIDE**: Exercise for today
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Finding New Research**
+
+1. Find a NEW political science research article (no overlap!)
+
+2. Tell us about it!
+
+- Details on Canvas
+
+::: notes
+
+**How did this go?**
+
+- **Did you find a bunch of different options that you thought looked interesting?**
+
+<br>
+
+**SLIDE**: Check citations
+
+<br>
+
+Canvas DISCUSSION: Finding New Research 
+
+You must select a political science research article from a journal on one of the Google Scholar top-20 lists, published in the last ten years (since 2015), and with a pdf you can access. No overlapping articles allowed (first-come, first-served).
+
+1. What is the APA citation for your selected article?
+2. What is the research question in the article?
+3. Why did you select this article? What interested you in it?
+4. What is a recent current event (e.g. news story) that illustrates the importance of this RQ? Provide a link to the story and explain how it connects to this research paper.
+
+:::
+
+
+
+## APA Citations: General Advice {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+**Books**
+
+Author, A. A. (Year of publication). *Title of work: Capital letter also for subtitle*. Publisher Name. DOI (if available)
+
+<br>
+
+**Articles**
+
+Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. *Title of Periodical, volume number*(issue number), pages. https://doi.org/xx.xxx/yyyy
+
+<br>
+
+**Web Pages**
+
+Lastname, F. M. (Year, Month Date). *Title of page*. Site name. URL
+
+::: notes
+
+Ok, open up the discussion board and review ALL of the submitted citations
+
+- e.g. both the journal articles and the news stories
+
+- **Does everything look correctly formatted in APA?**
+
+<br>
+
+**SLIDE**: Let's talk about all this cool research you've found!
+
+:::
+
+
+
+## Share the Research {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+1. Sell us on the research paper you found, and
+
+2. Connect it to the real world!
+:::
+
+::: notes
+
+Let's go around the room to hear all the cool research you found
+
+- Make sure a big part of how you sell it to us is how it connects to real-world current events
+
+- **Any questions on what I'm asking you to do?**
+
+<br>
+
+For everybody listening:
+
+- Keep Zotero open so you can add interesting articles AND notes!
+
+- This work is INVALUABLE for a young researcher
+
+- Gathering interesting research is ALWAYS a useful task, PLUS the presenter has already done the work of connecting it to the real-world for you
+
+<br>
+
+Also, you'll all be designing a research proposal starting next week and part of that exercise is finding the relevant literature!
+
+- Don't waste this opportunity!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**Unpack your Research Paper**
+
+- Prompts on Canvas
+
+:::
+::: notes
+
+For next class I'd like each of you to unpack your chosen research article using the prompts and approach we used last week
+
+- Make sure to use complete sentences!
+
+- Make sure to include page numbers as references!
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas ASSIGNMENT: Unpacking a Research Paper (III)
+
+Read the abstract, introduction and conclusion of your selected article then answer the following questions (skimming the rest of the article as needed):
+
+1. What is the research question?
+2. Why is the question important?
+3. What is the proposed answer to the question?
+4. What real-world cases are being analyzed?
+5. What are the bottom-line conclusions in the paper? 
+6. How confident is the researcher in these conclusions?
+7. What future research does the author suggest should follow this paper?
+
+:::

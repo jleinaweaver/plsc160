@@ -1,0 +1,322 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Developing our Basic Research Tools**
+
+- Unpacking a quantitative research article
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review assignments
+
+2. Readings
+    - Xu, X. (2021). To Repress or to Co‐opt? Authoritarian Control in the Age of Digital Surveillance. American Journal of Political Science, 65(2), 309–325.
+
+<br>
+
+Last week we introduced the tools and approaches you will need to be a scientific researcher
+
+- **SLIDE**: We started with a series of tools
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+
+**Research Tools**
+
+- Zotero Bibliography Manager
+
+- Google Scholar
+
+- Farrell's (2010) advice on writing 
+
+:::
+::: notes
+
+**Any questions on the tools from last week?**
+
+<br>
+
+**SLIDE**: We then shifted to methods for approaching research
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**How to Read a (Quantitative) Journal Article (Krippner 2000)**
+:::
+
+1. All research articles follow a formula
+    - Intro
+    - Theory
+    - Data / Methods
+    - Analysis
+    - Results / Discussion
+
+2. The answers SHOULD BE in the text
+
+3. Practice, practice, practice
+
+::: notes
+
+Krippner (2000) with some excellent advice
+
+- Reminds us of how formulaic research articles are supposed to be, AND
+
+- That researchers WANT us to read and understand their work
+
+<br>
+
+**SLIDE**: Green's advice
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**How to Read Political Science (Green 2013)**
+
+1. Title, Headings, Abstract	
+
+2. Skim for Signposts
+
+3. Read Strategically
+
+4. Review
+
+:::
+
+::: notes
+
+Green's advice is designed to help us read more strategically and efficiently
+
+- Best to get what we need from an article as simply and easily as possible
+
+<br>
+
+**SLIDE**: The method we've practiced
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**How to Read Political Science (amended)**
+:::
+
+1. Carefully read the abstract, introduction and conclusion
+
+2. Develop an outline of the article (bullets and p#):
+    - The research question (why important?)
+    
+    - The key concepts (any debate?)
+    
+    - The main argument (key mechanisms?)
+    
+    - The data (sources and cases?)
+    
+    - The conclusions (how confident are they?)
+    
+3. Evaluate: What are the strongest and weakest parts of the paper? What knowledge has been created?
+
+::: notes
+
+And here is the approach I asked you to practice for class today
+
+- **Any questions on these steps before we talk about the Xu article?**
+
+<br>
+
+*Split class into groups (3 per?)*
+
+- Go sit with your group
+
+<br>
+
+**SLIDE**: Report back and unpack the article
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.r-fit-text}
+
+**Xu (2021)** 
+
+**To Repress or to Co-opt?** 
+
+**Authoritarian Control in the Age of Digital Surveillance**
+
+::: {.incremental}
+
+- The research question (why important?)
+    
+- The key concepts (any debate?)
+    
+- The main argument (key mechanisms?)
+    
+- The data (sources and cases?)
+    
+- The conclusions (how confident are they?)
+:::
+
+::::
+
+::: notes
+
+Let's use the article to practice the steps we've been discussing
+
+<br>
+
+**REVEAL**: Groups, share with each other what you submitted and get ready to report back to me on the RQ and why it is important
+
+- (*DISCUSS*)
+
+<br>
+
+**REVEAL**: Ok, what are the key concepts raised in the abstract and introduction that we think need to be carefully defined?
+
+- (*Make a list ON BOARD*)
+
+<br>
+
+Groups, dig into the paper and find us the definitions for these concepts
+
+- Look for definitions in BOTH the theory section and the methodology section
+
+- *Report back*
+
+<br>
+
+**REVEAL**: Groups, now we need to find the researchers' answer to the RQ
+
+- Go to the section that ends with the hypotheses (p311-313)
+
+- Get ready to report back, what are the key premises in this argument?
+
+- (*ON BOARD*)
+
+<br>
+
+Ok, groups, now move to the data
+
+- Get ready to report back, where does the data come from?
+
+- (*ON BOARD*)
+
+<br>
+
+**REVEAL**: Finally, groups, go to the end of the article and review the final conclusions
+
+- Get ready to report back, what are the bottom line conclusions these researchers believe we should accept? Are they confident in them?
+
+<br>
+
+**SLIDE**: Bottom line
+
+:::
+
+
+
+## Xu (2021) {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Bottom Line Takeaways
+
+::: {.incremental}
+
+1. What are the strengths and weaknesses of this research paper?
+
+2. What knowledge has been created by this paper?
+
+:::
+
+::: notes
+
+Alright groups, only after completing this summary work can we move to the critical analysis step
+
+- NOW, reflect on these article summaries to give us our two takeaways
+
+<br>
+
+**REVEAL: What are the strengths and weaknesses of this research paper?**
+
+- (*DISCUSS*)
+
+<br>
+
+**REVEAL: What knowledge has been created by this paper?**
+
+- (*DISCUSS*)
+
+<br>
+
+**Alright, how did this go today? Getting easier?**
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+Martinez i Coma, F., & Morgenbesser, L. (2020). Election turnout in authoritarian regimes. Electoral Studies, 68, 102222.
+
+1. Read the abstract, introduction and conclusion
+
+2. Unpack the article and submit to Canvas
+
+::: notes
+
+Ok, let's do this one more time!
+
+<br>
+
+**Questions on the assignment?**
+
+
+:::
+

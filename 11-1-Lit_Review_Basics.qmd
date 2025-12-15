@@ -1,0 +1,565 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- What is a literature review? (LR)
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Readings
+    - Baglione chapter 4
+    
+    - Fraga, B. L., & Miller, M. G. (2022). Who Do Voter ID Laws Keep from Voting? The Journal of Politics, 84(2), 1091–1105. https://doi.org/10.1086/716282
+        - Really clean example, start with this
+        - "HOW MIGHT VOTER ID LAWS SHAPE THE ELECTORATE?" p1092-1093
+
+    - Clayton, A., O’Brien, D. Z., & Piscopo, J. M. (2023). Women Grab Back: Exclusion, Policy Threat, and Women’s Political Ambition. American Political Science Review, 117(4), 1465–1485. https://doi.org/10.1017/S0003055422001344
+        - "ROLE MODELS AND WOMEN’S POLITICAL AMBITION" p1466-1467
+
+    - Brancati, D., Birnir, J., & Idlbi, Q. (2023). Locking Down Violence: The COVID-19 Pandemic’s Impact on Non-State Actor Violence. American Political Science Review, 117(4), 1327–1343. https://doi.org/10.1017/S0003055422001423
+        - Short but very clearly identified LR section
+
+<br>
+
+**SLIDE**: This week we continue your work developing a research proposal
+
+:::
+
+
+
+## Course Outline {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/05_2-Course_Outline.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+In Section 2 of the class we spent three weeks brainstorming, revising and making importance arguments about your research questions
+
+<br>
+
+In Section 3 we have shifted from the question to surveying the academic literature on your chosen topic
+
+<br>
+
+Specifically, over the last two weeks we have:
+
+- Gathered academic literature that aims to answer your research question
+
+- Summarized and analyzed that literature using our outline approach, and then
+
+- Converted those summaries into annotations
+
+<br>
+
+**SLIDE**: AB example
+
+:::
+
+
+
+## Annotated Bibliography {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+![](Images/11_1-AB_Example_Purdue_OWL.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Here's an example of an annotation from the Purdue OWL.
+
+<br>
+
+If you put your annotations together with your list of references in a single document, you have produced an annotated bibliography
+
+- That is an exercise you will have to do in some of our upper level classes in the major, AND 
+
+- One you will definitely have to do in PLSC 394 as you develop your Senior Seminar project
+
+<br>
+
+THIS is also typically my first step when starting a new research project
+
+- I find a topic or question that intrigues me and then I spend a bunch of time getting a lay of the land
+
+- What has been done on this question? What is good about this literature? What is lacking?
+
+- I can then use these annotations to find new questions to investigate, areas where the data is lacking or where we need new theory
+
+- And, of course, these annotations make writing the literature review WAY easier
+
+<br>
+
+**SLIDE**: So, now let's talk about the literature review!
+
+:::
+
+
+
+## Baglione (2019) Chapter 4 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### What is a literature review and why is it important?
+
+::: notes
+
+**Per the Baglione chapter, what is a literature review and why is it important in a research project?**
+
+<br>
+
+At its most basic, the literature review is an argument paper version of your annotated bibliography
+
+- The aim is to make a convincing argument that your project builds on the established literature in useful ways
+
+- The LR does this by organizing and analyzing the state of our knowledge on your question
+
+<br>
+
+**SLIDE**: Big picture notes from Baglione 
+
+:::
+
+
+
+## Baglione (2019) Chapter 4 {background-image="Images/Background-Rally_v2.png" .center}
+
+- "...the LR is a coherent essay that identifies, explains, names, and assesses the answers to your research question in an interesting way" (90).
+
+- The LR "explains to the reader how scholars have answered your Research Question (RQ), in both its generic and specific forms" (90). 
+
+- "In addition, ... the LR assesses the strengths and weaknesses of each school, examining the quality of the logic and how well each approach accounts for cases other than the ones being addressed directly in the paper" (90).
+
+::: notes
+
+*Read the quotes*
+
+<br>
+
+**Any questions on the big picture of the LR?**
+
+<br>
+
+In sum, the lit review is an argument paper that organizes all of the research on a given topic so that a reader can rapidly understand the state of our knowledge on your question
+
+- Your LR should BOTH **organize** AND **evaluate** the established literature for the reader 
+
+<br>
+
+**SLIDE**: Let's start with the "organize" part of the exercise
+
+:::
+
+
+
+## Baglione (2019) Chapter 4 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### "Schools of Thought"
+
+::: {.incremental}
+- Each "school" represents a group of articles in your AB that "share common elements"
+
+- The "schools" become the premises in your literature review argument (e.g. what organizes the meso structure of the paper)
+:::
+
+::: notes
+
+**Per Baglione, what are the "schools of thought"?**
+
+- (**REVEAL**)
+
+- In other words, the "schools" are the groups you are using to organize the literature on your RQ
+
+<br>
+
+**Per Baglione, why do we need the "schools of thought"?**
+
+- (**REVEAL**)
+
+<br>
+
+Just like any other argument paper, the lit review is designed to advance a thesis statement
+
+- Here the thesis statement is your attempt to organize and analyze all of the literature on your question
+
+- The premises in this argument, the "schools", then group together the articles in ways that help the reader understand the lay of the land
+
+<br>
+
+**Does that make sense?**
+
+<br>
+
+The first challenge in writing a literature review is in deciding what "schools" you want to use in your paper
+
+- **SLIDE**: Generating schools of thought
+
+:::
+
+
+
+
+## Baglione (2019) Chapter 4 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### How do we generate "schools of thought"?
+
+::: {.incremental}
+
+- Chronological order
+
+- Least to most preferred
+
+- By theoretical mechanism
+
+- By data source(s)
+
+- By case
+
+:::
+
+::: notes
+
+**Per Baglione, how do we generate "schools of thought"?**
+
+- **REVEAL**: Use chronological order to show the historical development of an area of inquiry
+
+- **REVEAL**: Cycle through schools from least to most preferred
+
+<br>
+
+I like the chronological one as that makes sense to me, but I don't love the second option here
+
+- If you do a "least to most" approach badly you are likely to confuse the reader and offend the researchers you are discussing
+
+- Remember, Baglione makes the very important point that you must ALWAYS introduce each school in its most favorable light! 
+    - Think like a member of that school.
+
+<br>
+
+Some other options worth considering:
+
+**REVEAL** (not from reading): Groupings based on key mechanism
+
+- Explaining voting: Ideology vs Policy vs Retrospective assessment
+    
+- Explaining adopting international law: How costly is it vs how serious is the problem vs are your allies joining it
+
+<br>
+
+**REVEAL** (not from reading): Groupings based on data source used
+
+- Measuring democracy: Polity vs FH vs V-Dem vs Democracy and Dictatorship database
+
+- Measuring Terrorism: GTD vs RAND worldwide database on terrorism
+
+<br>
+
+**REVEAL** (not from reading): Groupings based on cases studied
+
+- Research focused on one country vs one region vs the world
+
+<br>
+
+**Any questions on generating schools of thought?**
+
+- Key here is to know that you can do this in whatever way makes sense to you, not just these I've listed
+
+- The goal is to coherently organize the existing answers to your question
+
+<br>
+
+**SLIDE**: Baglione's "fundamentals of the LR"
+
+:::
+
+
+
+## Baglione (2019) Chapter 4 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**The Fundamentals of the Literature Review**
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
+
+::: notes
+
+In the end, Baglione argues the reader of your lit review should understand these four things about your topic
+
+<br>
+
+**Questions on any of these "fundamentals" or anything else about the LR?**
+
+<br>
+
+Let's examine some actual literature reviews to get a sense of how these look in published research
+
+- *Split class into small groups (no more than 4 per group)*
+
+- Go sit with your group!
+
+<br>
+
+**SLIDE**: Article 1
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/11_1-Fraga2022.png){style="display: block; margin: 0 auto"}
+
+<br>
+
+::: {.fragment}
+
+**"How Might Voter ID Laws Shape The Electorate?"**
+
+- What are the "schools of thought"?
+
+:::
+
+::: notes
+
+Groups, open up the first article
+
+- **First job, find me the literature review section in this paper**
+
+- ("How Might Voter ID Laws Shape The Electorate?" p1092-1093)
+
+<br>
+
+**REVEAL**
+
+Ok, groups, review this section and get ready to report back to me on how this literature has been organized.
+
+- **In other words, what are the "schools of thought" here?**
+
+- (*DISCUSS*)
+
+<br>
+
+**SLIDE**: Time to evaluate the LR
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/11_1-Fraga2022.png){style="display: block; margin: 0 auto"}
+
+**How well does this literature review accomplish the fundamentals?**
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
+
+::: notes
+
+Groups, get ready to report back on this question
+
+- **How well does this literature review accomplish Baglione's fundamentals?**
+
+    - **Strengths of this LR?**
+    
+    - **Weaknesses?**
+
+<br>
+
+**SLIDE**: Article 2
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/11_1-Clayton2023.png){style="display: block; margin: 0 auto"}
+
+::: {.fragment}
+
+**"Role Models And Women’s Political Ambition"**
+
+1. What are the "schools of thought"?
+
+:::
+
+::: {.fragment}
+2. How well does this literature review accomplish the FOUR fundamentals?
+
+:::
+
+::: notes
+
+Groups, open up the first article
+
+- **First job, find me the literature review section in this paper**
+
+- (**REVEAL**: "Role Models And Women’s Political Ambition" (p1466-1467))
+
+<br>
+
+Ok, groups, review this section and get ready to report back to me on how this literature has been organized.
+
+- **In other words, what are the "schools of thought" here?**
+
+<br>
+
+**REVEAL**: Groups, get ready to report back on this question
+
+- **How well does this literature review accomplish Baglione's fundamentals?**
+
+    - **Strengths of this LR?**
+    
+    - **Weaknesses?**
+
+<br>
+
+**SLIDE**: Article 3
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/11_1-Brancati2023.png){style="display: block; margin: 0 auto"}
+
+::: {.fragment}
+
+**"Existing Research On Lockdown Measures And Violence"**
+
+1. What are the "schools of thought"?
+
+:::
+
+::: {.fragment}
+2. How well does this literature review accomplish the FOUR fundamentals?
+
+:::
+
+::: notes
+
+Groups, open up the first article
+
+- **First job, find me the literature review section in this paper**
+
+- (**REVEAL**: "Existing Research On Lockdown Measures And Violence" (p1328-1329))
+
+<br>
+
+Ok, groups, review this section and get ready to report back to me on how this literature has been organized.
+
+- **In other words, what are the "schools of thought" here?**
+
+<br>
+
+**REVEAL**: Groups, get ready to report back on this question
+
+- **How well does this literature review accomplish Baglione's fundamentals?**
+
+    - **Strengths of this LR?**
+    
+    - **Weaknesses?**
+
+<br>
+
+**SLIDE**: Summing up the lit review
+
+:::
+
+
+
+## Course Outline {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/05_2-Course_Outline.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Any questions on our work from today?**
+
+- e.g. what is a literature review? 
+
+- How does it connect to an AB? 
+
+- What is the format or structure of a LR argument?
+
+- What are the "schools of thought"?
+
+- What are Baglione's fundamentals of a good LR?
+
+- etc.
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Identify and Evaluate the LR Structures in your Bibliography**
+
+1. How is each article's LR organized (e.g. "schools")?
+
+2. Strengths and weaknesses of each LR?
+
+- Details on Canvas
+
+
+::: notes
+
+*Read assignment*
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas ASSIGNMENT: Identify and Evaluate the LR Structures in your Bibliography
+
+Make a copy of your AB and below EACH completed annotation add a description AND evaluation of the literature review in that article. Use complete sentences.
+
+1. How is the LR organized in this article (e.g. what are the "schools")?
+
+2. How well does this article complete the four fundamentals per the Baglione reading? Give us strengths AND weaknesses.
+
+:::

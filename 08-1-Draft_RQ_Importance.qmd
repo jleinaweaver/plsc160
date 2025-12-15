@@ -1,0 +1,175 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Drafting your importance argument
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Post in class assignment after introducing it
+
+<br>
+
+**SLIDE**: The prompt
+
+:::
+
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 1: Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+::: notes
+
+Here is the paper prompt you are working on
+
+- **Questions on the prompt or the assignment in general?**
+
+<br>
+
+**SLIDE**: The structure
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center .smaller}
+
+**Introduction**
+
+- Set up your argument (e.g. build to your thesis: it is important we answer your RQ)
+
+**Premise 1**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Premise 2**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Premise 3**
+
+- Explain the idea and connect it to two pieces of evidence
+
+**Conclusion**
+
+- Wrap it up (e.g. argument restated)
+
+::: notes
+
+For today I asked each of you to submit AND bring a printed copy of your completed draft paper
+
+- **Ready to go?**
+
+<br>
+
+**SLIDE** In class assignment for today
+
+:::
+
+
+
+## In-Class Assignment {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Peer Assessment**
+
+- Submit your reflections on the rough drafts of FIVE of your classmates
+
+**Self-Reflection**
+
+- After reviewing the drafts in class today I'd like you to reflect on your own draft paper
+
+::: notes
+
+The prompts for each piece of this assignment is on Canvas now.
+
+- Everybody go read it
+
+<br>
+
+**Any questions on what I'm asking you to do today?**
+
+- Go!
+
+<br>
+
+**SLIDE**: Plan for Thursday
+
+<br>
+
+In Class Canvas ASSIGNMENT: Reflections on the Draft Papers (10 pts)
+
+Part 1 - Peer Assessment
+
+In class today you must read and reflect on the rough drafts of FIVE of your classmates. For each paper, submit the name of the author and AT LEAST one strength and one weakness of their argument. Be sure to communicate your feedback to each author!
+
+Part 2 - Self-Reflection
+
+After reviewing the drafts in class today I'd like you to reflect on your own draft paper
+
+1. What in this paper did you do well? What are you most proud of?
+2. What, for you, was the most difficult aspect of writing this argument paper?
+3. What are AT LEAST TWO specific aspects of the current draft you plan on improving before submitting the paper?
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**For Next Class**
+
+<br>
+
+**Reviewing the RQs for PLSC 394 Research Design**
+:::
+::: notes
+
+In class on Thursday we'll be reviewing the research questions being developed by the juniors in Research Design and giving them our feedback.
+
+<br>
+
+Don't forget that your paper is due at the end of the week
+
+
+<br>
+
+**Questions on the assignment or anything from today?**
+:::

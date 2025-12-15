@@ -1,0 +1,338 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Designing a Research Proposal**
+
+- Revising your RQ paper
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: Today we begin the final section of our semester
+
+:::
+
+
+
+## Course Outline {background-image="Images/Background-Rally_v2.png" .center}
+
+![](Images/05_2-Course_Outline.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Today we enter Section 4 of the semester which is focused on "completing" your research proposals
+
+<br>
+
+Completing your research proposal for this class requires two elements:
+
+1. The first task is to revise and reframe your first paper
+
+2. The second task is to propose an answer to your research question (e.g. a theory)
+
+<br>
+
+Let's start with the first task focused on revising and reframing your first paper
+
+- **SLIDE**: The old prompt
+
+:::
+
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 1: Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+- Importance Criteria: Impact on the real world
+
+::: notes
+
+Here's the prompt for the first paper.
+
+<br>
+
+I asked each of you to  propose a "good" research question and then to make an argument it was "important"
+
+- This importance argument was rooted in the empirical world
+
+- In other words, you showed the reader why your topic was impactful in the political world
+
+<br>
+
+**SLIDE**: Turns out, in scientific research, real world impact is only half the job of making an importance argument
+
+:::
+
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 3: REVISED Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+- Importance Criteria: 
+
+    - Impact on the real world, AND
+    
+    - Impact on the academic literature
+
+::: notes
+
+Your task in the third paper is to revise your first paper so that your importance argument does both of these things
+
+- The new element of importance requires you to explicitly connect your work to established scientific literature
+
+<br>
+
+Remember, the scientific research is our best estimate of current knowledge
+
+- e.g. what we know about why the world works the way it does
+
+<br>
+
+This means your question is important ONLY if it:
+
+1. Is connected to issues of importance in the real world,
+
+2. Builds on what has come before it, AND
+
+3. Proposes to push us beyond what we already know
+
+<br>
+
+In short, the importance argument must show that the topic is impactful in the political world AND that it fills a gap in the academic literature
+
+<br>
+
+The funny thing is that you can't easily do this from the beginning of the project
+
+- You need a draft question to guide you to the relevant literature
+
+- Then you have to summarize, organize and analyze that literature BEFORE you can make the argument your RQ is important to science!
+
+<br>
+
+Your next job is to take your expertise back to the research question!
+
+- Is your original question something we don't already have a good answer to?
+
+- How could we tweak your question to make it target the unknown more precisely?
+
+<br>
+
+**Any questions on this new element of importance?**
+
+- **SLIDE**: Let's now use your Canvas submissions to discuss your expert reflections on your original research questions
+
+:::
+
+
+
+## Big Question {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Has your specific question been thoroughly asked and answered in the literature already?
+
+::: notes
+
+**So, did anybody discover that their research question has been asked and answered?**
+
+<br>
+
+There is no shame in this!
+
+- Discovering this is part of the process and it turns out that tweaking your research question isn't usually very hard
+
+- Before we do tweaks, let's see if we have any other problems...
+
+<br>
+
+**SLIDE**: Big question tweaked
+
+:::
+
+
+
+## Big Question (redux) {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### How close is your question to the asked and answered questions in the literature?
+
+::: notes
+
+**Is anybody's question uncomfortably close to an asked and answered question?**
+
+<br>
+
+This is a VERY common outcome from completing a literature review
+
+- The good news is that your LR is the key to fixing the RQ!
+
+<br>
+
+**SLIDE**: Next step
+
+:::
+
+
+
+## What do we "know"? {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Based on your research, what do we understand well in your topic? 
+
+::: notes
+
+Ok, get ready to report back on this:
+
+- In your topic, what does the research suggest we know well?
+
+- What questions have been asked and answered well?
+
+<br>
+
+*PRESENT and DISCUSS examples*
+
+<br>
+
+**SLIDE**: Time for the other side of the coin
+
+:::
+
+
+
+## Finding the Gaps {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Based on your research, what do we NOT understand well in your topic? 
+
+<br>
+
+::: {.fragment}
+
+### Brainstorm a RQ for each of the identified gaps in our knowledge
+
+:::
+
+::: notes
+
+Ok, now I want you to make us a list
+
+- What do we NOT understand well in your topic?
+
+- Let's aim for a list of AT LEAST five things we do not know
+
+- If you're looking for help on this, consider the "future research needs" mentioned in the conclusions of most research articles
+
+- Go!
+
+<br>
+
+**Does everybody have a list of AT LEAST FIVE unknowns drawn from the literature you've been exploring?**
+
+<br>
+
+**REVEAL**: Your next job is to write research questions that specifically target these gaps
+
+- Don't agonize over the perfect wording here, just brainstorm questions that would help us generate new knowledge!
+
+- Go!
+
+<br>
+
+Let's hear what you've come up with!
+
+- Everybody share one or two of the new questions from your lists that you like the best.
+
+- Let's help each other shape these into good research questions!
+
+<br>
+
+**SLIDE**: Back to the revised paper assignment
+
+:::
+
+
+
+##  {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Proposal Paper 3: REVISED Important Research Question**
+:::
+
+<br>
+
+**Assignment Prompt**
+
+- What is the research question motivating your proposal and why is it important?
+
+- The importance argument must show that the topic is **impactful in the political world AND fills a gap in the academic literature**
+    
+::: notes
+
+Ok, so, here's what I want for this paper.
+
+- You must revise your first paper to propose a research question that is important in both the real world impacts and as it relates to the academic literature
+
+- My guess is that almost everyone will keep the bulk of what is in their first paper
+
+<br>
+
+The key change is that ONE of the premises in the paper MUST focus on the academic literature as an importance argument
+
+- This means acknowledging the established research and showing how your question advances our knowledge on the topic
+
+<br>
+
+This will be due by the end of NEXT week
+
+- **Any questions on the assignment?**
+
+- Let's get to work!
+
+:::

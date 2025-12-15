@@ -1,0 +1,259 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Developing our Basic Research Tools**
+
+- Unpacking a quantitative research article (II)
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas assignments
+
+<br>
+
+**SLIDE**: Our aim in this class
+
+:::
+
+
+
+## PLSC 160: Inquiry in Political Science {background-image="Images/Background-Rally_v2.png"  .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Designing a "good" research proposal requires:
+
+- A compelling research question,
+
+- A foundation in the academic literature, and 
+
+- A clear theoretical story to test
+:::
+
+::: notes
+
+By the end of the semester, you should be able to produce a research proposal
+
+- e.g. a coherent foundation for performing a scientific research project
+
+<br>
+
+And this week our work has been to learn to read and analyze articles from the academic literature
+
+- Learn from the experts as they struggle with the same challenges!
+
+<br>
+
+**SLIDE**: Our work for today
+
+:::
+
+
+
+## For Today {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+Martinez i Coma, F., & Morgenbesser, L. (2020). Election turnout in authoritarian regimes. *Electoral Studies*, 68, 102222.
+
+1. Read the abstract, introduction and conclusion
+
+2. Unpack the article and submit to Canvas
+
+::: notes
+
+**Everybody have the article and are ready to go?**
+
+<br>
+
+*Split class into groups (3 per?)*
+
+- Work with new people!
+
+- Go sit with your group
+
+<br>
+
+**SLIDE**: Report back and unpack the article
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.r-fit-text}
+
+**Martinez i Coma & Morgenbesser (2020)**
+
+**Election turnout in authoritarian regimes.** 
+
+::: {.incremental}
+
+- The research question (why important?)
+    
+- The key concepts (any debate?)
+    
+- The main argument (key mechanisms?)
+    
+- The data (sources and cases?)
+    
+- The conclusions (how confident are they?)
+:::
+
+::::
+
+::: notes
+
+Let's use the article to practice the steps we've been discussing
+
+<br>
+
+**REVEAL**: Groups, share with each other what you submitted and get ready to report back to me on the RQ and why it is important
+
+- (*DISCUSS*)
+
+<br>
+
+**REVEAL**: Ok, what are the key concepts raised in the abstract and introduction that we think need to be carefully defined?
+
+- (*Make a list ON BOARD*)
+
+<br>
+
+Groups, dig into the paper and find us the definitions for these concepts
+
+- Look for definitions in BOTH the theory section and the methodology section
+
+- *Report back*
+
+<br>
+
+**REVEAL**: Groups, now we need to find the researchers' answer to the RQ
+
+- Go to the section that ends with the hypotheses (p311-313)
+
+- Get ready to report back, what are the key premises in this argument?
+
+- (*ON BOARD*)
+
+<br>
+
+Ok, groups, now move to the data
+
+- Get ready to report back, where does the data come from?
+
+- (*ON BOARD*)
+
+<br>
+
+**REVEAL**: Finally, groups, go to the end of the article and review the final conclusions
+
+- Get ready to report back, what are the bottom line conclusions these researchers believe we should accept? Are they confident in them?
+
+<br>
+
+**SLIDE**: Bottom line
+
+:::
+
+
+
+## Martinez i Coma & Morgenbesser (2020) {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+### Bottom Line Takeaways
+
+::: {.incremental}
+
+1. What are the strengths and weaknesses of this research paper?
+
+2. What knowledge has been created by this paper?
+
+:::
+
+::: notes
+
+Alright groups, only after completing this summary work can we move to the critical analysis step
+
+- NOW, reflect on these article summaries to give us our two takeaways
+
+<br>
+
+**REVEAL: What are the strengths and weaknesses of this research paper?**
+
+- (*DISCUSS*)
+
+<br>
+
+**REVEAL: What knowledge has been created by this paper?**
+
+- (*DISCUSS*)
+
+<br>
+
+**Alright, how did this go today? Getting easier?**
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Finding New Research**
+
+1. Find a NEW political science research article (no overlap!)
+
+2. Tell us about it!
+
+- Details on Canvas
+
+::: notes
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas DISCUSSION: Finding New Research 
+
+You must select a political science research article from a journal on one of the Google Scholar top-20 lists, published in the last ten years (since 2015), and with a pdf you can access. No overlapping articles allowed (first-come, first-served).
+
+1. What is the APA citation for your selected article?
+2. What is the research question in the article?
+3. Why did you select this article? What interested you in it?
+4. What is a recent current event (e.g. news story) that illustrates the importance of this RQ? Provide a link to the story and explain how it connects to this research paper.
+
+:::

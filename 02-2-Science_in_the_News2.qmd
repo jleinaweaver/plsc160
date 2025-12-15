@@ -1,0 +1,274 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+Finding the political science in the news
+
+- Analyzing news articles
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Markers x A TON
+
+<br>
+
+Let's recap what we've done so far!
+
+- **SLIDE**: In Week 1 of our class we discussed the "science" in political science
+
+:::
+
+
+
+## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.fragment}
+1. Science is a process for converting empirical observations into knowledge (e.g. the "why" of it all)
+
+2. The scientific method prioritizes transparency and replicatability
+
+3. ALL facts have a half-life which makes higher quality facts more valuable
+
+4. Science is never finished, so, be humble in your conclusions
+:::
+
+::: notes
+
+**What were your takeaways from our discussions of science and facts last week?**
+
+<br>
+
+*If needed:*
+
+- **What does it mean to say we use the scientific method to generate new knowledge?**
+
+- **What does it mean to say facts have a half-life?**
+    - (Facts have a "half-life")
+    - (Facts can be classified by their speed of change)
+    - (Studying the spread of knowledge is valuable)
+
+<br>
+
+**REVEAL**
+
+<br>
+
+**SLIDE**: Let's shift to our talks about news diets
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Do you have a "good" news diet?**
+:::
+
+::: notes
+
+**After our discussions and readings thus far, who here feels they have a "good" news diet? Why or why not?**
+
+<br>
+
+**When is it ok to use unreliable sources?**
+
+- **Is it ever?**
+
+<br>
+
+**SLIDE**: My plea to you
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.r-fit-text}
+**Reflecting on your News Diet**
+
+1. Be curious!
+
+2. Garbage in, garbage out
+
+3. Focus on the NEWS and not the OPINION
+
+4. Explaining "why" requires science
+
+::::
+
+::: notes
+
+**Any questions on what we've done so far?**
+
+<br>
+
+Today I want us to pick up where we ended last class
+
+- Keeping up with current events is crucial to gathering facts, AND
+
+- These facts generate "why" questions for you to answer using SCIENCE!
+
+<br>
+
+**SLIDE**: Let's start by gathering your new facts
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Reporting Back our New "Facts"**
+
+1. What is the source of these facts?
+
+2. Why is this source reliable for these facts?
+
+2. What are the facts of the case?
+:::
+
+::: notes
+
+Everybody review the case they submitted for today and get ready to report back on the reliable "facts" we can take from it
+
+- Remember, reliability requires MORE than just the name of the source or the reporter
+
+- It is a function of THEIR sources and QUALITY of their reporting
+
+- **Questions?**
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+- *Make sure each can defend the reliability of the source AND the facts from this source in this case?*
+
+<br>
+
+From this exercise I asked each of you to submit two research questions to Canvas
+
+- e.g. different "why" questions inspired by the facts of this case
+
+- **SLIDE**: Let's share them 
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Generating Research from the News**
+:::
+
+<br>
+
+### 1. Write ONE of your submitted research questions on the board
+
+::: {.fragment}
+
+### 2. Groups select the top five questions you would most like to know the answers to
+
+:::: {.fragment}
+
+### 3. Groups pick ONE question and brainstorm an answer
+
+::::
+
+:::
+
+::: notes
+
+Everybody pick their strongest or most interesting of the two RQs submitted and write it on the board!
+
+- Go!
+
+<br>
+
+*Split class into small groups (3 per)*
+
+- Go sit with your group!
+
+<br>
+
+**REVEAL**: Groups, review all the options and identify the five questions you would be most interested in answering
+
+- Be ready to explain why you made your selections (e.g. what appealed to you about these specific questions?)
+
+- **Questions?**
+
+- Go!
+
+<br>
+
+*SHARE top five's and DISCUSS the logic for each group*
+
+- *You put tick marks next to chosen RQs*
+
+<br>
+
+**REVEAL**: Groups, now pick one of the RQs from your top-5 and brainstorm an answer to the question. 
+
+- Get ready to explain your intuition
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**Developing our basic research tools**
+
+- Bibliography managers, political science journals, and how to write an argument in political science
+
+- Bring a computer to class!
+
+
+::: notes
+
+Assignment for next class: Basic research tools
+- Reminder to students: Bring a computer to next class!
+
+<br>
+
+**Questions on the assignment?**
+
+:::
