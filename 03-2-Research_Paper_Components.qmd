@@ -224,6 +224,7 @@ Let's start with the Krippner advice on reading quantitative research
 ::: {.r-fit-text}
 **How to Read Political Science (Green 2013)**
 
+::: {.fragment}
 1. Title, Headings, Abstract	
 
 2. Skim for Signposts
@@ -232,6 +233,7 @@ Let's start with the Krippner advice on reading quantitative research
 
 4. Review
 
+:::
 :::
 
 ::: notes
@@ -242,6 +244,8 @@ Let's start with the Krippner advice on reading quantitative research
 - Talk to each other and then report back to me
 
 <br>
+
+**REVEAL**
 
 I think this is really useful big picture advice
 
