@@ -183,23 +183,23 @@ From this exercise I asked each of you to submit two research questions to Canva
 
 
 
-## {background-image="Images/Background-Rally_v2.png" .center}
-
-::: {.r-fit-text}
-**Generating Research from the News**
-:::
+## Generating Research from the News {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-### 1. Write ONE of your submitted research questions on the board
+::: {.r-fit-text}
 
-::: {.fragment}
+:::: {.incremental}
 
-### 2. Groups select the top five questions you would most like to know the answers to
+1. Write ONE of your questions on the board
 
-:::: {.fragment}
+2. Groups: Select the top-five
 
-### 3. Groups pick ONE question and brainstorm an answer
+3. Groups: Brainstorm an answer to your question
+
+4. Groups: Brainstorm an ALTERNATIVE answer
+
+5. Groups: Add a hypothesis to EACH
 
 ::::
 
@@ -207,13 +207,11 @@ From this exercise I asked each of you to submit two research questions to Canva
 
 ::: notes
 
-Everybody pick their strongest or most interesting of the two RQs submitted and write it on the board!
-
-- Go!
+**REVEAL**: Everybody pick their strongest or most interesting of the two RQs submitted and write it on the board!
 
 <br>
 
-*Split class into small groups (3 per)*
+*Split class into small-ish groups (3 or 4 per depending on class size)*
 
 - Go sit with your group!
 
@@ -223,21 +221,38 @@ Everybody pick their strongest or most interesting of the two RQs submitted and 
 
 - Be ready to explain why you made your selections (e.g. what appealed to you about these specific questions?)
 
-- **Questions?**
-
-- Go!
+- (*REPORT BACK and track tally votes on board*)
 
 <br>
 
-*SHARE top five's and DISCUSS the logic for each group*
-
-- *You put tick marks next to chosen RQs*
+*Assign top vote getting questions to groups (let them pick? No overlap!)*
 
 <br>
 
-**REVEAL**: Groups, now pick one of the RQs from your top-5 and brainstorm an answer to the question. 
+**REVEAL**: Groups, it's intuition time!
 
-- Get ready to explain your intuition
+- Propose an answer to your assigned question
+
+- Be ready to explain your intuition (e.g. an answer PLUS the "why" it is the answer)
+
+- This means I am expecting a single sentence answer (thesis statement) PLUS bullet points explaining WHY 
+
+<br>
+
+**REVEAL**: Groups, it's DOUBLE intuition time!
+
+- Brainstorm an alternative answer
+
+- NO STRAW MEN!
+
+<br>
+
+**REVEAL**: Hypothesis time!
+
+- For each answer give us one observable implication of your answer
+
+- In other words, if this answer is true what would we see in the real world to support it?
+
 
 <br>
 
@@ -260,7 +275,6 @@ Everybody pick their strongest or most interesting of the two RQs submitted and 
 - Bibliography managers, political science journals, and how to write an argument in political science
 
 - Bring a computer to class!
-
 
 ::: notes
 
