@@ -144,7 +144,7 @@ Green's advice is designed to help us read more strategically and efficiently
 2. Develop an outline of the article (bullets and p#):
     - The research question (why important?)
     
-    - The key concepts (any debate?)
+    - The key concepts defined (literature AND methodology)
     
     - The main argument (key mechanisms?)
     
@@ -188,7 +188,7 @@ And here is the approach I asked you to practice for class today
 
 - The research question (why important?)
     
-- The key concepts (any debate?)
+- The key concepts defined (literature AND methodology)
     
 - The main argument (key mechanisms?)
     

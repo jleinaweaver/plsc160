@@ -292,7 +292,7 @@ If the basic structure of the article doesn't make sense, than that's bad scienc
 2. Develop an outline of the article (bullets and p#):
     - The research question (why important?)
     
-    - The key concepts (any debate?)
+    - The key concepts defined (literature AND methodology)
     
     - The main argument (key mechanisms?)
     
@@ -360,7 +360,7 @@ So, my advice:
 
 - The research question (why important?)
     
-- The key concepts (any debate?)
+- The key concepts defined (literature AND methodology)
     
 - The main argument (key mechanisms?)
     
@@ -386,6 +386,14 @@ Let's use the article to practice the steps we've been discussing
 **REVEAL**: Ok, what are the key concepts raised in the abstract and introduction that we think need to be carefully defined?
 
 - (*Make a list ON BOARD*)
+
+<br>
+
+*Assign concepts to groups and have them work directly ON THE BOARD*
+
+1. How is this defined in the literature? (prior lit)
+
+2. How do the authors choose to define it? (methodology)
 
 <br>
 
