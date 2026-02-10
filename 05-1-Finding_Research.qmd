@@ -158,25 +158,39 @@ Ok, open up the discussion board and review ALL of the submitted citations
 
 
 
-## Share the Research {background-image="Images/Background-Rally_v2.png" .center}
+## Let's Gather Some Research! {background-image="Images/Background-Rally_v2.png" .center}
 
-::: {.r-fit-text}
-1. Sell us on the research paper you found, and
+<br>
 
-2. Connect it to the real world!
+**Presenter: Sell us on your chosen paper**
+
+- Why is this important? What knowledge do we lack?
+
+<br>
+
+::: {.fragment}
+
+**Audience: Take notes in Zotero**
+
+- Save good articles / ideas whenever you hear them!
+
 :::
 
 ::: notes
 
 Let's go around the room to hear all the cool research you found
 
-- Make sure a big part of how you sell it to us is how it connects to real-world current events
+- Your job is to sell us on what you found
+
+- That means drawing connections to important events in the real-world, and
+
+- Identifying the knowledge we do NOT have!
 
 - **Any questions on what I'm asking you to do?**
 
 <br>
 
-For everybody listening:
+**REVEAL**: For everybody listening,
 
 - Keep Zotero open so you can add interesting articles AND notes!
 
