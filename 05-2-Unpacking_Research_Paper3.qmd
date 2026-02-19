@@ -16,7 +16,9 @@ library(readxl)
 
 **Developing our Basic Research Tools**
 
-- Unpacking your research article
+- Developing your knowledge for now, AND
+
+- Your research base for the future
 
 :::
 
@@ -29,71 +31,154 @@ Justin Leinaweaver (Spring 2026)
 ::: notes
 Prep for Class
 
-1. Review Canvas submissions
+1. **Review Canvas submissions: NOTE great examples of each prompt!**
 
 2. Class plan
 
-    - 1/2 the class reviewing the work
-    - 1/2 the class exploring the "future research" needs identified in each article
+    - 45 minutes R&R
+    - 15 minutes sharing
+    - 15 minutes exploring the "future research" needs identified in each article
+
+3. Markers x MANY
 
 <br>
 
-**SLIDE**: Your work for today
+**SLIDE**: Developing your research tools
 
 :::
 
 
 
-## For Today {background-image="Images/Background-Rally_v2.png" .center}
+## Research Tools {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
 ::: {.r-fit-text}
 
-**Unpack your Research Paper**
+- A bibliography manager: Zotero
 
-- Prompts on Canvas
+- Top political science journals: Google Scholar
+
+- Argument paper basics: Farrell (2010)
+
+- Unpacking a research paper (Krippner 2000, Hoover Green 2013)
 
 :::
+
 ::: notes
 
-**So, how did this go?**
+Over the last few weeks we've been introducing and applying tools and approaches to help you do scientific research.
 
 <br>
 
-- **Did everybody write in complete sentences?**
+Doing good scientific research requires you to be:
 
-    - In future you won't remember the details so be kind to your future self and write complete ideas!
+- Well informed about the world, 
 
-- **Did everybody include page numbers as references?**
+- A skilled reader of published scientific work, and
 
-    - Again, in future you won't remember the paper so help your future self find the details!
-
-<br>
-
-Ok, for the first half of class today I want you to pair off with everyone in class and review their work
-
-- This is your chance for a crash course in a ton of cutting-edge research!
-
-- For any articles you are interested in you should borrow their notes and add them to your Zotero!
+- A clear communicator of ideas and arguments
 
 <br>
 
-**Questions?**
+Our exercises last week and this week have been designed to get you moving forward on all three of these areas.
+
+<br>
+
+Specifically, your work for today asks you to practice all three of these skills in one exercise!
+
+- You learned something about the cutting edge of our knowledge, 
+
+- You had to read strategically to extract the needed material, and
+
+- You had the chance to communicate those ideas to your future you and the rest of us
+
+<br>
+
+**SLIDE**: Today I want us to reflect on your work and then spend some time focused on this third point
+
+:::
+
+
+
+## Research Tools {background-image="Images/Background-Rally_v2.png" .center}
+
+1. What is the research question?
+2. Why is the question important?
+3. What is the proposed answer to the question?
+4. What real-world cases are being analyzed?
+5. What are the bottom-line conclusions in the paper? 
+6. How confident is the researcher in these conclusions?
+7. What future research does the author suggest should follow this paper?
+
+::: notes
+
+Everybody basically did the exercise, but I think you've left a TON of context off the page
+
+- You read the article so your brain automatically fills in the gaps, BUT future you won't remember the article and other people will have even less of an idea
+
+<br>
+
+Everybody open up the discussion board on Canvas and let's review the submissions
+
+- Help me find examples of responses to the individual prompts that are clear, well-explained and CLEARLY rooted in the article with citations
+
+- *Make sure RQ's get unpacked. You have to explain the concepts in the question*
+
+- *Encourage the class to add critical analysis to each prompt! Something was confusing, under-explained or done poorly? Include that! It's gold!*
+
+<br>
+
+**Questions on more clearly communicating the ideas from a research article?**
+
+<br>
+
+Ok, take all of this on board and now we apply it!
+
+- Everybody take the next X minutes to revise and resubmit your assignment for today (save 30 mins at end of class: 15 to share and 15 for future research)
+
+- Use your classmates! Share ideas and get feedback as you work. 
+
+- You want your answers clear enough that someone who hasn't read the article gets what you've summarized and explained
 
 - Go!
 
 <br>
 
-**So, who did a particularly excellent job with this exercise today?**
-
-- **In other words, whose notes were thorough enough that you had an excellent sense of the strengths and weaknesses of a given article?**
+Ok, 15 minutes, pair off to get and give feedback!
 
 <br>
 
 **SLIDE**: Our plan for the semester
 
 :::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+:::: {.r-fit-text}
+
+**Doing good scientific research requires you to be:**
+
+- Well informed about the world, 
+
+- A skilled reader of published scientific work, and
+
+- A clear communicator of ideas and arguments
+
+::::
+
+::: notes
+
+Remember, all of these skills get stronger if you simply read widely
+
+- Get in the habit of reading published scientific research and you will make progress on all three!
+
+:::
+
+
+
 
 
 
@@ -131,15 +216,11 @@ Hopefully the work we've done so far this semester has pushed you to think about
 
 **Unpacking a Research Article: Future Needs**
 
-::: {.fragment}
-
 - Go to the concluding section of the paper,
 
 - Find the "future research" ideas, and
 
-- Write them on the board!
-
-:::
+- Write the "BEST" ONE on the board!
 
 ::::
 
@@ -153,7 +234,11 @@ In basically every piece of published research the concluding section will inclu
 
 <br>
 
-**REVEAL**: Everybody dig into the conclusion in their paper and find the future needs ideas
+Everybody dig into the conclusion in their paper and find the future needs ideas, OR
+
+- You could also choose to give us something this article inspired you to think about
+
+- I want gaps in our knowledge or questions you want answered!
 
 - Write them on the board!
 

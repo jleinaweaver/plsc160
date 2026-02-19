@@ -33,7 +33,9 @@ Prep for Class
 
 1. BRING all annotated research articles from last week
 
-2. Readings
+2. IDEA: Don't worry about getting through all of the exercises. See where the students lock in and let that go
+
+3. Readings
     - Baglione Chapter 2
     - [Huntington-Klein, N. (2022) Chapter 2](https://theeffectbook.net/ch-ResearchQuestions.html)
 
@@ -260,35 +262,15 @@ I especially like Baglione's idea that a good research question gives us a progr
 
 Fortna, Lotito & Rubin (2018). Don’t Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars.
 
-::::: {.fragment}
+::: {.fragment}
 
-:::: {.columns}
+- **Why do some rebel groups resort to terrorism while others refrain from doing so?**
 
-::: {.column width="50%"}
-**Baglione (2019)**
+- **Baglione (2019)**: Interesting, Important, Controversial, Brief, Direct, Doable, Puzzling (optional)
 
-1. Interesting
-2. Important
-3. Controversial
-4. Brief
-5. Direct
-6. Doable
-7. (optional) Puzzling
+- **Huntington-Klein (2022)**: Consider Potential Results, Feasibility, Scale, Design and Keep It Simple!
+
 :::
-
-::: {.column width="50%"}
-**Huntington-Klein (2022)**
-
-1. Consider Potential Results
-2. Consider Feasibility
-3. Consider Scale
-4. Consider Design
-5. Keep It Simple!
-:::
-
-::::
-
-:::::
 
 ::: notes
 
@@ -308,13 +290,27 @@ Let's practice by evaluating the research questions from our research articles l
 
 **REVEAL: GROUPS, I want you to evaluate this research question using all the criteria from the readings**
 
-- Try to specify BOTH strengths AND weaknesses!
+- Make two lists on the board: Strengths vs Weaknesses
+
+- Classify the criteria under each list
 
 <br>
 
-*PRESENT and DISCUSS analyses*
+Ok groups, lists made?
 
-- *Make sure to highlight strengths AND weaknesses*
+- Next step: I want each group to revise the RQ to address AT LEAST ONE of the "weaknesses"
+
+- Write the new question on the board!
+
+<br>
+
+*SP26: All groups just narrowed the scope of the question, so you pushed them to revise again BUT this time focused EITHER on adding controversy or a puzzle element*
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+- **Which weakness(es) did you focus on and how did you address them?**
 
 <br>
 
@@ -326,35 +322,20 @@ Let's practice by evaluating the research questions from our research articles l
 
 
 
+
 ## {background-image="Images/Background-Rally_v2.png" .center}
 
 Xu (2021). To Repress or to Co‐opt? Authoritarian Control in the Age of Digital Surveillance.
 
-:::: {.columns}
+::: {.fragment}
 
-::: {.column width="50%"}
-**Baglione (2019)**
+- **Why are authoritarian governments so enthusiastic about domestic surveillance? How does digital surveillance influence government behavior and citizen well-being?**
 
-1. Interesting
-2. Important
-3. Controversial
-4. Brief
-5. Direct
-6. Doable
-7. (optional) Puzzling
+- **Baglione (2019)**: Interesting, Important, Controversial, Brief, Direct, Doable, Puzzling (optional)
+
+- **Huntington-Klein (2022)**: Consider Potential Results, Feasibility, Scale, Design and Keep It Simple!
+
 :::
-
-::: {.column width="50%"}
-**Huntington-Klein (2022)**
-
-1. Consider Potential Results
-2. Consider Feasibility
-3. Consider Scale
-4. Consider Design
-5. Keep It Simple!
-:::
-
-::::
 
 ::: notes
 
@@ -368,7 +349,11 @@ Let's do it again!
 
 <br>
 
-GROUPS, I want you to evaluate this research question using all the criteria from the readings
+**REVEAL**: GROUPS, I want you to evaluate this research question using all the criteria from the readings
+
+<br>
+
+Revise the question: Select one of the weaknesses and address it
 
 <br>
 
