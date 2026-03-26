@@ -14,11 +14,11 @@ library(readxl)
 
 ::: {.r-fit-text}
 
-**Evaluating the research questions from 394**
+**Practice Designing "Good" Research Questions**
+
+- Evaluating the research questions from PLSC 394
 
 :::
-
-<br>
 
 <br>
 
@@ -41,29 +41,12 @@ Over the last few weeks we've been reviewing the research question component of 
 
 - And how do we generate new research questions?
 
-:::
-
-
-
-## Science Requires Research Questions {background-image="Images/Background-Rally_v2.png" .center}
-
 <br>
 
-A research question **focuses** your work, **drives** your progress and let's you know when you're **done**
-
-<br>
-
-A good question...
-
-- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
-
-- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
-
-::: notes
-
-**Any questions on the research question material we've been exploring?**
+**SLIDE**: We are not alone in this exercise!
 
 :::
+
 
 
 
@@ -83,7 +66,9 @@ Currently in the Research Design class, a group of juniors in our department are
 
 This will give you a chance to see first-hand an exercise that you will be taking on in a few years
 
-- We'll try and do this style of feedback exercise a couple times this semester
+<br>
+
+**SLIDE**: The assignment prompt for 394
 
 :::
 
@@ -111,16 +96,23 @@ This is the assignment prompt Dr. VanDenBerg gave his students
 
 - My hope is that for each question we can give them something useful in terms of what we like and what needs clarification or revising
 
+<br>
+
+**SLIDE**: Our criteria
+
 :::
 
 
 
-
-## "Good" Research Questions {background-image="Images/Background-Rally_v2.png" .center}
+## Science Requires Research Questions {background-image="Images/Background-Rally_v2.png" .center}
 
 <br>
 
-### A good question...
+A research question **focuses** your work, **drives** your progress and let's you know when you're **done**
+
+<br>
+
+A good question...
 
 - is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
 
@@ -133,6 +125,76 @@ We'll use the criteria from the readings to help guide our evaluations
 - **Any questions on the criteria before we apply them?**
 
 <br>
+
+Ok, everybody take 2 minutes and read through all of the questions in the document on Canvas
+
+- Don't read their answers to the other prompts, just focus on the questions themselves
+
+- Go!
+
+<br>
+
+Alright, talk to me about the questions you just read
+
+- **Generally speaking, where they are in the process of developing a research project?**
+
+<br>
+
+Let's practice generating useful feedback as a group
+
+- Everybody read all the info we were given by RQ1 and get ready to report back your evaluation
+
+<br>
+
+*ON BOARD*
+
+1. **What is the variation they are trying to explain? What is the outcome?**
+
+2. **Give me a MINIMUM of THREE things you like about the question!**
+
+    - This might be hard, but you'd be suprised how this helps the researcher understand how other people see their topic
+    
+    - Can you draw on the Baglione criteria for this?
+    
+3. **Give me a MINIMUM of THREE concerns you would have if I asked YOU to complete this project**
+
+    - Remember, 394 is setting up a COMPLETED project in 494
+    
+    - Make sure they see the roadblocks you see!
+    
+4. **Give me a few alternative versions of the question**
+
+    - These don't have to be better, just slight tweaks or big swings
+
+<br>
+
+**Questions on the process?**
+
+<br>
+
+**SLIDE x 1** *If you can easily assign 3+ 160 students to each question*
+
+**SLIDE x 2** *If you have a ton of 394 questions*
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+**A good question...**
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+**Your assignment:**
+
+1. What is the outcome?
+2. THREE strengths
+3. THREE potential roadblocks
+4. TWO revisions of the question
+
+::: notes
 
 *Split glass into groups, one group per submitted research question*
 
@@ -152,11 +214,45 @@ Ok, time to kick off our discussions
 
 - Each group should take notes on their assigned question
 
-- At the end of class, each group will clean up the feedback and get it ready to return to each senior
-
-- Then email me it to me so I can provide the feedback to the students in 494.
+- At the end of class, each group will clean up the feedback and add it directly to the Google Doc
 
 - *PRESENT and DISCUSS each*
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+**A good question...**
+
+- is interesting, important, controversial, brief, direct, doable and puzzling (Baglione 2019)
+- considers potential results, feasibility,  scale and design (Huntington-Klein 2022)
+
+**Your assignment:**
+
+1. What is the outcome?
+2. THREE strengths
+3. THREE potential roadblocks
+4. TWO revisions of the question
+
+::: notes
+
+*Group size depends on number of students and number of questions...*
+
+- *May end up being groups each having more than one question to work on*
+
+SP26 plan on the fly
+
+- 13 questions, 23 students
+
+- We did one question as a class, so 12 to distribute
+
+- It's a lot of work per question (if done well), so 2 questions per group and each group gets more people (Class preferred that to smaller groups focused on one question each)
+
+- 6 groups (most of 4, one of 3), 2 questions per group
+
+
 
 :::
 

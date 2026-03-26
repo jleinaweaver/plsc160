@@ -31,6 +31,8 @@ Prep for Class
 
 1. Review Canvas submissions
 
+2. NOTE: NEXT class we will have a discussion about the risks of moving away from the top-20 journals. For today they should be focused only on those!
+
 <br>
 
 Welcome back from break, Let's recap!
@@ -45,6 +47,7 @@ Welcome back from break, Let's recap!
 
 ## The Science in Political Science {background-image="Images/Background-Rally_v2.png" .center}
 
+::: {.incremental}
 1. Science is a process for converting empirical observations into knowledge (e.g. the "why" of it all)
 
 2. The scientific method prioritizes transparency and replicatability
@@ -52,6 +55,7 @@ Welcome back from break, Let's recap!
 3. ALL facts have a half-life which makes higher quality facts more valuable
 
 4. Science is never finished, so, be humble in your conclusions
+:::
 
 ::: notes
 
@@ -100,9 +104,11 @@ I sincerely hope each of you has given some thought, and maybe even made some ef
 
 ## {background-image="Images/Background-Rally_v2.png" .center}
 
-::: {.r-fit-text}
+:::: {.r-fit-text}
 
 **Developing your Research Tools**
+
+::: {.incremental}
 
 - Using bibliography managers
 
@@ -113,6 +119,7 @@ I sincerely hope each of you has given some thought, and maybe even made some ef
 - Unpacking and analyzing research papers
 
 :::
+::::
 
 ::: notes
 
@@ -203,68 +210,90 @@ Essentially, you will each be writing an argument in this section that presents 
 
 
 
-## For Today {background-image="Images/Background-Rally_v2.png" .center}
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Academic Literature Search Debriefing**
+:::
 
 <br>
 
-**Gathering the Literature for your Proposal**
+::: {.incremental}
+1. Tell your partner your RQ,
 
-- Find THREE political science research articles that aim to answer your RQ
+2. Explain your search process, and
 
-- Aim for three DIFFERENT answers!
-
-- Details on Canvas
-
+3. As briefly as possible explain the three DIFFERENT answers you found
+:::
 ::: notes
 
-**Let's debrief the assignment for today: How did this go?**
+For today each of you were tasked with finding THREE political science research articles that answer your RQ
+
+- The aim was to focus on the top journals AND to gather three DIFFERENT answers to the question
 
 <br>
 
-- **Did you have any trouble finding good options in the top journals?**
+Today I want us to debrief each other on the exercise
 
-- **Do you have the sense that there is a big literature on this topic?**
-
-    - **If yes, examples?**
-    
-    - **If no, can we help the "no" students think about other searches?**
+- I'd like us to learn from what you did and how you did it!
 
 <br>
 
-PAIRS: Tell your partner your RQ and show them the three articles you found
+Just to warm up, I'd like you to pair off
 
-- Your job is to convince them that these three articles answer your RQ
+- Think of this like a chance to focus in on your project before we discuss it as a class
+
+<br>
+
+**REVEAL x 3**: Your task
 
 - Go!
 
 <br>
 
-Repeat with a new partner!
+Good warm-up!
 
-<br>
-
-**SLIDE**: Ok, let's go around the room and hear about some of the cool research you've found!
+- **SLIDE**: Now let's widen this debriefing out
 
 :::
 
 
 
-## Share what you've found so far {background-image="Images/Background-Rally_v2.png" .center}
+## {background-image="Images/Background-Rally_v2.png" .center}
 
 ::: {.r-fit-text}
-1. What is your RQ?
-
-2. How did you search for this topic?
-
-3. Tell us about ONE of the articles you found
+**Academic Literature Search Debriefing**
 :::
-::: notes
-
-For number 2, give us the kinds of keywords or topics you searched for
 
 <br>
 
-*PRESENT and DISCUSS each*
+::: {.fragment}
+
+1. Tell us your RQ
+
+2. How did you search for answers?
+
+3. BRIEFLY, describe the three DIFFERENT answers you found
+
+4. What challenges do you face for finding more literature?
+
+:::
+
+::: notes
+
+**REVEAL**: Slight tweak to the prompts
+
+- I want each of you to report back on your process and findings
+
+- This is our chance to learn a ton about the world, AND 
+
+- To help each other in the next steps of the lit review!
+
+<br>
+
+*Let this be led by the most eager. It's up to each of them to take the initiative!*
+
+- *PRESENT and DISCUSS each*
 
 <br>
 

@@ -93,33 +93,160 @@ Talk to me about this second effort to find relevant literature
 
 <br>
 
-- Google Scholar: cited by, related to
+Now that you have your initial searches under your belt, let's talk about moving off the top-20 and outside the political science discipline
 
-- Search the bibliography of the articles you already have
+- **SLIDE**
 
-- other?
+:::
 
-<br>
 
-Ok, same exercise as last class
 
-- Pair off
 
-- PAIRS: Tell your partner your RQ and show them the three NEW articles you found
+## {background-image="Images/Background-Rally_v2.png" .center}
 
-- Your job is to convince them that these three articles answer your RQ
-
-- Go!
+::: {.r-fit-text}
+**Widening your Search for Relevant Academic Literature**
+:::
 
 <br>
 
-Repeat with a new partner!
+1. What are the risks of moving away from the top-20 political science lists?
+
+::: notes
+
+There is ALWAYS a risk to moving to lower-tier political science journals
+
+- Even those that claim to be peer-reviewed and indexed by the major tracking services is not a guarantee of quality
+
+- They tend to have less visibility which means weaker levels of peer-review (errors less likely to be caught)
+
+- With less ability to draw in experts for oversight, the journals are more vulnerable to publishing bad research
+
+- And some of these journals are actually predatory, meaning their aim is to generate money from publishing so they will publish anything if you pay them
 
 <br>
 
-Ok, let's get work on using these articles you've found to learn about your RQ
+When are lower-tier journals worth it?
 
-- **SLIDE**: Specifically, next week you each will develop an annotated bibliography
+- Case 1: You know the researchers who wrote the article have a track record of high quality, top-tier articles AND the article has a bunch of citations
+
+- Case 2: The subject of the journal is VERY narrow and it is small because of the specificity of the journal
+
+    - If you want to publish a research article looking at a specific Irish election you can absolutely publish in Irish Political Studies
+    
+    - Most bigger journals only want broadly theoretical work, so unless you are using that election to say something about elections in all democracies there's a limited audience for it.
+
+<br>
+
+And that's it.
+
+- Otherwise and until you have deeper expertise, it is simply too risky
+
+<br>
+
+**Questions on this?**
+
+<br>
+
+**SLIDE**: so, what about non-poli sci research?
+
+:::
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Widening your Search for Relevant Academic Literature**
+:::
+
+<br>
+
+1. What are the risks of moving away from the top-20 political science lists?
+
+2. What about research from other disciplines?
+
+::: notes
+
+I've agreed to let you include non-political science research as no more than 1/3 of your assignments
+
+- There is useful, relevant knowledge being generated in other disciplines and we'd be fools not to consider it
+
+<br>
+
+HOWEVER, adding non-political science research to your work at this point is VERY risky
+
+1. Different disciplines have different areas of focus and that has led them to develop theoretical frameworks with very narrow applications
+
+    - If your job is to add to our knowledge in political science, meaning to create something valuable for other experts, then it needs to talk directly to those experts building from the theoretical frameworks we use
+    
+2. Different disciplines, because of their different focuses, have developed research methodologies that don't necessarily work in other fields
+
+    - Remember, all measurement includes error and research design is about choosing where to minimize error and where to accept it
+    
+    - Other disciplines will accept error in the places that allow them to answer their questions which will almost always be in the wrong place for us
+
+3. As a budding political science researcher, you need to be learning who the experts are in our field and learning to write to them
+
+    - Those are future employers and advisers in graduate school or in government jobs or at a non-profit
+
+<br>
+
+As you deepen your expertise, you will learn how to draw on outside research
+
+- But we're not there yet
+
+<br>
+
+**Any questions on all of this?**
+
+<br>
+
+**SLIDE**: Ok, back to our work
+
+:::
+
+
+
+## Developing your Literature Review {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+::: {.fragment}
+
+1. What is your RQ?
+
+2. As concisely as possible, what are the DIFFERENT answers to this question that you have found?
+
+:::
+
+::: notes
+
+I want to run through the room again to hear where you are in the process
+
+- **REVEAL**
+
+- That means RQs and competing answers
+
+<br>
+
+Last class we did this and some of your "answers" to the question weren't really answers, right?
+
+- More like context or offering other interesting tangents for your question
+
+- Those can also be useful for your project
+
+- BUT, my interest at this point is to see if you can simply explain the academic debate around your question
+
+- If you can't, no worries that's part of the process, but now you know what you're looking for next
+
+<br>
+
+Ok, let's zip around the room to hear questions and competing answers
+
+<br>
+
+**SLIDE**: Next steps!
 
 :::
 
@@ -141,7 +268,7 @@ Ok, let's get work on using these articles you've found to learn about your RQ
 
 ::: notes
 
-Everybody take a look at the assignment prompt for next week
+Everybody take a look at the assignment prompt for next class
 
 <br>
 
