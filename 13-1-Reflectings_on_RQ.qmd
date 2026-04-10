@@ -173,11 +173,19 @@ Your next job is to take your expertise back to the research question!
 
 <br>
 
-### Has your specific question been thoroughly asked and answered in the literature already?
+### How does your chosen research question compare to the RQs in the articles from your LR? 
+
+- How similar? 
+
+- How different?
 
 ::: notes
 
-**So, did anybody discover that their research question has been asked and answered?**
+**So, did anybody discover that their research question had been asked and answered in the lit?**
+
+- I know people made modifications along the way!
+
+- How have you adapted so far?
 
 <br>
 
@@ -189,31 +197,7 @@ There is no shame in this!
 
 <br>
 
-**SLIDE**: Big question tweaked
-
-:::
-
-
-
-## Big Question (redux) {background-image="Images/Background-Rally_v2.png" .center}
-
-<br>
-
-### How close is your question to the asked and answered questions in the literature?
-
-::: notes
-
-**Is anybody's question uncomfortably close to an asked and answered question?**
-
-<br>
-
-This is a VERY common outcome from completing a literature review
-
-- The good news is that your LR is the key to fixing the RQ!
-
-<br>
-
-**SLIDE**: Next step
+**SLIDE**: So, what do we know?
 
 :::
 
@@ -249,51 +233,62 @@ Ok, get ready to report back on this:
 
 <br>
 
-### Based on your research, what do we NOT understand well in your topic? 
+### Based on your research, what THREE things do we NOT understand well in your topic? 
 
 <br>
 
-::: {.fragment}
-
 ### Brainstorm a RQ for each of the identified gaps in our knowledge
 
+::: notes
+
+For today I asked each of you to identify the gaps in our knowledge and then to propose RQs that would target each gap
+
+- **How did that go?**
+
+<br>
+
+Form SMALL GROUPS (3 people) and share your lists with each other
+
+- Walk the group through the three gaps in the literature you found and the questions you have proposed to target them
+
+- See which question and gap the group thinks sounds the most interesting
+
+- Go!
+
+<br>
+
+**SLIDE**: Take a minute to reflect on the feedback from your group and get ready to present to the class your revised RQ
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+::: {.r-fit-text}
+**Revised Research Questions**
+
+1. What is your topic of interest?
+
+2. What is the gap in the knowledge?
+
+3. What is your revised RQ?
 :::
 
 ::: notes
 
-Ok, now I want you to make us a list
+I want to run around the room and briefly hear each of your new questions
 
-- What do we NOT understand well in your topic?
-
-- Let's aim for a list of AT LEAST five things we do not know
-
-- If you're looking for help on this, consider the "future research needs" mentioned in the conclusions of most research articles
-
-- Go!
+- So, get ready to report back these three things
 
 <br>
 
-**Does everybody have a list of AT LEAST FIVE unknowns drawn from the literature you've been exploring?**
+*PRESENT and DISCUSS each (briefly)*
 
 <br>
 
-**REVEAL**: Your next job is to write research questions that specifically target these gaps
-
-- Don't agonize over the perfect wording here, just brainstorm questions that would help us generate new knowledge!
-
-- Go!
-
-<br>
-
-Let's hear what you've come up with!
-
-- Everybody share one or two of the new questions from your lists that you like the best.
-
-- Let's help each other shape these into good research questions!
-
-<br>
-
-**SLIDE**: Back to the revised paper assignment
+**SLIDE**: Let's take this momentum back to your proposals!
 
 :::
 

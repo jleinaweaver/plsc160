@@ -43,15 +43,56 @@ Prep for Class
 
 <br>
 
-An argument paper version of your annotated bibliography
+An argument paper version of your AB that:
 
-- Make **a convincing argument** that your project builds on the academic literature in useful ways
+::: {.incremental}
 
-- **Organize AND analyze** the state of our knowledge on your question
+1. Makes a **convincing argument** your project builds on the academic literature in useful ways
+
+2. **Organizes AND analyzes** the state of our knowledge on your question
+
+3. Ends by **connecting** the literature to the theory section of your paper
+
+:::
 
 ::: notes
 
+**REVEAL x 4**: Refresher
+
+<br>
+
 **Any questions on the big picture aims of a literature review?**
+
+<br>
+
+**Questions on these aims?**
+
+<br>
+
+Let's move from the big picture to more detail
+
+- **SLIDE**: Baglione gives a set of four fundamentals we can use to make sure our lit review is hitting all the right elements
+
+:::
+
+
+
+## Baglione (2019) Chapter 4 {background-image="Images/Background-Rally_v2.png" .center}
+
+<br>
+
+**The Fundamentals of the Literature Review**
+
+1. What are the relevant schools?
+2. How does each answer the question?
+3. Strengths and weaknesses of each school?
+4. Which is "best" for your project?
+
+::: notes
+
+This is not how we necessarily organize the LR, but it is a series of questions the reader of your LR should be able to answer
+
+- **Make sense?**
 
 <br>
 
@@ -145,9 +186,9 @@ Go!
 
 **Introduction**
 
-- Question: "What are the competing answers to this research question in the academic literature?"
+- Question: What are the competing answers to your RQ in the academic literature?
 
-- Thesis idea is that your proposal builds on the academic literature
+- Thesis: Your proposal builds on the academic literature
 
 **Premise 1: Explain AND analyze School 1**
 
@@ -157,7 +198,7 @@ Go!
 
 **Conclusion**
 
-- The "best" school for your project moving forward is...
+- Wrap it up and identify the path forward (e.g. your proposal will focus on School X because...)
 
 ::: notes
 

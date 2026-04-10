@@ -43,11 +43,14 @@ Prep for Class
 
 <br>
 
-An argument paper version of your annotated bibliography
+An argument paper version of your AB that:
 
-- Make **a convincing argument** that your project builds on the academic literature in useful ways
+1. Makes a **convincing argument** your project builds on the academic literature in useful ways
 
-- **Organize AND analyze** the state of our knowledge on your question
+2. **Organizes AND analyzes** the state of our knowledge on your question
+
+3. Ends by **connecting** the literature to the theory section of your paper
+
 
 ::: notes
 
@@ -77,7 +80,7 @@ An argument paper version of your annotated bibliography
 
 <br>
 
-This paper is due at the end of the week, so let's get some feedback!
+The paper is due tomorrow, so let's get some feedback and start polishing that draft.
 
 <br>
 
@@ -91,9 +94,9 @@ This paper is due at the end of the week, so let's get some feedback!
 
 **Introduction**
 
-- Question: "What are the competing answers to this research question in the academic literature?"
+- Question: What are the competing answers to your RQ in the academic literature?
 
-- Thesis idea is that your proposal builds on the academic literature
+- Thesis: Your proposal builds on the academic literature
 
 **Premise 1: Explain AND analyze School 1**
 
@@ -103,7 +106,7 @@ This paper is due at the end of the week, so let's get some feedback!
 
 **Conclusion**
 
-- The "best" school for your project moving forward is...
+- Wrap it up and identify the path forward (e.g. your proposal will focus on School X because...)
 
 ::: notes
 
@@ -111,41 +114,10 @@ Ok, go read EVERYONE'S rough drafts
 
 - Get and give feedback!
 
-- Go!
-
 <br>
 
-**SLIDE**: For next class
+Take the time now to focus on revising and polishing your draft
 
-:::
-
-
-
-
-## For Next Class {background-image="Images/Background-Rally_v2.png" .center}
-
-<br>
-
-**Reflections on your Research Question**
-
-- Reflect on your lit review and apply your new expertise to evaluating your RQ paper
-
-- Details on Canvas
-
-::: notes
-
-Everybody open up the assignment on Canvas and review the details
-
-- **Questions on the assignment?**
-
-<br>
-
-Canvas ASSIGNMENT: Reflections on your RQ
-
-Now that you have completed your literature review you should have a much deeper understanding of your research question. For class today I want you to reflect on your first paper (Important RQ) in terms of your added work
-
-1. How does your chosen research question compare to the RQs in the articles from your LR? How similar? How different?
-
-2. Based on your work in the LR, what are the most substantial gaps in our knowledge around your topic? In other words, what specific aspects of the topic need more investigation or exploration? Does your current RQ target those important gaps? Why or why not?
+- Let's get it ready to submit!
 
 :::

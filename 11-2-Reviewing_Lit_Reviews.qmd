@@ -31,6 +31,11 @@ Prep for Class
 
 1. Review Canvas submissions
 
+2. Flag really good submissions so you can direct students to them
+
+    - i. three clear, separate sentences
+    - ii. Each answer is specific (not just named schools but with explanations of what they mean)
+
 <br>
 
 Let's keep working towards developing your literature review
@@ -49,27 +54,35 @@ Let's keep working towards developing your literature review
 
 <br>
 
-An argument paper version of your annotated bibliography
+An argument paper version of your AB that:
 
-- Make **a convincing argument** that your project builds on the academic literature in useful ways
+::: {.incremental}
 
-- **Organize AND analyze** the state of our knowledge on your question
+1. Makes a **convincing argument** your project builds on the academic literature in useful ways
+
+2. **Organizes AND analyzes** the state of our knowledge on your question
+
+3. Ends by **connecting** the literature to the theory section of your paper
+
+:::
 
 ::: notes
 
-Big picture the literature review is an argument paper version of your annotated bibliography
-
-- Your thesis focuses on convincing the reader that your project is connected to AND advances the state of our knowledge
-
-- MUST both organize the lit AND analyze it for the non-expert reader
+**REVEAL x 3**
 
 <br>
 
-**Big picture make sense?**
+Big picture the literature review is an argument paper version of your annotated bibliography that serves as a bridge between the introduction and the theory sections
 
 <br>
 
-**SLIDE**: Baglione usefully gave us a set of fundamentals we can use to make sure our lit review is hiting all the right elements
+**Questions on these aims?**
+
+<br>
+
+Let's move from the big picture to more detail
+
+- **SLIDE**: Baglione gives a set of four fundamentals we can use to make sure our lit review is hitting all the right elements
 
 :::
 
@@ -88,7 +101,46 @@ Big picture the literature review is an argument paper version of your annotated
 
 ::: notes
 
-**Questions on any of these "fundamentals" or anything else about the LR?**
+This is not how we necessarily organize the LR, but it is a series of questions the reader of your LR should be able to answer
+
+- **Make sense?**
+
+<br>
+
+**SLIDE**: Now let's zoom all the way in on the detail
+
+:::
+
+
+
+
+## {background-image="Images/Background-Rally_v2.png" .center}
+
+**Introduction**
+
+- Question: What are the competing answers to your RQ in the academic literature?
+
+- Thesis: Your proposal builds on the academic literature
+
+**Premise 1: Explain AND analyze School 1**
+
+**Premise 2: Explain AND analyze School 2**
+
+**Premise 3: Explain AND analyze School 3**
+
+**Conclusion**
+
+- Wrap it up and identify the path forward (e.g. your proposal will focus on School X because...)
+
+::: notes
+
+NEXT WEEK, so NOT YET, this is the outline you will be producing
+
+- This is what you are working torwards producing
+
+<br>
+
+**Questions on the structure of the LR paper as I am assigning it?**
 
 <br>
 
@@ -106,45 +158,60 @@ Big picture the literature review is an argument paper version of your annotated
 
 1. How is each article's LR organized (e.g. "schools")?
 
-2. Strengths and weaknesses of each LR?
+2. What are the strengths of this school?
+
+3. What are the weaknesses of this school?
 
 ::: notes
 
 For today, each of you reviewed and evaluated the literature reviews in the articles in your bibliography
 
-- **Is everybody ready to go with this?**
+<br>
+
+*Point students to the really strong submissions*
+
+I want to make sure everyone is exposed to LOTS of different ways of organizing schools of thought in a research paper
+
+- I also want to highlight submissions that did a really nice job providing useful and specific details
+
+- Go review...
 
 <br>
 
-Ok, I want you to go see everybody elses' work for today
+Go back to your submission for today
 
-- I want to make sure everyone is exposed to LOTS of different ways of organizing schools of thought in a research paper
+- Can you make yours look more like the models?
 
-- Use this as a chance to get an overview of what's out there and then we'll come back together to discuss
-
-- Go!
+- e.g. three distinct sentences, each with specific details
 
 <br>
 
 Ok, let's touch base on your work
 
-1. **Did anybody have a political science research article with no LR?** 
+**Did anybody have a political science research article with no LR?** 
 
-    - (If yes, let's check! It might be folded into the theory section)
-
-2. **What were the most common types of "schools" across your articles?** 
+- (If yes, let's check! It might be folded into the theory section)
     
-    - (e.g. ways of grouping the answers, think of the list from last class of ways to generate schools)
-
-3. **Which approaches to the LR did you find the easiest to read and understand?**
-
-    - Share examples and explain what they did that made it so accessible to you.
+- Alternatively, that can be a sign that that article isn't as helpful for your project as you thought!
 
 <br>
 
-**SLIDE**: Ok, time to start making some decisions
+**What were the most common types of "schools" across your articles?** 
+    
+- (e.g. ways of grouping the answers, think of the list from last class of ways to generate schools)
+
+<br>
+
+**Which approaches to the LR did you find the easiest to read and understand?**
+
+- Share examples and explain what they did that made it so accessible to you.
+
+<br>
+
+**SLIDE**: Next job
 
 :::
+
 
 
 
@@ -156,37 +223,33 @@ Ok, let's touch base on your work
 
 :::
 
-- What are the different ways you could group your references?
+::: {.incremental}
 
-- Name each and explain the logic of the grouping
+1. Create a NEW document
+
+2. Write your RQ across the top
+
+3. List all of the "schools" you found in your AB including:
+
+    - A clear label for the school, and
+    
+    - A complete sentence explanation of what the common elements are in this school
+    
+:::
 
 ::: notes
 
-Time for everyone to focus in on their own project proposal
+Next task, make a new document and use it to compile a list of all the different schools of thought you identified
 
-- Let's do some brainstorming
-
-- Take some time and write down all of the ways you can think of, or that you saw in your literature
-
-- Next to each make sure to explain the logic of the grouping
-
-- Go!
+- Make sure each school is named (e.g. give it a clear label) and explained (e.g. what unifies the articles in this school?)
 
 <br>
 
-Share with the people around you and get feedback on your options
+Share your new document with everyone else and get their feedback
 
-- Let's help each other get to the final choices!
-
-- Aim is approximately three schools of thought (absolute minimum is two, BUT three is strongly preferred!)
+- If you had to pick from each others' lists, what would you pick and why?
 
 - Go!
-
-<br>
-
-**Ok, how are we doing?**
-
-- **Everybody have their three?**
 
 <br>
 
@@ -203,9 +266,11 @@ Share with the people around you and get feedback on your options
 
 ::: {.r-fit-text}
 
-**The Fundamentals of your Literature Review**
+**The Fundamentals of YOUR Literature Review**
 
 - Name, explain and analyze your schools of thought
+
+- Introduce your thesis for the LR
 
 - Details on Canvas
 
@@ -228,7 +293,7 @@ Canvas ASSIGNMENT: The Fundamentals of your Literature Review
 	  ii. What are the strengths of this school? (minimum three complete ideas)
 	  iii. What are the weaknesses of this school? (minimum three complete ideas)
 
-3. Which school of thought is "best" for your project moving forward? (3+ sentences)
+3. Explain the bottom line thesis of your LR: Which school of thought is "best" for your project moving forward? (3+ sentences)
 
 
 :::

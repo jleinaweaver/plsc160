@@ -31,7 +31,49 @@ Prep for Class
 
 1. Make sure you have the P394 research questions
 
+2. IDEA evals day
+
 <br>
+
+:::
+
+
+
+## IDEA Evaluations {background-image="Images/background-worldmap4.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+[https://drury.campuslabs.com/eval-home/](https://drury.campuslabs.com/eval-home/)
+:::
+
+
+
+## Today's Agenda {background-image="Images/Background-Rally_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Evaluating the research questions from 394**
+
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Spring 2026)
+:::
+
+::: notes
 
 The students in PLSC 394 have continued to work on their research projects and so we're going to review and giving feedback based on where they are now
 
